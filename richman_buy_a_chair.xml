@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-29 10:16">
+<yml_catalog date="2026-09-30 10:29">
   <shop>
     <name>Richman</name>
     <company>Richman</company>
@@ -202,7 +202,7 @@
       <video></video>
       </offer>
         <offer id="ADD0002355" available="true">
-        <stock_quantity>78</stock_quantity>
+        <stock_quantity>77</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-blast-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-sitka-chorna-sira/</url>
         <price_opt>3126</price_opt>
@@ -258,7 +258,7 @@
       <video></video>
       </offer>
         <offer id="R00000049770" available="true">
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-vektor-pro-komplektaciya-khrom-mekhanizm-m-2-anyfix-obbivka-sitka-sira/</url>
         <price_opt>5724</price_opt>
@@ -827,8 +827,8 @@
         <param name="Об'єм пакування:">0,25 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000047396" available="true">
-        <stock_quantity>3</stock_quantity>
+        <offer id="R00000047396" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-integro-komplektaciya-me-chornijj-mekhanizm-m-1-tilt-obbivka-chorna/</url>
         <price_opt>3924</price_opt>
@@ -2553,7 +2553,7 @@
       <video></video>
       </offer>
         <offer id="R00000042143" available="true">
-        <stock_quantity>45</stock_quantity>
+        <stock_quantity>43</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-bruks-komplektaciya-khrom-mekhanizm-piastra-obbivka-dzhins/</url>
         <price_opt>3690</price_opt>
@@ -2758,7 +2758,7 @@
       <video></video>
       </offer>
         <offer id="R00000042144" available="true">
-        <stock_quantity>31</stock_quantity>
+        <stock_quantity>25</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-bruks-komplektaciya-khrom-mekhanizm-piastra-obbivka-shokolad/</url>
         <price_opt>3690</price_opt>
@@ -3747,7 +3747,7 @@
       <video></video>
       </offer>
         <offer id="IM0000007" available="true">
-        <stock_quantity>57</stock_quantity>
+        <stock_quantity>56</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-kongres-komplektaciya-khrom-mekhanizm-m-2-shirokijj-anyfix-wide-obbivka-chornijj/</url>
         <price_opt>12096</price_opt>
@@ -3894,7 +3894,7 @@
       <video></video>
       </offer>
         <offer id="IM0000009" available="true">
-        <stock_quantity>33</stock_quantity>
+        <stock_quantity>34</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-kongres-komplektaciya-khrom-mekhanizm-m-2-shirokijj-anyfix-wide-obbivka-shkira-lyuks-chorna-kombinovana/</url>
         <price_opt>18228</price_opt>
@@ -5202,8 +5202,8 @@
         <param name="Об'єм пакування:">0,005 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000055431" available="false">
-        <stock_quantity>0</stock_quantity>
+        <offer id="R00000055431" available="true">
+        <stock_quantity>1</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/pidstavka-dlya-kvitiv-obrijj/</url>
         <price_opt>414</price_opt>
@@ -18460,6 +18460,41 @@
         <param name="Об'єм упаковки:">0,1 м3</param>
       <video></video>
       </offer>
+        <offer id="R00000049908" available="false">
+        <stock_quantity>0</stock_quantity>
+        <origin>Domestik</origin>
+        <url>https://richmangroup.com.ua/product/puf-katrin-obbivka-zhasmin-21/</url>
+        <price_opt>2076</price_opt>
+        <price>2910</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>8</categoryId>
+        <vendor>Richman</vendor>
+        <uktzed>9404</uktzed>
+        <warranty>18 місяців</warranty>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/puf-katrin-4042-zhasmin-21-6.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/puf-katrin-4042-zhasmin-21-3.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/puf-katrin-4042-zhasmin-21-8.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/puf-katrin-4042-zhasmin-21-9.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/puf-katrin-4042-zhasmin-21-10.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/puf-katrin-4042-zhasmin-21-11.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/puf-katrin-4042-zhasmin-21-12.jpg</picture>
+        <name_ua_full>Пуф Катрін 40*42 Жасмін 21</name_ua_full>
+        <name_ua>Пуф Richman Катрін Оббивка Жасмін 21</name_ua>
+        <name>Пуф Richman Катрин Обивка Жасмин 21</name>
+        <description_ua><![CDATA[Пуф Richman «Катрін» це гідна прикраса під будь-який інтер’єр, навіть для самих вибагливих поціновувачів стилю. Ергономічний, компактний та дуже симпатичний пуф зручно використовувати в спальній кімнаті, вітальні, кухні та навіть дитячій. Через округлі форми він є абсолютно безпечним, навіть для самих маленьких дітей. Вишуканий дизайн пуфа підходить як під сучасний інтер’єр, так і під класичний. Цей гарний елемент декору надає приміщенню особливого затишку. Крім цих переваг, ви також можете обрати оббивку за вашим бажанням серед 350 колекцій різноманітних тканин! Тканини виготовляються провідними українськими виробниками. Меблі від Richman — це поєднання високої якості, неперевершеного дизайну та помірної ціни. Придбавши меблі від провідного українського виробника ви робите прекрасний вибір для будинку чи вашого бізнесу.]]></description_ua>
+        <description><![CDATA[Пуф Richman «Катрин» это достойное украшение под любой интерьер, даже для самых привередливых ценителей стиля. Эргономичный, компактный и очень симпатичный пуф удобно использовать в спальной комнате, гостиной, кухне и даже детской. Из-за округлых форм он абсолютно безопасен, даже для самых маленьких детей. Изысканный дизайн пуфа подходит как под современный интерьер, так и под классический. Этот красивый элемент декора придает помещению особый уют. Кроме этих преимуществ, вы можете выбрать обивку по вашему желанию среди 350 коллекций разнообразных тканей! Ткани производятся ведущими украинскими производителями. Мебель от Richman — это сочетание высокого качества, непревзойденного дизайна и умеренной цены. Приобретая мебель от ведущего украинского производителя, вы делаете прекрасный выбор для дома или вашего бизнеса.]]></description>
+        <param name="Модель:">Катрін</param>
+        <param name="Матеріал каркасу:">Дерево</param>
+        <param name="Матеріал оббивки:">Велюр</param>
+        <param name="Колір оббивки:">Жасмін 21</param>
+        <param name="Гарантійний термін:">18 місяців</param>
+        <param name="Висота виробу:">420 мм</param>
+        <param name="Ширина виробу:">400 мм</param>
+        <param name="Довжина виробу:">400 мм</param>
+        <param name="Габарити упаковки:">450 x 450 x 500 мм</param>
+        <param name="Об'єм упаковки:">0,1 м3</param>
+      <video></video>
+      </offer>
         <offer id="R00000047625" available="false">
         <stock_quantity>0</stock_quantity>
         <origin>Domestik</origin>
@@ -29654,6 +29689,63 @@
         <param name="Об'єм пакування:">0,95 м3</param>
       <video></video>
       </offer>
+        <offer id="R00000060681" available="false">
+        <stock_quantity>0</stock_quantity>
+        <origin>Domestik</origin>
+        <url>https://richmangroup.com.ua/product/divan-klarus-komplektaciya-kut-livijj-obbivka-drim-velvet-20224/</url>
+        <price_opt>8562</price_opt>
+        <price>11988</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4</categoryId>
+        <vendor>Richman</vendor>
+        <uktzed>9401 61 00 00</uktzed>
+        <warranty>18 місяців</warranty>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-klarus-kut-livyj-nizhky-chorni-drim-velvet-20224-4.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-klarus-kut-livyj-nizhky-chorni-drim-velvet-20224-22.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-klarus-kut-livyj-nizhky-chorni-drim-velvet-20224-2.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-klarus-kut-livyj-nizhky-chorni-drim-velvet-20224-6.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-klarus-kut-livyj-nizhky-chorni-drim-velvet-20224-8.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-klarus-kut-livyj-nizhky-chorni-drim-velvet-20224-3.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-klarus-kut-livyj-nizhky-chorni-drim-velvet-20224-1.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-klarus-kut-livyj-nizhky-chorni-drim-velvet-20224-5.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-klarus-kut-livyj-nizhky-chorni-drim-velvet-20224-7.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-klarus-kut-livyj-nizhky-chorni-drim-velvet-20224-9.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-klarus-kut-livyj-nizhky-chorni-drim-velvet-20224-10.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-klarus-kut-livyj-nizhky-chorni-drim-velvet-20224-11.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-klarus-kut-livyj-nizhky-chorni-drim-velvet-20224-12.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-klarus-kut-livyj-nizhky-chorni-drim-velvet-20224-13.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-klarus-kut-livyj-nizhky-chorni-drim-velvet-20224-14.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-klarus-kut-livyj-nizhky-chorni-drim-velvet-20224-15.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-klarus-kut-livyj-nizhky-chorni-drim-velvet-20224-16.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-klarus-kut-livyj-nizhky-chorni-drim-velvet-20224-17.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-klarus-kut-livyj-nizhky-chorni-drim-velvet-20224-18.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-klarus-kut-livyj-nizhky-chorni-drim-velvet-20224-19.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-klarus-kut-livyj-nizhky-chorni-drim-velvet-20224-20.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-klarus-kut-livyj-nizhky-chorni-drim-velvet-20224-21.jpg</picture>
+        <name_ua_full>Диван Кларус Кут Лівий Ніжки Чорні Дрім Вельвет 20224</name_ua_full>
+        <name_ua>Диван Richman Кларус Комплектація Кут Лівий Оббивка Дрім Вельвет 20224</name_ua>
+        <name>Диван Richman Кларус Комплектация Угол Левый Обивка Дрим Вельвет 20224</name>
+        <description_ua><![CDATA[Диван «Кларус» — сучасний модульний диван із лаконічним дизайном, створений для комфортного використання в житлових та комерційних просторах. Завдяки простим формам і стриманій естетиці модель легко поєднується з різними стилями інтер’єру — від мінімалізму та лофту до сучасної класики. Конструкція дивану побудована за модульним принципом, що дозволяє обирати оптимальну конфігурацію залежно від потреб і площі приміщення. Диван може бути виконаний у вигляді: одинарного модуля одинарного модуля зі спинкою кутового варіанту Основу дивану становить міцний внутрішній каркас, розрахований на інтенсивну експлуатацію. Сидіння має комфортне м’яке наповнення, яке забезпечує зручну посадку та зберігає форму з часом. У моделях зі спинкою передбачена ергономічна підтримка спини для підвищеного комфорту. Оббивка доступна в кількох варіантах: екошкіра, велюр, замша або букле. Матеріали відзначаються зносостійкістю, приємні на дотик та прості у догляді. Широкий вибір фактур і кольорів дозволяє підібрати диван відповідно до індивідуальних побажань і концепції інтер’єру. Диван «Кларус» встановлений на металевих ніжках чорного кольору, які надають конструкції стабільності та візуальної легкості. Піднята основа полегшує прибирання і робить модель практичною для щоденного використання. Завдяки поєднанню універсального дизайну, якісних матеріалів та продуманої конструкції, диван «Кларус» є функціональним і надійним рішенням для дому, офісів, зон очікування, кафе, ресторанів і готельних просторів. Меблі від Richman — це поєднання високої якості, неперевершеного дизайну та помірної ціни. Придбавши меблі від провідного українського виробника ви робите прекрасний вибір для будинку чи вашого бізнесу. Зверніть увагу: відтінки кольорів товарів на фотографіях можуть незначно відрізнятися від реальних через індивідуальні налаштування екранів (телефонів, планшетів, комп’ютерів), освітлення під час зйомки та інші фактори. Ми прагнемо передати зовнішній вигляд товарів якомога точніше, але незначні візуальні відмінності можливі.]]></description_ua>
+        <description><![CDATA[Диван «Кларус» — современный модульный диван с лаконичным дизайном, созданный для комфортного использования в жилых и коммерческих пространствах. Благодаря простым формам и сдержанной эстетике модель легко сочетается с различными стилями интерьера — от минимализма и лофта до современной классики. Конструкция дивана выполнена по модульному принципу, что позволяет подобрать оптимальную конфигурацию в зависимости от потребностей и площади помещения. Модель может быть выполнена в виде одинарного модуля, одинарного модуля со спинкой углового варианта Основу дивана составляет прочный внутренний каркас, рассчитанный на интенсивную эксплуатацию. Сиденье оснащено комфортным мягким наполнением, обеспечивающим удобную посадку и сохранение формы со временем. В моделях со спинкой предусмотрена эргономичная поддержка спины для дополнительного комфорта. Обивка доступна в нескольких вариантах: экокожа, велюр, замша или букле. Материалы отличаются износостойкостью, приятны на ощупь и просты в уходе. Широкий выбор фактур и цветовых решений позволяет подобрать диван в соответствии с индивидуальными предпочтениями и концепцией интерьера. Диван «Кларус» установлен на металлических ножках черного цвета, которые обеспечивают устойчивость конструкции и придают модели визуальную легкость. Приподнятое основание облегчает уборку и делает диван практичным для ежедневного использования. Благодаря сочетанию универсального дизайна, качественных материалов и продуманной конструкции, диван «Кларус» является функциональным и надежным решением для дома, офисов, зон ожидания, кафе, ресторанов и гостиничных пространств. Мебель от Richman – это сочетание высокого качества, непревзойденного дизайна и умеренной цены. Приобретая мебель от ведущего украинского производителя, вы делаете прекрасный выбор для дома или вашего бизнеса. Обратите внимание: оттенки цветов товаров на фотографиях могут незначительно отличаться от реальных из-за индивидуальных настроек экранов (телефонов, планшетов, компьютеров), освещения во время съёмки и других факторов. Мы стремимся как можно точнее передать внешний вид товаров, однако незначительные визуальные отличия возможны.]]></description>
+        <param name="Модель:">Кларус</param>
+        <param name="Комплектація виробу:">Кут Лівий</param>
+        <param name="Матеріал оббивки:">Велюр</param>
+        <param name="Колір оббивки:">Дрім Вельвет 20224</param>
+        <param name="Матеріал ніжок:">Метал</param>
+        <param name="Колір ніжок:">Чорний</param>
+        <param name="Гарантійний термін:">18 місяців</param>
+        <param name="Висота виробу:">840 мм</param>
+        <param name="Ширина виробу:">860 мм</param>
+        <param name="Глибина виробу:">770 мм</param>
+        <param name="Висота від полу до сидіння:">430 мм</param>
+        <param name="Висота спинки:">410 мм</param>
+        <param name="Глибина сидіння:">580 мм</param>
+        <param name="Ширина стдіння:">670 мм</param>
+        <param name="Висота підлокітника:">310 мм</param>
+        <param name="Товщина підлокітника:">190 мм</param>
+        <param name="Кількість виробів у пакуванні:">1</param>
+      <video></video>
+      </offer>
         <offer id="R00000056925" available="true">
         <stock_quantity>1</stock_quantity>
         <origin>Domestik</origin>
@@ -29869,6 +29961,58 @@
         <param name="Ширина стдіння:">670 мм</param>
         <param name="Висота підлокітника:">310 мм</param>
         <param name="Товщина підлокітника:">190 мм</param>
+        <param name="Кількість виробів у пакуванні:">1</param>
+      <video></video>
+      </offer>
+        <offer id="R00000060680" available="false">
+        <stock_quantity>0</stock_quantity>
+        <origin>Domestik</origin>
+        <url>https://richmangroup.com.ua/product/divan-klarus-komplektaciya-odinarnijj-zi-spinkoyu-obbivka-drim-velvet-20224/</url>
+        <price_opt>6768</price_opt>
+        <price>9480</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4</categoryId>
+        <vendor>Richman</vendor>
+        <uktzed>9401 61 00 00</uktzed>
+        <warranty>18 місяців</warranty>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-klarus-odynarnyj-zi-spynkoyu-nizhky-chorni-drim-velvet-20224-4.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-klarus-odynarnyj-zi-spynkoyu-nizhky-chorni-drim-velvet-20224-20.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-klarus-odynarnyj-zi-spynkoyu-nizhky-chorni-drim-velvet-20224-2-1.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-klarus-odynarnyj-zi-spynkoyu-nizhky-chorni-drim-velvet-20224-6-1.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-klarus-odynarnyj-zi-spynkoyu-nizhky-chorni-drim-velvet-20224-8-1.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-klarus-odynarnyj-zi-spynkoyu-nizhky-chorni-drim-velvet-20224-3-1.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-klarus-odynarnyj-zi-spynkoyu-nizhky-chorni-drim-velvet-20224-1-1.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-klarus-odynarnyj-zi-spynkoyu-nizhky-chorni-drim-velvet-20224-5-1.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-klarus-odynarnyj-zi-spynkoyu-nizhky-chorni-drim-velvet-20224-7-1.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-klarus-odynarnyj-zi-spynkoyu-nizhky-chorni-drim-velvet-20224-9.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-klarus-odynarnyj-zi-spynkoyu-nizhky-chorni-drim-velvet-20224-10-1.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-klarus-odynarnyj-zi-spynkoyu-nizhky-chorni-drim-velvet-20224-11-1.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-klarus-odynarnyj-zi-spynkoyu-nizhky-chorni-drim-velvet-20224-12-1.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-klarus-odynarnyj-zi-spynkoyu-nizhky-chorni-drim-velvet-20224-13-1.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-klarus-odynarnyj-zi-spynkoyu-nizhky-chorni-drim-velvet-20224-14-1.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-klarus-odynarnyj-zi-spynkoyu-nizhky-chorni-drim-velvet-20224-15-1.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-klarus-odynarnyj-zi-spynkoyu-nizhky-chorni-drim-velvet-20224-17.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-klarus-odynarnyj-zi-spynkoyu-nizhky-chorni-drim-velvet-20224-18.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-klarus-odynarnyj-zi-spynkoyu-nizhky-chorni-drim-velvet-20224-19.jpg</picture>
+        <name_ua_full>Диван Кларус Одинарний Зі Спинкою Ніжки Чорні Дрім Вельвет 20224</name_ua_full>
+        <name_ua>Диван Richman Кларус Комплектація Одинарний Зі Спинкою Оббивка Дрім Вельвет 20224</name_ua>
+        <name>Диван Richman Кларус Комплектация Одинарный Со Спинкой Обивка Дрим Вельвет 20224</name>
+        <description_ua><![CDATA[Диван «Кларус» — сучасний модульний диван із лаконічним дизайном, створений для комфортного використання в житлових та комерційних просторах. Завдяки простим формам і стриманій естетиці модель легко поєднується з різними стилями інтер’єру — від мінімалізму та лофту до сучасної класики. Конструкція дивану побудована за модульним принципом, що дозволяє обирати оптимальну конфігурацію залежно від потреб і площі приміщення. Диван може бути виконаний у вигляді: одинарного модуля одинарного модуля зі спинкою кутового варіанту Основу дивану становить міцний внутрішній каркас, розрахований на інтенсивну експлуатацію. Сидіння має комфортне м’яке наповнення, яке забезпечує зручну посадку та зберігає форму з часом. У моделях зі спинкою передбачена ергономічна підтримка спини для підвищеного комфорту. Оббивка доступна в кількох варіантах: екошкіра, велюр, замша або букле. Матеріали відзначаються зносостійкістю, приємні на дотик та прості у догляді. Широкий вибір фактур і кольорів дозволяє підібрати диван відповідно до індивідуальних побажань і концепції інтер’єру. Диван «Кларус» встановлений на металевих ніжках чорного кольору, які надають конструкції стабільності та візуальної легкості. Піднята основа полегшує прибирання і робить модель практичною для щоденного використання. Завдяки поєднанню універсального дизайну, якісних матеріалів та продуманої конструкції, диван «Кларус» є функціональним і надійним рішенням для дому, офісів, зон очікування, кафе, ресторанів і готельних просторів. Меблі від Richman — це поєднання високої якості, неперевершеного дизайну та помірної ціни. Придбавши меблі від провідного українського виробника ви робите прекрасний вибір для будинку чи вашого бізнесу. Зверніть увагу: відтінки кольорів товарів на фотографіях можуть незначно відрізнятися від реальних через індивідуальні налаштування екранів (телефонів, планшетів, комп'ютерів), освітлення під час зйомки та інші фактори. Ми прагнемо передати зовнішній вигляд товарів якомога точніше, але незначні візуальні відмінності можливі.]]></description_ua>
+        <description><![CDATA[Диван «Кларус» — современный модульный диван с лаконичным дизайном, созданный для комфортного использования в жилых и коммерческих пространствах. Благодаря простым формам и сдержанной эстетике модель легко сочетается с различными стилями интерьера — от минимализма и лофта до современной классики. Конструкция дивана выполнена по модульному принципу, что позволяет подобрать оптимальную конфигурацию в зависимости от потребностей и площади помещения. Модель может быть выполнена в виде одинарного модуля, одинарного модуля со спинкой углового варианта Основу дивана составляет прочный внутренний каркас, рассчитанный на интенсивную эксплуатацию. Сиденье оснащено комфортным мягким наполнением, обеспечивающим удобную посадку и сохранение формы со временем. В моделях со спинкой предусмотрена эргономичная поддержка спины для дополнительного комфорта. Обивка доступна в нескольких вариантах: экокожа, велюр, замша или букле. Материалы отличаются износостойкостью, приятны на ощупь и просты в уходе. Широкий выбор фактур и цветовых решений позволяет подобрать диван в соответствии с индивидуальными предпочтениями и концепцией интерьера. Диван «Кларус» установлен на металлических ножках черного цвета, которые обеспечивают устойчивость конструкции и придают модели визуальную легкость. Приподнятое основание облегчает уборку и делает диван практичным для ежедневного использования. Благодаря сочетанию универсального дизайна, качественных материалов и продуманной конструкции, диван «Кларус» является функциональным и надежным решением для дома, офисов, зон ожидания, кафе, ресторанов и гостиничных пространств. Мебель от Richman – это сочетание высокого качества, непревзойденного дизайна и умеренной цены. Приобретая мебель от ведущего украинского производителя, вы делаете прекрасный выбор для дома или вашего бизнеса. Обратите внимание: оттенки цветов товаров на фотографиях могут незначительно отличаться от реальных из-за индивидуальных настроек экранов (телефонов, планшетов, компьютеров), освещения во время съёмки и других факторов. Мы стремимся как можно точнее передать внешний вид товаров, однако незначительные визуальные отличия возможны.]]></description>
+        <param name="Модель:">Кларус</param>
+        <param name="Комплектація виробу:">Одинарний зі спинкою</param>
+        <param name="Матеріал оббивки:">Велюр</param>
+        <param name="Колір оббивки:">Дрім Вельвет 20224</param>
+        <param name="Матеріал ніжок:">Метал</param>
+        <param name="Колір ніжок:">Чорний</param>
+        <param name="Гарантійний термін:">18 місяців</param>
+        <param name="Висота виробу:">840 мм</param>
+        <param name="Ширина виробу:">750 мм</param>
+        <param name="Глубина виробу:">770 мм</param>
+        <param name="Висота від підлоги до сидіння:">430 мм</param>
+        <param name="Висота спинки:">410 мм</param>
+        <param name="Ширина сидіння:">750 мм</param>
+        <param name="Глибина сидіння:">580 мм</param>
         <param name="Кількість виробів у пакуванні:">1</param>
       <video></video>
       </offer>
@@ -33187,6 +33331,98 @@
         <param name="Кількість виробів у пакуванні:">1</param>
       <video></video>
       </offer>
+        <offer id="R00000074136" available="false">
+        <stock_quantity>0</stock_quantity>
+        <origin>Domestik</origin>
+        <url>https://richmangroup.com.ua/product/divan-morgan-komplektaciya-potrijjnijj-nizhki-khrom-obbivka-rash-33/</url>
+        <price_opt>13092</price_opt>
+        <price>18330</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4</categoryId>
+        <vendor>Richman</vendor>
+        <uktzed>9401 61 00 00</uktzed>
+        <warranty>18 місяців</warranty>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-morgan-potrijnyj-nizhky-hrom-rash-33-4.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-morgan-potrijnyj-nizhky-hrom-rash-33-16.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-morgan-potrijnyj-nizhky-hrom-rash-33-2.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-morgan-potrijnyj-nizhky-hrom-rash-33-5.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-morgan-potrijnyj-nizhky-hrom-rash-33-3.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-morgan-potrijnyj-nizhky-hrom-rash-33-1.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-morgan-potrijnyj-nizhky-hrom-rash-33-6.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-morgan-potrijnyj-nizhky-hrom-rash-33-9.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-morgan-potrijnyj-nizhky-hrom-rash-33-7.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-morgan-potrijnyj-nizhky-hrom-rash-33-8.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-morgan-potrijnyj-nizhky-hrom-rash-33-12.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-morgan-potrijnyj-nizhky-hrom-rash-33-11.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-morgan-potrijnyj-nizhky-hrom-rash-33-13.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-morgan-potrijnyj-nizhky-hrom-rash-33-10.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-morgan-potrijnyj-nizhky-hrom-rash-33-14.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-morgan-potrijnyj-nizhky-hrom-rash-33-15.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-morgan-potrijnyj-nizhky-hrom-rash-33-17.jpg</picture>
+        <name_ua_full>Диван Морган Потрійний Ніжки Хром Раш 33</name_ua_full>
+        <name_ua>Диван Richman Морган Комплектація Потрійний Ніжки Хром Оббивка Раш 33</name_ua>
+        <name>Диван Richman Морган Комплектация Тройной Ножки Хром Обивка Раш 33</name>
+        <description_ua><![CDATA[Морган — це сучасний диван із лаконічним дизайном, який поєднує комфорт, практичність та стильний зовнішній вигляд. Завдяки стриманим формам модель гармонійно вписується як у домашній інтер’єр, так і в офісні приміщення, зони очікування, кабінети, салони чи готелі. Акуратні підлокітники, м’які сидіння та компактний силует роблять диван зручним для щоденного використання та водночас презентабельним елементом інтер’єру. Комплектація Одинарний (крісло) — компактний варіант для індивідуального користування, який чудово підходить для кабінетів, приймалень, невеликих зон відпочинку або як доповнення до диванного комплекту. Подвійний диван — комфортне рішення для квартир, офісів, переговорних кімнат та приміщень, де важливо поєднати компактність і зручність. Потрійний диван — просторий варіант для віталень, холів, лаунж-зон та комерційних просторів, який забезпечує комфортне місце для відпочинку та спілкування. Варіанти комплектів Модель Морган дозволяє створювати індивідуальні меблеві комплекти під потреби клієнта та особливості приміщення. Ви можете самостійно обрати будь-яку комбінацію елементів, поєднуючи крісло, подвійний та потрійний дивани у потрібній кількості для створення максимально комфортного та функціонального простору. Крісло + подвійний диван — практичне рішення для невеликих офісів, кабінетів або квартир. Два крісла + потрійний диван — чудовий варіант для просторих віталень та зон очікування. Крісло + потрійний диван — стильний комплект для лаунж-зон або приймалень. Повний комплект із кількох елементів — можливість облаштувати великий офісний або комерційний простір в єдиному стилі. Завдяки універсальному дизайну всі елементи колекції гармонійно поєднуються між собою, що дозволяє створити комплект саме під ваш інтер’єр та формат приміщення. Диван Морган виготовляється з можливістю вибору оббивки відповідно до побажань клієнта. Для оформлення можна обрати екошкіру, велюр, замшу, натуральну шкіру або інші меблеві тканини. Великий вибір кольорів і текстур дозволяє адаптувати модель під класичний, сучасний або мінімалістичний інтер’єр, створивши саме той вигляд меблів, який найкраще відповідатиме вашим потребам та стилю приміщення. Меблі від Richman - це поєднання високої якості, неперевершеного дизайну та помірної ціни. Купуючи меблі від провідного українського виробника, ви робите чудовий вибір для дому чи вашого бізнесу.]]></description_ua>
+        <description><![CDATA[Морган — это современный диван с лаконичным дизайном, который сочетает комфорт, практичность и стильный внешний вид. Благодаря сдержанным формам модель гармонично вписывается как в домашний интерьер, так и в офисные помещения, зоны ожидания, кабинеты, салоны или гостиницы. Аккуратные подлокотники, мягкие сиденья и компактный силуэт делают диван удобным для ежедневного использования и одновременно презентабельным элементом интерьера. Комплектация Одинарный (кресло) — компактный вариант для индивидуального использования, который отлично подходит для кабинетов, приемных, небольших зон отдыха или как дополнение к диванному комплекту. Двойной диван — комфортное решение для квартир, офисов, переговорных комнат и помещений, где важно сочетать компактность и удобство. Тройной диван — просторный вариант для гостиных, холлов, лаунж-зон и коммерческих пространств, который обеспечивает комфортное место для отдыха и общения. Варианты комплектов Модель Морган позволяет создавать индивидуальные мебельные комплекты в зависимости от потребностей клиента и особенностей помещения. Вы можете самостоятельно выбрать любую комбинацию элементов, сочетая кресло, двойной и тройной диваны в необходимом количестве для создания максимально комфортного и функционального пространства. Кресло + двойной диван — практичное решение для небольших офисов, кабинетов или квартир. Два кресла + тройной диван — отличный вариант для просторных гостиных и зон ожидания. Кресло + тройной диван — стильный комплект для лаунж-зон или приемных. Полный комплект из нескольких элементов — возможность оформить большое офисное или коммерческое пространство в едином стиле. Благодаря универсальному дизайну все элементы коллекции гармонично сочетаются между собой, что позволяет создать комплект именно под ваш интерьер и формат помещения. Диван Морган изготавливается с возможностью выбора обивки в соответствии с пожеланиями клиента. Для оформления можно выбрать экокожу, велюр, замшу, натуральную кожу или другие мебельные ткани. Широкий выбор цветов и текстур позволяет адаптировать модель под классический, современный или минималистичный интерьер, создав именно тот внешний вид мебели, который лучше всего подойдет вашему пространству. Мебель от Richman — это сочетание высокого качества, непревзойденного дизайна и умеренной цены. Приобретая мебель от ведущего украинского производителя, вы делаете прекрасный выбор для дома или вашего бизнеса.]]></description>
+        <param name="Модель:">Морган</param>
+        <param name="Комплектація виробу:">Потрійний</param>
+        <param name="Матеріал оббивки:">Жакард</param>
+        <param name="Колір оббивки:">Раш 33</param>
+        <param name="Матеріал ніжок:">Метал</param>
+        <param name="Колір ніжок:">Чорний</param>
+        <param name="Гарантійний термін:">18 місяців</param>
+        <param name="Висота виробу:">700 мм</param>
+        <param name="Ширина виробу:">2000 мм</param>
+        <param name="Глибина виробу:">770 мм</param>
+        <param name="Висота від полу до сидіння:">450 мм</param>
+        <param name="Висота спинки:">250 мм</param>
+        <param name="Висота підлокітника:">250 мм</param>
+        <param name="Товщина підлокітника:">130 мм</param>
+        <param name="Глибина сидіння:">570 мм</param>
+        <param name="Кількість виробів у пакуванні:">1</param>
+      <video></video>
+      </offer>
+        <offer id="R00000074135" available="false">
+        <stock_quantity>0</stock_quantity>
+        <origin>Domestik</origin>
+        <url>https://richmangroup.com.ua/product/divan-morgan-komplektaciya-potrijjnijj-nizhki-chorni-obbivka-flajj-2231/</url>
+        <price_opt>13092</price_opt>
+        <price>18330</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4</categoryId>
+        <vendor>Richman</vendor>
+        <uktzed>9401 61 00 00</uktzed>
+        <warranty>18 місяців</warranty>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-morgan-potrijnyj-nizhky-chorni-flaj-2231-4.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-morgan-potrijnyj-nizhky-chorni-flaj-2231-15.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-morgan-potrijnyj-nizhky-chorni-flaj-2231-2.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-morgan-potrijnyj-nizhky-chorni-flaj-2231-5.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-morgan-potrijnyj-nizhky-chorni-flaj-2231-8.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-morgan-potrijnyj-nizhky-chorni-flaj-2231-10.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-morgan-potrijnyj-nizhky-chorni-flaj-2231-18.jpg</picture>
+        <name_ua_full>Диван Морган Потрійний Ніжки Чорні Флай 2231</name_ua_full>
+        <name_ua>Диван Richman Морган Комплектація Потрійний Ніжки Чорні Оббивка Флай 2231</name_ua>
+        <name>Диван Richman Морган Комплектация Тройной Ножки Черные Обивка Флай 2231</name>
+        <description_ua><![CDATA[Диван Richman «Морган» — це сучасний диван із лаконічним дизайном, який поєднує комфорт, практичність та стильний зовнішній вигляд. Завдяки стриманим формам модель гармонійно вписується як у домашній інтер’єр, так і в офісні приміщення, зони очікування, кабінети, салони чи готелі. Акуратні підлокітники, м’які сидіння та компактний силует роблять диван зручним для щоденного використання та водночас презентабельним елементом інтер’єру. Серія представлена у декількох комплектаціях: Одинарний (крісло) — компактний варіант для індивідуального користування, який чудово підходить для кабінетів, приймалень, невеликих зон відпочинку або як доповнення до диванного комплекту. Подвійний диван — комфортне рішення для квартир, офісів, переговорних кімнат та приміщень, де важливо поєднати компактність і зручність. Потрійний диван — просторий варіант для віталень, холів, лаунж-зон та комерційних просторів, який забезпечує комфортне місце для відпочинку та спілкування. Варіанти комплектів Модель «Морган» дозволяє створювати індивідуальні меблеві комплекти під потреби клієнта та особливості приміщення. Ви можете самостійно обрати будь-яку комбінацію елементів, поєднуючи крісло, подвійний та потрійний дивани у потрібній кількості для створення максимально комфортного та функціонального простору. Крісло + подвійний диван — практичне рішення для невеликих офісів, кабінетів або квартир. Два крісла + потрійний диван — чудовий варіант для просторих віталень та зон очікування. Крісло + потрійний диван — стильний комплект для лаунж-зон або приймалень. Повний комплект із кількох елементів — можливість облаштувати великий офісний або комерційний простір в єдиному стилі. Завдяки універсальному дизайну всі елементи колекції гармонійно поєднуються між собою, що дозволяє створити комплект саме під ваш інтер’єр та формат приміщення. Диван «Морган» виготовляється з можливістю вибору оббивки відповідно до побажань клієнта. Для оформлення можна обрати екошкіру, велюр, замшу, натуральну шкіру або інші меблеві тканини. Великий вибір кольорів і текстур дозволяє адаптувати модель під класичний, сучасний або мінімалістичний інтер’єр, створивши саме той вигляд меблів, який найкраще відповідатиме вашим потребам та стилю приміщення. Меблі від Richman – це поєднання високої якості, неперевершеного дизайну та помірної ціни. Купуючи меблі від провідного українського виробника, ви робите чудовий вибір для дому чи вашого бізнесу. Зверніть увагу: відтінки кольорів товарів на фотографіях можуть незначно відрізнятися від реальних через індивідуальні налаштування екранів (телефонів, планшетів, комп’ютерів), освітлення під час зйомки та інші фактори. Ми прагнемо передати зовнішній вигляд товарів якомога точніше, але незначні візуальні відмінності можливі.]]></description_ua>
+        <description><![CDATA[Диван Richman «Морган» — это современный диван с лаконичным дизайном, который сочетает комфорт, практичность и стильный внешний вид. Благодаря сдержанным формам модель гармонично вписывается как в домашний интерьер, так и в офисные помещения, зоны ожидания, кабинеты, салоны или гостиницы. Аккуратные подлокотники, мягкие сиденья и компактный силуэт делают диван удобным для ежедневного использования и одновременно презентабельным элементом интерьера. Серия представлена в нескольких комплектациях: Одинарный (кресло) — компактный вариант для индивидуального использования, который отлично подходит для кабинетов, приемных, небольших зон отдыха или как дополнение к диванному комплекту. Двойной диван — комфортное решение для квартир, офисов, переговорных комнат и помещений, где важно сочетать компактность и удобство. Тройной диван — просторный вариант для гостиных, холлов, лаунж-зон и коммерческих пространств, который обеспечивает комфортное место для отдыха и общения. Варианты комплектов Модель «Морган» позволяет создавать индивидуальные мебельные комплекты в зависимости от потребностей клиента и особенностей помещения. Вы можете самостоятельно выбрать любую комбинацию элементов, сочетая кресло, двойной и тройной диваны в необходимом количестве для создания максимально комфортного и функционального пространства. Кресло + двойной диван — практичное решение для небольших офисов, кабинетов или квартир. Два кресла + тройной диван — отличный вариант для просторных гостиных и зон ожидания. Кресло + тройной диван — стильный комплект для лаунж-зон или приемных. Полный комплект из нескольких элементов — возможность оформить большое офисное или коммерческое пространство в едином стиле. Благодаря универсальному дизайну все элементы коллекции гармонично сочетаются между собой, что позволяет создать комплект именно под ваш интерьер и формат помещения. Диван «Морган» изготавливается с возможностью выбора обивки в соответствии с пожеланиями клиента. Для оформления можно выбрать экокожу, велюр, замшу, натуральную кожу или другие мебельные ткани. Широкий выбор цветов и текстур позволяет адаптировать модель под классический, современный или минималистичный интерьер, создав именно тот внешний вид мебели, который лучше всего подойдет вашему пространству. Мебель от Richman — это сочетание высокого качества, непревзойденного дизайна и умеренной цены. Приобретая мебель от ведущего украинского производителя, вы делаете прекрасный выбор для дома или вашего бизнеса. Обратите внимание: оттенки цветов товаров на фотографиях могут незначительно отличаться от реальных из-за индивидуальных настроек экранов (телефонов, планшетов, компьютеров), освещения во время съёмки и других факторов. Мы стремимся передать внешний вид товаров максимально точно, однако незначительные визуальные отличия возможны.]]></description>
+        <param name="Модель:">Морган</param>
+        <param name="Комплектація виробу:">Потрійний</param>
+        <param name="Матеріал оббивки:">Екошкіра</param>
+        <param name="Колір оббивки:">Флай 2231</param>
+        <param name="Матеріал ніжок:">Метал</param>
+        <param name="Колір ніжок:">Чорний</param>
+        <param name="Гарантійний термін:">18 місяців</param>
+        <param name="Висота виробу:">700 мм</param>
+        <param name="Ширина виробу:">2000 мм</param>
+        <param name="Глибина виробу:">770 мм</param>
+        <param name="Висота від полу до сидіння:">450 мм</param>
+        <param name="Висота спинки:">250 мм</param>
+        <param name="Висота підлокітника:">250 мм</param>
+        <param name="Товщина підлокітника:">130 мм</param>
+        <param name="Глибина сидіння:">570 мм</param>
+        <param name="Кількість виробів у пакуванні:">1</param>
+      <video></video>
+      </offer>
         <offer id="R00000059357" available="false">
         <stock_quantity>0</stock_quantity>
         <origin>Domestik</origin>
@@ -33341,6 +33577,58 @@
         <param name="Комплектація виробу:">Подвійний</param>
         <param name="Матеріал оббивки:">Рогожка</param>
         <param name="Колір оббивки:">Альберт 17</param>
+        <param name="Матеріал ніжок:">Метал</param>
+        <param name="Колір ніжок:">Чорний</param>
+        <param name="Гарантійний термін:">18 місяців</param>
+        <param name="Висота виробу:">750 мм</param>
+        <param name="Ширина виробу:">1400 мм</param>
+        <param name="Глибина виробу:">700 мм</param>
+        <param name="Висота від полу до сидіння:">450 мм</param>
+        <param name="Висота спинки:">300 мм</param>
+        <param name="Глибина сидіння:">500 мм</param>
+        <param name="Ширина сидіння:">1400 мм</param>
+        <param name="Вага виробу:">28 кг (з пакуванням 31,5)</param>
+        <param name="Кількість виробів у пакуванні:">1</param>
+        <param name="Габарити пакування:">1420 x 720 x 660 мм</param>
+        <param name="Об'єм пакування:">0,62 м3</param>
+      <video></video>
+      </offer>
+        <offer id="R00000060713" available="false">
+        <stock_quantity>0</stock_quantity>
+        <origin>Domestik</origin>
+        <url>https://richmangroup.com.ua/product/divan-oliver-komplektaciya-podvijjnijj-obbivka-beatris-33/</url>
+        <price_opt>7290</price_opt>
+        <price>10206</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4</categoryId>
+        <vendor>Richman</vendor>
+        <uktzed>9401 61 00 00</uktzed>
+        <warranty>18 місяців</warranty>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-oliver-podvijnyj-beatris-33-4.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-oliver-podvijnyj-beatris-33-15.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-oliver-podvijnyj-beatris-33-6.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-oliver-podvijnyj-beatris-33-2.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-oliver-podvijnyj-beatris-33-8.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-oliver-podvijnyj-beatris-33-5.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-oliver-podvijnyj-beatris-33-3.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-oliver-podvijnyj-beatris-33-1.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-oliver-podvijnyj-beatris-33-7.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-oliver-podvijnyj-beatris-33-9.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-oliver-podvijnyj-beatris-33-11.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-oliver-podvijnyj-beatris-33-10.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-oliver-podvijnyj-beatris-33-12.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-oliver-podvijnyj-beatris-33-13.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-oliver-podvijnyj-beatris-33-14.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-oliver-podvijnyj-beatris-33-16.jpg</picture>
+        <name_ua_full>Диван Олівер Подвійний Беатріс 33</name_ua_full>
+        <name_ua>Диван Richman Олівер Комплектація Подвійний Оббивка Беатріс 33</name_ua>
+        <name>Диван Richman Оливер Комплектация Двойной Обивка Беатрис 33</name>
+        <description_ua><![CDATA[Олівер — це сучасний диван із стильним та універсальним дизайном, який поєднує комфорт, практичність і елегантний зовнішній вигляд. Завдяки лаконічним формам та акуратному силуету модель гармонійно вписується як у домашній інтер’єр, так і в офісні приміщення, зони очікування, салони краси, готелі, кафе чи лаунж-простори. М’які сидіння та витончені металеві ніжки додають дивану легкості, сучасного стилю та забезпечують комфортне використання щодня. Комплектація Одинарний диван — компактна модель, яка чудово підходить для кабінетів, приймалень, невеликих зон відпочинку або як окремий елемент інтер’єру. Завдяки своїм розмірам диван не займає багато простору та водночас створює комфортне місце для відпочинку. Подвійний диван — зручний варіант для квартир, офісів, переговорних кімнат, лаунж-зон та комерційних приміщень. Модель забезпечує комфортне розміщення для двох осіб і чудово поєднує компактність зі стильним сучасним виглядом. Варіанти комплектів Модель Олівер дозволяє створювати стильні меблеві комплекти відповідно до потреб клієнта та особливостей приміщення. Одинарний та подвійний дивани можна поєднувати між собою у різних комбінаціях для створення гармонійного та функціонального простору. Одинарний + подвійний диван — практичне рішення для офісів, приймалень або домашніх інтер’єрів. Два одинарних + подвійний диван — чудовий варіант для просторих зон очікування чи лаунж-просторів. Кілька подвійних диванів — стильне рішення для комерційних приміщень, холів або сучасних офісів. Завдяки універсальному дизайну всі елементи колекції гармонійно поєднуються між собою та дозволяють оформити простір в єдиному стилі. Диван Олівер виготовляється з можливістю вибору оббивки відповідно до побажань клієнта. Для оформлення можна обрати екошкіру, велюр, замшу, натуральну шкіру або інші меблеві тканини. Великий вибір кольорів та текстур дозволяє адаптувати модель під сучасний, мінімалістичний або класичний інтер’єр, створивши саме той вигляд меблів, який найкраще відповідатиме вашим потребам. Меблі від Richman — це поєднання високої якості, сучасного дизайну та практичності. Купуючи меблі від провідного українського виробника, ви отримуєте стильне та надійне рішення для дому чи бізнесу.]]></description_ua>
+        <description><![CDATA[Оливер — это современный диван со стильным и универсальным дизайном, который сочетает в себе комфорт, практичность и элегантный внешний вид. Благодаря лаконичным формам и аккуратному силуэту модель гармонично вписывается как в домашний интерьер, так и в офисные помещения, зоны ожидания, салоны красоты, гостиницы, кафе или лаунж-пространства. Мягкие сиденья и изящные металлические ножки придают дивану легкость, современный стиль и обеспечивают комфортное использование каждый день. Комплектация Одинарный диван — компактная модель, которая отлично подходит для кабинетов, приемных, небольших зон отдыха или как отдельный элемент интерьера. Благодаря своим размерам диван не занимает много пространства и при этом создает комфортное место для отдыха. Двойной диван — удобный вариант для квартир, офисов, переговорных комнат, лаунж-зон и коммерческих помещений. Модель обеспечивает комфортное размещение для двух человек и отлично сочетает компактность со стильным современным внешним видом. Варианты комплектов Модель Оливер позволяет создавать стильные мебельные комплекты в соответствии с потребностями клиента и особенностями помещения. Одинарные и двойные диваны можно комбинировать между собой в различных вариантах для создания гармоничного и функционального пространства. Одинарный + двойной диван — практичное решение для офисов, приемных или домашних интерьеров. Два одинарных + двойной диван — отличный вариант для просторных зон ожидания или лаунж-пространств. Несколько двойных диванов — стильное решение для коммерческих помещений, холлов или современных офисов. Благодаря универсальному дизайну все элементы коллекции гармонично сочетаются между собой и позволяют оформить пространство в едином стиле. Диван Оливер изготавливается с возможностью выбора обивки в соответствии с пожеланиями клиента. Для оформления можно выбрать экокожу, велюр, замшу, натуральную кожу или другие мебельные ткани. Большой выбор цветов и текстур позволяет адаптировать модель под современный, минималистичный или классический интерьер, создав именно тот внешний вид мебели, который лучше всего подойдет под ваши потребности. Мебель от Richman — это сочетание высокого качества, современного дизайна и практичности. Покупая мебель от ведущего украинского производителя, вы получаете стильное и надежное решение для дома или бизнеса.]]></description>
+        <param name="Модель:">Олівер</param>
+        <param name="Комплектація виробу:">Подвійний</param>
+        <param name="Матеріал оббивки:">Шеніл</param>
+        <param name="Колір оббивки:">Беатріс 33</param>
         <param name="Матеріал ніжок:">Метал</param>
         <param name="Колір ніжок:">Чорний</param>
         <param name="Гарантійний термін:">18 місяців</param>
@@ -34245,8 +34533,8 @@
         <param name="Об'єм пакування:">0,67 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000048416" available="true">
-        <stock_quantity>1</stock_quantity>
+        <offer id="R00000048416" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/divan-ofis-komplektaciya-podvijjnijj-zi-spinkoyu-i-pidlokitnikami-na-metalokarkasi-obbivka-rokki-100/</url>
         <price_opt>12018</price_opt>
@@ -38190,6 +38478,53 @@
         <param name="Об'єм пакування:">0,78 м3</param>
       <video></video>
       </offer>
+        <offer id="R00000060251" available="false">
+        <stock_quantity>0</stock_quantity>
+        <origin>Domestik</origin>
+        <url>https://richmangroup.com.ua/product/divan-spejjs-komplektaciya-podvijjnijj-1-8-na-derevyanikh-nizhkakh-venge-obbivka-konrad-15/</url>
+        <price_opt>11286</price_opt>
+        <price>15804</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4</categoryId>
+        <vendor>Richman</vendor>
+        <uktzed>9401 61 00 00</uktzed>
+        <warranty>18 місяців</warranty>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-spejs-18-nizhky-venge-konrad-15-4.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-spejs-18-nizhky-venge-konrad-15-20.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-spejs-18-nizhky-venge-konrad-15-2.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-spejs-18-nizhky-venge-konrad-15-6.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-spejs-18-nizhky-venge-konrad-15-7.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-spejs-18-nizhky-venge-konrad-15-10.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-spejs-18-nizhky-venge-konrad-15-19.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-spejs-18-nizhky-venge-konrad-15-22.jpg</picture>
+        <name_ua_full>Диван Спейс 1,8 Ніжки Венге Конрад 15</name_ua_full>
+        <name_ua>Диван Richman Спейс Комплектація Подвійний 1.8 На Дерев’яних Ніжках Венге Оббивка Конрад 15</name_ua>
+        <name>Диван Richman Спейс Комплектация Двойной 1.8 На Деревянных Ножках Венге Конрад 15</name>
+        <description_ua><![CDATA[Диван Richman «Спейс» — це поєднання сучасної геометрії, комфорту та практичності. Стримані квадратні форми й чіткі прямі кути створюють впевнений характер моделі, що ідеально підходить для сучасних інтер’єрів. Диван чудово доповнить офіси, зони очікування, салони, кафе, готелі, клуби або домашні простори. Завдяки продуманій конструкції та якісним матеріалам модель вирізняється довговічністю й зручністю у щоденному використанні. Модель представлена у декількох конфігураціях: Одинарний модуль 0,9 — компактне рішення для індивідуального розміщення, що чудово підійде для невеликих приміщень, зон очікування або окремих робочих просторів. Подвійний модуль 1,5 — зручний варіант для комфортного розміщення двох осіб із практичним використанням простору та сучасним виглядом. Подвійний модуль 1,8 — збільшена версія двомісного модуля, яка забезпечує ще більше комфорту та вільного простору для сидіння. Потрійний модуль 1,95 — просторе рішення для зон очікування, офісів або комерційних приміщень, де важливі місткість, комфорт і стильний зовнішній вигляд. Потрійний модуль 2,1 — максимально просторий варіант серії, який ідеально підходить для великих інтер’єрів, приймалень та громадських просторів із високою прохідністю. Диван доступний у двох варіантах основи: На металокаркасі. На дерев’яних ніжках. Кольори металевої основи доступні за системою RAL: чорний 9011, білий 9016, сірий 7012. Це дозволяє підібрати оптимальне рішення відповідно до стилю приміщення та побажань клієнта. Дерев’яні ніжки доступні у трьох кольорах — венге, бук та горіх. Завдяки цьому диван легко адаптується як до сучасних мінімалістичних інтер’єрів, так і до більш теплих та класичних стилів оформлення. Оббивка та матеріали Оббивка підбирається індивідуально за смаком замовника. Модель може бути виконана в екокожі, велюрі, замші, рогожці та інших меблевих тканинах різних кольорів і фактур. Доступно понад 500 варіантів тканин у більш ніж 10 000 відтінках. Усі матеріали відзначаються зносостійкістю та простотою в догляді, що робить диван практичним рішенням як для дому, так і для комерційних приміщень. Дизайн і комфорт Лаконічна геометрія дозволяє дивану гармонійно поєднуватися з інтер’єрами в стилі лофт, модерн, мінімалізм та сучасна класика. Ергономічне сидіння забезпечує комфортну підтримку спини, а оптимальна щільність наповнювача зберігає форму навіть при інтенсивному використанні. Модель невибаглива в догляді та не потребує особливих умов експлуатації. Дивани Richman — це поєднання високої якості, неперевершеного дизайну та помірної ціни. Придбавши меблі від провідного українського виробника ви робите прекрасний вибір для будинку чи вашого бізнесу. Зверніть увагу: відтінки кольорів товарів на фотографіях можуть незначно відрізнятися від реальних через індивідуальні налаштування екранів (телефонів, планшетів, комп’ютерів), освітлення під час зйомки та інші фактори. Ми прагнемо передати зовнішній вигляд товарів якомога точніше, але незначні візуальні відмінності можливі.]]></description_ua>
+        <description><![CDATA[Диван Richman «Спейс» — это сочетание современной геометрии, комфорта и практичности. Сдержанные квадратные формы и чёткие прямые углы создают уверенный характер модели, которая идеально подходит для современных интерьеров. Диван отлично дополнит офисы, зоны ожидания, салоны, кафе, отели, клубы или домашние пространства. Благодаря продуманной конструкции и качественным материалам модель отличается долговечностью и удобством в ежедневном использовании. Модель представлена в нескольких конфигурациях: Одинарный модуль 0,9 — компактное решение для индивидуального размещения, которое отлично подойдет для небольших помещений, зон ожидания или отдельных рабочих пространств. Двойной модуль 1,5 — удобный вариант для комфортного размещения двух человек с практичным использованием пространства и современным внешним видом. Двойной модуль 1,8 — увеличенная версия двухместного модуля, обеспечивающая еще больше комфорта и свободного пространства для сидения. Тройной модуль 1,95 — просторное решение для зон ожидания, офисов или коммерческих помещений, где важны вместительность, комфорт и стильный внешний вид. Тройной модуль 2,1 — максимально просторный вариант серии, который идеально подходит для больших интерьеров, приемных и общественных пространств с высокой проходимостью. Диван доступен в двух вариантах основания: На металлокаркасе. На деревянных ножках. Цвета металлического основания доступны по системе RAL: чёрный 9011, белый 9016, серый 7012. Это позволяет подобрать оптимальное решение в соответствии со стилем помещения и пожеланиями клиента. Деревянные ножки доступны в трех цветах – венге, бук и орех. Благодаря этому диван легко адаптируется как к современным минималистическим интерьерам, так и более теплым и классическим стилям оформления. Обивка и материалы Обивка подбирается индивидуально по вкусу заказчика. Модель может быть выполнена в экокоже, велюре, замше, рогожке и других мебельных тканях различных цветов и фактур. Доступно более 500 вариантов тканей в более чем 10 000 оттенках. Все материалы отличаются износостойкостью и простотой в уходе, что делает диван практичным решением как для дома, так и для коммерческих помещений. Дизайн и комфорт Лаконичная геометрия позволяет дивану гармонично сочетаться с интерьерами в стиле лофт, модерн, минимализм и современная классика. Эргономичное сиденье обеспечивает комфортную поддержку спины, а оптимальная плотность наполнителя сохраняет форму даже при интенсивном использовании. Модель неприхотлива в уходе и не требует особых условий эксплуатации. Диваны Richman — это сочетание высокого качества, непревзойдённого дизайна и умеренной цены. Приобретая мебель от ведущего украинского производителя вы делаете прекрасный выбор для дома или вашего бизнеса. Обратите внимание: оттенки цветов товаров на фотографиях могут незначительно отличаться от реальных из-за индивидуальных настроек экранов (телефонов, планшетов, компьютеров), освещения во время съёмки и других факторов. Мы стремимся как можно точнее передать внешний вид товаров, однако незначительные визуальные отличия возможны.]]></description>
+        <param name="Модель:">Спейс</param>
+        <param name="Комплектація виробу:">Подвійний 1,8</param>
+        <param name="Матеріал оббивки:">Велюр</param>
+        <param name="Колір оббивки:">Конрад 15</param>
+        <param name="Матеріал каркасу:">Дерев'яний брус</param>
+        <param name="Матеріал ніжок:">Дерево</param>
+        <param name="Колір ніжок:">Венге</param>
+        <param name="Гарантійний термін:">18 місяців</param>
+        <param name="Висота виробу:">760 мм</param>
+        <param name="Ширина виробу:">1800 мм</param>
+        <param name="Глибина виробу:">760 мм</param>
+        <param name="Висота від полу до сидіння:">460 мм</param>
+        <param name="Висота спинки:">310 мм</param>
+        <param name="Глибина сидіння:">510 мм</param>
+        <param name="Ширина сидіння:">1500 мм</param>
+        <param name="Висота підлокітника:">310 мм</param>
+        <param name="Товщина підлокітника:">150 мм</param>
+        <param name="Вага виробу:">38 кг</param>
+        <param name="Кількість виробів у пакуванні:">1</param>
+        <param name="Габарити пакування:">1840 x 800 x 670 мм</param>
+        <param name="Об'єм пакування:">0,87 м3</param>
+      <video></video>
+      </offer>
         <offer id="R00000059413" available="false">
         <stock_quantity>0</stock_quantity>
         <origin>Domestik</origin>
@@ -40572,6 +40907,54 @@
         <param name="Об'єм пакування:">0,46 м3</param>
       <video></video>
       </offer>
+        <offer id="R00000059198" available="false">
+        <stock_quantity>0</stock_quantity>
+        <origin>Domestik</origin>
+        <url>https://richmangroup.com.ua/product/divan-tetris-komplektaciya-kut-pravijj-nizhki-chorni-obbivka-dzhip-90/</url>
+        <price_opt>8958</price_opt>
+        <price>12546</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4</categoryId>
+        <vendor>Richman</vendor>
+        <uktzed>9401 61 00 00</uktzed>
+        <warranty>18 місяців</warranty>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-tetris-kut-pravyj-nizhky-chorni-dzhyp-90-4.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-tetris-kut-pravyj-nizhky-chorni-dzhyp-90-16.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-tetris-kut-pravyj-nizhky-chorni-dzhyp-90-2.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-tetris-kut-pravyj-nizhky-chorni-dzhyp-90-5.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-tetris-kut-pravyj-nizhky-chorni-dzhyp-90-7.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-tetris-kut-pravyj-nizhky-chorni-dzhyp-90-9.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-tetris-kut-pravyj-nizhky-chorni-dzhyp-90-3.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-tetris-kut-pravyj-nizhky-chorni-dzhyp-90-1.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-tetris-kut-pravyj-nizhky-chorni-dzhyp-90-6.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-tetris-kut-pravyj-nizhky-chorni-dzhyp-90-8.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-tetris-kut-pravyj-nizhky-chorni-dzhyp-90-10.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-tetris-kut-pravyj-nizhky-chorni-dzhyp-90-11.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-tetris-kut-pravyj-nizhky-chorni-dzhyp-90-12.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-tetris-kut-pravyj-nizhky-chorni-dzhyp-90-13.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-tetris-kut-pravyj-nizhky-chorni-dzhyp-90-14.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-tetris-kut-pravyj-nizhky-chorni-dzhyp-90-15.jpg</picture>
+        <name_ua_full>Диван Тетріс Кут Правий Ніжки Чорні Джип 90</name_ua_full>
+        <name_ua>Диван Richman Тетріс Комплектація Кут Правий Ніжки Чорні Оббивка Джип 90</name_ua>
+        <name>Диван Richman Тетрис Комплектация Угол Правый Ножки Черные Обивка Джип 90</name>
+        <description_ua><![CDATA[Диван «Тетріс» — це сучасне модульне рішення для створення зручної та стильної зони відпочинку в будь-якому інтер’єрі. Завдяки універсальній конструкції, ви можете зібрати конфігурацію, яка найкраще підходить саме для вашого простору. Модель доступна в таких варіантах: Одинарний модуль — базовий елемент без спинки, який можна використовувати як пуф або частину комплекту. Одинарний модуль зі спинкою — зручний для сидіння, може бути як окремим кріслом, так і частиною дивану. Кутовий модуль — дозволяє з’єднувати модулі під кутом для створення Г- або П-подібної форми. Оббивка представлена у варіантах: практична екошкіра, м’який та приємний велюр, а також зносостійкі тканини різних кольорів. Широка палітра дає можливість підібрати диван під будь-який стиль — від сучасного мінімалізму до затишної класики. Модулі легко комбінуються між собою, що робить «Тетріс» універсальним рішенням для дому, офісу, кафе чи будь-якого громадського простору. Меблі від Richman — це поєднання високої якості, неперевершеного дизайну та помірної ціни. Придбавши меблі від провідного українського виробника ви робите прекрасний вибір для будинку чи вашого бізнесу. Зверніть увагу: відтінки кольорів товарів на фотографіях можуть незначно відрізнятися від реальних через індивідуальні налаштування екранів (телефонів, планшетів, комп’ютерів), освітлення під час зйомки та інші фактори. Ми прагнемо передати зовнішній вигляд товарів якомога точніше, але незначні візуальні відмінності можливі.]]></description_ua>
+        <description><![CDATA[Диван «Тетрис» — это современное модульное решение, которое позволяет создать удобную и стильную зону отдыха в любом интерьере. Благодаря универсальной конструкции, вы можете собрать конфигурацию, идеально подходящую под ваше пространство — будь то домашняя гостиная, офис или зона ожидания. Модель представлена в следующих вариантах: Одинарный модуль — базовый элемент без спинки, подходит для использования как пуф или как часть модульной композиции. Одинарный модуль со спинкой — обеспечивает комфортную посадку, может использоваться как самостоятельное кресло или как часть дивана. Угловой модуль — позволяет соединять модули под углом, создавая Г- или П-образные конструкции. Обивка представлена в нескольких вариантах: практичная и легко очищаемая экокожа, мягкий и уютный велюр, а также износостойкие тканевые материалы. Широкая цветовая палитра позволяет подобрать диван под любой интерьер — от ярких акцентов до спокойной классики. Все модули легко комбинируются между собой, благодаря чему «Тетрис» становится универсальным и функциональным решением для самых разных пространств. Мебель от Richman – это сочетание высокого качества, непревзойденного дизайна и умеренной цены. Приобретая мебель от ведущего украинского производителя, вы делаете прекрасный выбор для дома или вашего бизнеса. Обратите внимание: оттенки цветов товаров на фотографиях могут незначительно отличаться от реальных из-за индивидуальных настроек экранов (телефонов, планшетов, компьютеров), освещения во время съёмки и других факторов. Мы стремимся как можно точнее передать внешний вид товаров, однако незначительные визуальные отличия возможны.]]></description>
+        <param name="Модель:">Тетріс</param>
+        <param name="Комплектація виробу:">Кут Правий</param>
+        <param name="Матеріл оббивка:">Штучна замша</param>
+        <param name="Колір оббивка:">Джип 90</param>
+        <param name="Матеріал каркасу:">Дерев'яний брус</param>
+        <param name="Матеріал ніжок:">Метал</param>
+        <param name="Колір ніжок:">Чорний</param>
+        <param name="Гарантійний термін:">18 місяців</param>
+        <param name="Висота виробу:">790 мм</param>
+        <param name="Ширина виробу:">970 мм</param>
+        <param name="Глибина виробу:">800 мм</param>
+        <param name="Висота від полу до сидіння:">450 мм</param>
+        <param name="Висота спинки:">350 мм</param>
+        <param name="Глибина сидіння:">620 мм</param>
+      <video></video>
+      </offer>
         <offer id="R00000059728" available="false">
         <stock_quantity>0</stock_quantity>
         <origin>Domestik</origin>
@@ -40781,6 +41164,52 @@
         <param name="Глибина сидіння:">620 мм</param>
         <param name="Кількість виробів у пакуванні:">1</param>
         <param name="Габарити пакування:">820 x 820 x 620 мм</param>
+        <param name="Об'єм пакування:">0,41 м3</param>
+      <video></video>
+      </offer>
+        <offer id="R00000059727" available="false">
+        <stock_quantity>0</stock_quantity>
+        <origin>Domestik</origin>
+        <url>https://richmangroup.com.ua/product/divan-tetris-komplektaciya-odinarnijj-zi-spinkoyu-obbivka-oliver-19/</url>
+        <price_opt>6540</price_opt>
+        <price>9156</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4</categoryId>
+        <vendor>Richman</vendor>
+        <uktzed>9401 61 00 00</uktzed>
+        <warranty>18 місяців</warranty>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-tetris-odynarnyj-zi-spynkoyu-nizhky-ral-7012-oliver-19-2.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-tetris-odynarnyj-zi-spynkoyu-nizhky-ral-7012-oliver-19-9.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-tetris-odynarnyj-zi-spynkoyu-nizhky-ral-7012-oliver-19-1.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-tetris-odynarnyj-zi-spynkoyu-nizhky-ral-7012-oliver-19-4.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-tetris-odynarnyj-zi-spynkoyu-nizhky-ral-7012-oliver-19-2_1.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-tetris-odynarnyj-zi-spynkoyu-nizhky-ral-7012-oliver-19-1_1.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-tetris-odynarnyj-zi-spynkoyu-nizhky-ral-7012-oliver-19-3.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-tetris-odynarnyj-zi-spynkoyu-nizhky-ral-7012-oliver-19-5.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-tetris-odynarnyj-zi-spynkoyu-nizhky-ral-7012-oliver-19-6.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-tetris-odynarnyj-zi-spynkoyu-nizhky-ral-7012-oliver-19-7.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/09/dyvan-tetris-odynarnyj-zi-spynkoyu-nizhky-ral-7012-oliver-19-8.jpg</picture>
+        <name_ua_full>Диван Тетріс Одинарний Зі Спинкою Ніжки Чорні Олівер 19</name_ua_full>
+        <name_ua>Диван Richman Тетріс Комплектація Одинарний Зі Спинкою Оббивка Олівер 19</name_ua>
+        <name>Диван Richman Тетрис Комплектация Одинарный Со Спинкой Обивка Оливер 19</name>
+        <description_ua><![CDATA[Диван Richman «Тетріс» — це сучасне модульне рішення для створення зручної та стильної зони відпочинку в будь-якому інтер’єрі. Завдяки універсальній конструкції, ви можете зібрати конфігурацію, яка найкраще підходить саме для вашого простору. Модель доступна в таких варіантах: Одинарний модуль — базовий елемент без спинки, який можна використовувати як пуф або частину комплекту. Одинарний модуль зі спинкою — зручний для сидіння, може бути як окремим кріслом, так і частиною дивану. Кутовий модуль — дозволяє з’єднувати модулі під кутом для створення Г- або П-подібної форми. Оббивка представлена у варіантах: практична екошкіра, м’який та приємний велюр, а також зносостійкі тканини різних кольорів. Широка палітра дає можливість підібрати диван під будь-який стиль — від сучасного мінімалізму до затишної класики. Модулі легко комбінуються між собою, що робить «Тетріс» універсальним рішенням для дому, офісу, кафе чи будь-якого громадського простору. Меблі від Richman — це поєднання високої якості, неперевершеного дизайну та помірної ціни. Придбавши меблі від провідного українського виробника ви робите прекрасний вибір для будинку чи вашого бізнесу. Зверніть увагу: відтінки кольорів товарів на фотографіях можуть незначно відрізнятися від реальних через індивідуальні налаштування екранів (телефонів, планшетів, комп'ютерів), освітлення під час зйомки та інші фактори. Ми прагнемо передати зовнішній вигляд товарів якомога точніше, але незначні візуальні відмінності можливі.]]></description_ua>
+        <description><![CDATA[Диван Richman «Тетрис» — это современное модульное решение, которое позволяет создать удобную и стильную зону отдыха в любом интерьере. Благодаря универсальной конструкции, вы можете собрать конфигурацию, идеально подходящую под ваше пространство — будь то домашняя гостиная, офис или зона ожидания. Модель представлена в следующих вариантах: Одинарный модуль — базовый элемент без спинки, подходит для использования как пуф или как часть модульной композиции. Одинарный модуль со спинкой — обеспечивает комфортную посадку, может использоваться как самостоятельное кресло или как часть дивана. Угловой модуль — позволяет соединять модули под углом, создавая Г- или П-образные конструкции. Обивка представлена в нескольких вариантах: практичная и легко очищаемая экокожа, мягкий и уютный велюр, а также износостойкие тканевые материалы. Широкая цветовая палитра позволяет подобрать диван под любой интерьер — от ярких акцентов до спокойной классики. Все модули легко комбинируются между собой, благодаря чему «Тетрис» становится универсальным и функциональным решением для самых разных пространств. Мебель от Richman – это сочетание высокого качества, непревзойденного дизайна и умеренной цены. Приобретая мебель от ведущего украинского производителя, вы делаете прекрасный выбор для дома или вашего бизнеса. Обратите внимание: оттенки цветов товаров на фотографиях могут незначительно отличаться от реальных из-за индивидуальных настроек экранов (телефонов, планшетов, компьютеров), освещения во время съёмки и других факторов. Мы стремимся как можно точнее передать внешний вид товаров, однако незначительные визуальные отличия возможны.]]></description>
+        <param name="Модель:">Тетріс</param>
+        <param name="Комплектація виробу:">Одинарний зі спинкою</param>
+        <param name="Матеріал оббивки:">Велюр</param>
+        <param name="Колір оббивки:">Олівер 19</param>
+        <param name="Матеріал каркасу:">Дерев'яний брус</param>
+        <param name="Матеріал ніжок:">Метал</param>
+        <param name="Колір ніжок:">Чорний</param>
+        <param name="Гарантійний термін:">18 місяців</param>
+        <param name="Висота виробу:">790 мм</param>
+        <param name="Ширина виробу:">800 мм</param>
+        <param name="Глибина виробу:">800 мм</param>
+        <param name="Висота від полу до сидіння:">450 мм</param>
+        <param name="Висота спинки:">350 мм</param>
+        <param name="Глибина сидіння:">620 мм</param>
+        <param name="Кількість виробів у пакуванні:">1</param>
+        <param name="Габарити пакування:">820 x 820 x 570 мм</param>
         <param name="Об'єм пакування:">0,41 м3</param>
       <video></video>
       </offer>
@@ -45001,7 +45430,7 @@
       <video></video>
       </offer>
         <offer id="R00000013973" available="true">
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-atlant-komplektaciya-plastik-rich-mekhanizm-m-1-tilt-obbivka-kanzas-braun-latte/</url>
         <price_opt>5448</price_opt>
@@ -45095,7 +45524,7 @@
       <video></video>
       </offer>
         <offer id="R00000024879" available="true">
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>6</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-atlant-komplektaciya-plastik-rich-mekhanizm-m-1-tilt-obbivka-misti-shokolad-bezhevii%cc%86/</url>
         <price_opt>5448</price_opt>
@@ -46062,7 +46491,7 @@
       <video></video>
       </offer>
         <offer id="R00000049544" available="true">
-        <stock_quantity>7</stock_quantity>
+        <stock_quantity>6</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-atlant-komplektaciya-khrom-p1-mekhanizm-m-2-anyfix-obbivka-misti-shokolad/</url>
         <price_opt>6888</price_opt>
@@ -46985,8 +47414,8 @@
         <param name="Об'єм упаковки:">0,17 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000049870" available="false">
-        <stock_quantity>0</stock_quantity>
+        <offer id="R00000049870" available="true">
+        <stock_quantity>10</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-bonus-yu-komplektaciya-khrom-p3-mekhanizm-m-1-tilt-obbivka-rokki-100/</url>
         <price_opt>6108</price_opt>
@@ -47054,7 +47483,7 @@
       <video></video>
       </offer>
         <offer id="R00000049871" available="true">
-        <stock_quantity>11</stock_quantity>
+        <stock_quantity>13</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-bonus-yu-komplektaciya-khrom-p3-mekhanizm-m-1-tilt-obbivka-flajj-2230/</url>
         <price_opt>6108</price_opt>
@@ -49140,7 +49569,7 @@
       <video></video>
       </offer>
         <offer id="R00000049888" available="true">
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-valensiya-komplektaciya-khrom-p1-mekhanizm-m-2-anyfix-obbivka-flajj-2230-2/</url>
         <price_opt>10488</price_opt>
@@ -52714,8 +53143,8 @@
         <param name="Об'єм пакуванння:">0,43 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000049582" available="false">
-        <stock_quantity>0</stock_quantity>
+        <offer id="R00000049582" available="true">
+        <stock_quantity>1</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-kaliforniya-yu-komplektaciya-khrom-p2-mekhanizm-m-1-tilt-obbivka-zeus-delyuks-skajj/</url>
         <price_opt>7398</price_opt>
@@ -53578,8 +54007,8 @@
         <param name="Об'єм упаковки:">0,17 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000049584" available="false">
-        <stock_quantity>0</stock_quantity>
+        <offer id="R00000049584" available="true">
+        <stock_quantity>1</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-kaliforniya-yu-komplektaciya-khrom-p2-mekhanizm-m-2-anyfix-obbivka-mustang-karamel/</url>
         <price_opt>7818</price_opt>
@@ -54677,7 +55106,7 @@
       <video></video>
       </offer>
         <offer id="R00000050548" available="true">
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-lion-yu-komplektaciya-khrom-p5-mekhanizm-m-1-tilt-obbivka-ameli-bezh/</url>
         <price_opt>6450</price_opt>
@@ -56341,7 +56770,7 @@
       <video></video>
       </offer>
         <offer id="R00000052864" available="true">
-        <stock_quantity>7</stock_quantity>
+        <stock_quantity>8</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-mankhetten-yu-komplektaciya-khrom-p2-mekhanizm-m-1-tilt-obbivka-rokki-100/</url>
         <price_opt>7218</price_opt>
@@ -56612,7 +57041,7 @@
       <video></video>
       </offer>
         <offer id="R00000052564" available="true">
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-mankhetten-yu-komplektaciya-khrom-p2-mekhanizm-m-1-tilt-obbivka-flajj-2300/</url>
         <price_opt>7218</price_opt>
@@ -56772,8 +57201,8 @@
         <param name="Об'єм упаковки:">0,17 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000054507" available="false">
-        <stock_quantity>0</stock_quantity>
+        <offer id="R00000054507" available="true">
+        <stock_quantity>5</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-mankhetten-yu-komplektaciya-khrom-p3-mekhanizm-m-1-tilt-obbivka-rokki-100/</url>
         <price_opt>7218</price_opt>
@@ -61186,7 +61615,7 @@
       <video></video>
       </offer>
         <offer id="R00000025546" available="true">
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-fidzhi-komplektaciya-plastik-mekhanizm-m-1-tilt-obbivka-rokki-100/</url>
         <price_opt>4632</price_opt>
@@ -61737,7 +62166,7 @@
       <video></video>
       </offer>
         <offer id="R00000038255" available="true">
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>6</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-foksi-komplektaciya-plastik-rich-mekhanizm-m-1-tilt-obbivka-medzhik-bezh/</url>
         <price_opt>5574</price_opt>
@@ -61838,7 +62267,7 @@
       <video></video>
       </offer>
         <offer id="R00000036994" available="true">
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-foksi-komplektaciya-plastik-rich-mekhanizm-m-1-tilt-obbivka-medzhik-dk-grejj/</url>
         <price_opt>5574</price_opt>
@@ -63717,7 +64146,7 @@
       <video></video>
       </offer>
         <offer id="ADD0003024" available="true">
-        <stock_quantity>9</stock_quantity>
+        <stock_quantity>8</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-spajjder-yu-komplektaciya-plastik-mekhanizm-piastra-obbivka-sitka-chorna-sinya/</url>
         <price_opt>2928</price_opt>
@@ -63764,7 +64193,7 @@
       <video></video>
       </offer>
         <offer id="ADD0003060" available="true">
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-spajjder-yu-komplektaciya-plastik-mekhanizm-piastra-obbivka-sitka-chorna-sira/</url>
         <price_opt>2928</price_opt>
