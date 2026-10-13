@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-12 11:44">
+<yml_catalog date="2026-10-13 09:38">
   <shop>
     <name>Richman</name>
     <company>Richman</company>
@@ -90,7 +90,7 @@
       <video></video>
       </offer>
         <offer id="ADD0002354" available="true">
-        <stock_quantity>48</stock_quantity>
+        <stock_quantity>34</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-blast-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-sitka-chorna/</url>
         <price_opt>3126</price_opt>
@@ -317,7 +317,7 @@
       <video></video>
       </offer>
         <offer id="R00000053311" available="true">
-        <stock_quantity>42</stock_quantity>
+        <stock_quantity>41</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-vektor-pro-komplektaciya-khrom-mekhanizm-m-2-anyfix-obbivka-sitka-chorna/</url>
         <price_opt>5724</price_opt>
@@ -1249,7 +1249,7 @@
       <video></video>
       </offer>
         <offer id="ADD0003211" available="true">
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>13</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-monero-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-sitka-chorna-sira/</url>
         <price_opt>4614</price_opt>
@@ -1882,7 +1882,7 @@
       <video></video>
       </offer>
         <offer id="IM0000033" available="true">
-        <stock_quantity>741</stock_quantity>
+        <stock_quantity>740</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-ultra-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-chornijj/</url>
         <price_opt>2730</price_opt>
@@ -2604,8 +2604,8 @@
         <param name="Об'єм упаковки:">0,10 м3</param>
       <video></video>
       </offer>
-        <offer id="ADD0002751" available="false">
-        <stock_quantity>0</stock_quantity>
+        <offer id="ADD0002751" available="true">
+        <stock_quantity>1</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-bruks-komplektaciya-khrom-mekhanizm-piastra-obbivka-temno-sirijj/</url>
         <price_opt>3690</price_opt>
@@ -3625,7 +3625,7 @@
       <video></video>
       </offer>
         <offer id="ADD0001742" available="true">
-        <stock_quantity>38</stock_quantity>
+        <stock_quantity>37</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-kongres-komplektaciya-khrom-mekhanizm-m-2-shirokijj-anyfix-wide-obbivka-korichnevijj/</url>
         <price_opt>12096</price_opt>
@@ -3698,7 +3698,7 @@
       <video></video>
       </offer>
         <offer id="IM0000007" available="true">
-        <stock_quantity>56</stock_quantity>
+        <stock_quantity>55</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-kongres-komplektaciya-khrom-mekhanizm-m-2-shirokijj-anyfix-wide-obbivka-chornijj/</url>
         <price_opt>12096</price_opt>
@@ -4257,7 +4257,7 @@
       <video></video>
       </offer>
         <offer id="R00000042322" available="true">
-        <stock_quantity>21</stock_quantity>
+        <stock_quantity>20</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-premio-komplektaciya-pl-rich-mekhanizm-synchro-obbivka-shkira-split-temno-korichneva/</url>
         <price_opt>20358</price_opt>
@@ -5153,8 +5153,8 @@
         <param name="Об'єм пакування:">0,005 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000055431" available="true">
-        <stock_quantity>1</stock_quantity>
+        <offer id="R00000055431" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/pidstavka-dlya-kvitiv-obrijj/</url>
         <price_opt>414</price_opt>
@@ -5463,8 +5463,8 @@
         <param name="Об'єм пакування:">0,08 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000042292" available="true">
-        <stock_quantity>2</stock_quantity>
+        <offer id="R00000042292" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/pidstavka-pid-kviti-kvitkar-malenka/</url>
         <price_opt>678</price_opt>
@@ -32233,7 +32233,7 @@
         <param name="Об'єм пакування:">0,85 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000058621" available="false">
+        <offer id="R00000051531" available="false">
         <stock_quantity>0</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/divan-amigo-komplektaciya-podvijjnijj-karkas-chornijj-obbivka-lili-35/</url>
@@ -32253,7 +32253,7 @@
         <picture>https://richmangroup.com.ua/wp-content/uploads/2026/02/dyvan-amigo-podvijnyj-karkas-chornyj-bond-pistacho-11-14.jpg</picture>
         <picture>https://richmangroup.com.ua/wp-content/uploads/2026/02/dyvan-amigo-podvijnyj-karkas-chornyj-bond-pistacho-11-16.jpg</picture>
         <picture>https://richmangroup.com.ua/wp-content/uploads/2026/02/dyvan-amigo-podvijnyj-karkas-chornyj-bond-pistacho-11-11.jpg</picture>
-        <name_ua_full>Диван Аміго Подвійний Каркас Чорний Лілі 35</name_ua_full>
+        <name_ua_full>Диван Аміго Подвійний Каркас Чорний Бонд Пістачо 11</name_ua_full>
         <name_ua>Диван Richman Аміго Комплектація Подвійний Каркас Чорний Оббивка Лілі 35</name_ua>
         <name>Диван Richman Амиго Двойной Каркас Черный Обивка Лили 35</name>
         <description_ua><![CDATA[Диван Richman «Аміго» — це поєднання комфорту, надійності та сучасного «повітряного» дизайну у стилі лофт. Модель вирізняється легким візуальним силуетом, гармонійними пропорціями та продуманою конструкцією, що робить її чудовим рішенням для оформлення торгово-розважальних центрів, офісів, ресторанів, зон очікування або домашніх інтер’єрів. Це диван, який приємно дивує якістю, зовнішнім виглядом і доступною ціною. Серія представлена у декількох варіантах модулів: Одинарний модуль (крісло) — компактне рішення для індивідуального розміщення або невеликих просторів. Полуторний модуль — оптимальний баланс між компактністю та додатковим комфортом. Подвійний модуль — зручний варіант для двох осіб із раціональним використанням простору. Потрійний модуль — ідеальний вибір для просторих приміщень і зон активного користування. Конструкція та комфорт У сидінні використовується спеціальна система на основі ламелей, яка забезпечує високий рівень комфорту та довговічності. Така конструкція запобігає просіданню сидіння навіть після тривалого періоду експлуатації. Підлокітники додатково посилені металевим каркасом, що особливо важливо для використання у ресторанах та громадських просторах. Водночас вони оббиті основною тканиною, завдяки чому виглядають естетично та гармонійно. Каркас дивана виготовлений із металевої труби та пофарбований порошковою фарбою чорного кольору з термозапіканням при температурі 600 °C. За бажанням замовника можливе фарбування металокаркасу за системою RAL: чорний 9011, білий 9016 або сірий 7012. Оббивка та матеріали Дивани «Аміго» виготовляються з оббивкою на вибір замовника. Доступно понад 90 000 варіантів оббивки — тканини, шкірозамінники, велюри, шеніли та інші матеріали з високими показниками зносостійкості. Це дозволяє підібрати ідеальне рішення під будь-який стиль інтер’єру та рівень навантаження. Для вибору оптимального варіанту рекомендуємо звернутися до нашого консультанта або залишити заявку для зворотного зв’язку. Меблі від Richman — це поєднання високої якості, неперевершеного дизайну та помірної ціни. Придбавши меблі для кафе і ресторанів від провідного українського виробника ви робите прекрасний вибір для будинку чи вашого бізнесу.]]></description_ua>
@@ -44415,8 +44415,8 @@
         <param name="Об'єм пакування:">0,67 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000049174" available="false">
-        <stock_quantity>0</stock_quantity>
+        <offer id="R00000049174" available="true">
+        <stock_quantity>1</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/divan-ofis-komplektaciya-podvijjnijj-zi-spinkoyu-i-pidlokitnikami-na-metalokarkasi-obbivka-flajj-2230/</url>
         <price_opt>12018</price_opt>
@@ -47925,7 +47925,7 @@
       <video></video>
       </offer>
         <offer id="R00000029320" available="true">
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/divan-smart-komplektaciya-podvijjnijj-obbivka-rokki-100/</url>
         <price_opt>6288</price_opt>
@@ -51432,6 +51432,50 @@
         <param name="Глибина сидіння:">620 мм</param>
         <param name="Кількість виробів у пакуванні:">1</param>
         <param name="Габарити пакування:">820 x 820 x 620 мм</param>
+        <param name="Об'єм пакування:">0,41 м3</param>
+      <video></video>
+      </offer>
+        <offer id="R00000047839" available="false">
+        <stock_quantity>0</stock_quantity>
+        <origin>Domestik</origin>
+        <url>https://richmangroup.com.ua/product/divan-tetris-komplektaciya-odinarnijj-zi-spinkoyu-obbivka-dzhip-90/</url>
+        <price_opt>6540</price_opt>
+        <price>9156</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4</categoryId>
+        <vendor>Richman</vendor>
+        <uktzed>9401</uktzed>
+        <warranty>18 місяців</warranty>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-tetris-odynarnyj-zi-spynkoyu-nizhky-chorni-dzhyp-90-2.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-tetris-odynarnyj-zi-spynkoyu-nizhky-chorni-dzhyp-90-1.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-tetris-odynarnyj-zi-spynkoyu-nizhky-chorni-dzhyp-90-7.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-tetris-odynarnyj-zi-spynkoyu-nizhky-chorni-dzhyp-90-3.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-tetris-odynarnyj-zi-spynkoyu-nizhky-chorni-dzhyp-90-5_1.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-tetris-odynarnyj-zi-spynkoyu-nizhky-chorni-dzhyp-90-6.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-tetris-odynarnyj-zi-spynkoyu-nizhky-chorni-dzhyp-90-6_1.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-tetris-odynarnyj-zi-spynkoyu-nizhky-chorni-dzhyp-90-8_1.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-tetris-odynarnyj-zi-spynkoyu-nizhky-chorni-dzhyp-90-9.jpg</picture>
+        <name_ua_full>Диван Тетріс Одинарний Зі Спинкою Ніжки Чорні Джип 90</name_ua_full>
+        <name_ua>Диван Richman Тетріс Комплектація Одинарний Зі Спинкою Оббивка Джип 90</name_ua>
+        <name>Диван Richman Тетрис Комплектация Одинарный Со Спинкой Обивка Джип 90</name>
+        <description_ua><![CDATA[Диван Richman «Тетріс» — це сучасне модульне рішення для створення зручної та стильної зони відпочинку в будь-якому інтер’єрі. Завдяки універсальній конструкції, ви можете зібрати конфігурацію, яка найкраще підходить саме для вашого простору. Модель доступна в таких варіантах: Одинарний модуль — базовий елемент без спинки, який можна використовувати як пуф або частину комплекту. Одинарний модуль зі спинкою — зручний для сидіння, може бути як окремим кріслом, так і частиною дивану. Кутовий модуль — дозволяє з’єднувати модулі під кутом для створення Г- або П-подібної форми. Оббивка представлена у варіантах: практична екошкіра, м’який та приємний велюр, а також зносостійкі тканини різних кольорів. Широка палітра дає можливість підібрати диван під будь-який стиль — від сучасного мінімалізму до затишної класики. Модулі легко комбінуються між собою, що робить «Тетріс» універсальним рішенням для дому, офісу, кафе чи будь-якого громадського простору. Меблі від Richman — це поєднання високої якості, неперевершеного дизайну та помірної ціни. Придбавши меблі від провідного українського виробника ви робите прекрасний вибір для будинку чи вашого бізнесу. Зверніть увагу: відтінки кольорів товарів на фотографіях можуть незначно відрізнятися від реальних через індивідуальні налаштування екранів (телефонів, планшетів, комп'ютерів), освітлення під час зйомки та інші фактори. Ми прагнемо передати зовнішній вигляд товарів якомога точніше, але незначні візуальні відмінності можливі.]]></description_ua>
+        <description><![CDATA[Диван Richman «Тетрис» — это современное модульное решение, которое позволяет создать удобную и стильную зону отдыха в любом интерьере. Благодаря универсальной конструкции, вы можете собрать конфигурацию, идеально подходящую под ваше пространство — будь то домашняя гостиная, офис или зона ожидания. Модель представлена в следующих вариантах: Одинарный модуль — базовый элемент без спинки, подходит для использования как пуф или как часть модульной композиции. Одинарный модуль со спинкой — обеспечивает комфортную посадку, может использоваться как самостоятельное кресло или как часть дивана. Угловой модуль — позволяет соединять модули под углом, создавая Г- или П-образные конструкции. Обивка представлена в нескольких вариантах: практичная и легко очищаемая экокожа, мягкий и уютный велюр, а также износостойкие тканевые материалы. Широкая цветовая палитра позволяет подобрать диван под любой интерьер — от ярких акцентов до спокойной классики. Все модули легко комбинируются между собой, благодаря чему «Тетрис» становится универсальным и функциональным решением для самых разных пространств. Мебель от Richman – это сочетание высокого качества, непревзойденного дизайна и умеренной цены. Приобретая мебель от ведущего украинского производителя, вы делаете прекрасный выбор для дома или вашего бизнеса. Обратите внимание: оттенки цветов товаров на фотографиях могут незначительно отличаться от реальных из-за индивидуальных настроек экранов (телефонов, планшетов, компьютеров), освещения во время съёмки и других факторов. Мы стремимся как можно точнее передать внешний вид товаров, однако незначительные визуальные отличия возможны.]]></description>
+        <param name="Модель:">Тетріс</param>
+        <param name="Комплектація виробу:">Одинарний зі спинкою</param>
+        <param name="Матеріал оббивки:">Жаккард</param>
+        <param name="Колір оббивки:">Джип 90</param>
+        <param name="Матеріал каркасу:">Дерев'яний брус</param>
+        <param name="Матеріал ніжок:">Метал</param>
+        <param name="Колір ніжок:">Чорний</param>
+        <param name="Гарантійний термін:">18 місяців</param>
+        <param name="Висота виробу:">790 мм</param>
+        <param name="Ширина виробу:">800 мм</param>
+        <param name="Глибина виробу:">800 мм</param>
+        <param name="Висота від полу до сидіння:">450 мм</param>
+        <param name="Висота спинки:">350 мм</param>
+        <param name="Глибина сидіння:">620 мм</param>
+        <param name="Кількість виробів у пакуванні:">1</param>
+        <param name="Габарити пакування:">820 x 820 x 570 мм</param>
         <param name="Об'єм пакування:">0,41 м3</param>
       <video></video>
       </offer>
@@ -57352,7 +57396,7 @@
       <video></video>
       </offer>
         <offer id="R00000046664" available="true">
-        <stock_quantity>6</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-atlant-komplektaciya-khrom-p1-mekhanizm-m-1-tilt-obbivka-flajj-2230-2207/</url>
         <price_opt>6264</price_opt>
@@ -57401,7 +57445,7 @@
       <video></video>
       </offer>
         <offer id="R00000046663" available="true">
-        <stock_quantity>9</stock_quantity>
+        <stock_quantity>7</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-atlant-komplektaciya-khrom-p1-mekhanizm-m-1-tilt-obbivka-flajj-2230-2210/</url>
         <price_opt>6264</price_opt>
@@ -61841,7 +61885,7 @@
       <video></video>
       </offer>
         <offer id="R00000049882" available="true">
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-valensiya-komplektaciya-khrom-p4-mekhanizm-m-1-tilt-obbivka-rokki-95/</url>
         <price_opt>10068</price_opt>
@@ -64164,7 +64208,7 @@
       <video></video>
       </offer>
         <offer id="R00000051450" available="true">
-        <stock_quantity>6</stock_quantity>
+        <stock_quantity>7</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-elit-pro-yu-komplektaciya-khrom-p2-mekhanizm-m-1-tilt-obbivka-prajjm-espresso/</url>
         <price_opt>10866</price_opt>
@@ -69152,7 +69196,7 @@
       <video></video>
       </offer>
         <offer id="R00000052565" available="true">
-        <stock_quantity>16</stock_quantity>
+        <stock_quantity>13</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-mankhetten-yu-komplektaciya-khrom-p2-mekhanizm-m-1-tilt-obbivka-florida-blek/</url>
         <price_opt>7554</price_opt>
@@ -69370,7 +69414,7 @@
       <video></video>
       </offer>
         <offer id="R00000054510" available="true">
-        <stock_quantity>9</stock_quantity>
+        <stock_quantity>8</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-mankhetten-yu-komplektaciya-khrom-p3-mekhanizm-m-1-tilt-obbivka-salviya-97/</url>
         <price_opt>7218</price_opt>
@@ -69425,7 +69469,7 @@
       <video></video>
       </offer>
         <offer id="R00000054505" available="true">
-        <stock_quantity>11</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-mankhetten-yu-komplektaciya-khrom-p3-mekhanizm-m-1-tilt-obbivka-flajj-2230/</url>
         <price_opt>7218</price_opt>
@@ -72029,7 +72073,7 @@
       <video></video>
       </offer>
         <offer id="R00000013986" available="true">
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-samba-komplektaciya-sf-khrom-cf-obbivka-flai%cc%86-2230/</url>
         <price_opt>3552</price_opt>
@@ -76418,7 +76462,7 @@
       <video></video>
       </offer>
         <offer id="ADD0003024" available="true">
-        <stock_quantity>8</stock_quantity>
+        <stock_quantity>9</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-spajjder-yu-komplektaciya-plastik-mekhanizm-piastra-obbivka-sitka-chorna-sinya/</url>
         <price_opt>2928</price_opt>
@@ -76464,8 +76508,8 @@
         <param name="Об'єм упаковки:">0,13 м3</param>
       <video></video>
       </offer>
-        <offer id="ADD0003060" available="false">
-        <stock_quantity>0</stock_quantity>
+        <offer id="ADD0003060" available="true">
+        <stock_quantity>1</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-spajjder-yu-komplektaciya-plastik-mekhanizm-piastra-obbivka-sitka-chorna-sira/</url>
         <price_opt>2928</price_opt>
