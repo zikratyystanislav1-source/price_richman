@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-15 17:51">
+<yml_catalog date="2026-10-19 10:56">
   <shop>
     <name>Richman</name>
     <company>Richman</company>
@@ -20,7 +20,7 @@
     </categories>
     <offers>
         <offer id="ADD0003215" available="true">
-        <stock_quantity>49</stock_quantity>
+        <stock_quantity>48</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-balans-pro-komplektaciya-plastik-mekhanizm-synchro-obbivka-sitka-chorna/</url>
         <price_opt>7680</price_opt>
@@ -89,8 +89,8 @@
         <param name="Об'єм упаковки:">0,21 м3</param>
       <video></video>
       </offer>
-        <offer id="ADD0002354" available="false">
-        <stock_quantity>0</stock_quantity>
+        <offer id="ADD0002354" available="true">
+        <stock_quantity>6</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-blast-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-sitka-chorna/</url>
         <price_opt>3126</price_opt>
@@ -202,7 +202,7 @@
       <video></video>
       </offer>
         <offer id="ADD0002355" available="true">
-        <stock_quantity>77</stock_quantity>
+        <stock_quantity>76</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-blast-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-sitka-chorna-sira/</url>
         <price_opt>3126</price_opt>
@@ -1199,7 +1199,7 @@
       <video></video>
       </offer>
         <offer id="ADD0003210" available="true">
-        <stock_quantity>101</stock_quantity>
+        <stock_quantity>94</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-monero-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-sitka-chorna/</url>
         <price_opt>4614</price_opt>
@@ -1249,7 +1249,7 @@
       <video></video>
       </offer>
         <offer id="ADD0003211" available="true">
-        <stock_quantity>13</stock_quantity>
+        <stock_quantity>12</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-monero-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-sitka-chorna-sira/</url>
         <price_opt>4614</price_opt>
@@ -2086,7 +2086,7 @@
       <video></video>
       </offer>
         <offer id="IM0000031" available="true">
-        <stock_quantity>98</stock_quantity>
+        <stock_quantity>97</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-bali-komplektaciya-khrom-mekhanizm-dt-deep-tilt-obbivka-chornijj/</url>
         <price_opt>5562</price_opt>
@@ -3475,7 +3475,7 @@
       <video></video>
       </offer>
         <offer id="R00000047224" available="true">
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-kongres-komplektaciya-vud-mekhanizm-m-2-shirokijj-anyfix-wide-obbivka-korichnevijj/</url>
         <price_opt>13320</price_opt>
@@ -3698,7 +3698,7 @@
       <video></video>
       </offer>
         <offer id="IM0000007" available="true">
-        <stock_quantity>55</stock_quantity>
+        <stock_quantity>54</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-kongres-komplektaciya-khrom-mekhanizm-m-2-shirokijj-anyfix-wide-obbivka-chornijj/</url>
         <price_opt>12096</price_opt>
@@ -5005,8 +5005,8 @@
         <param name="Об'єм упаковки:">0,35 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000041551" available="true">
-        <stock_quantity>8</stock_quantity>
+        <offer id="R00000041551" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/pidstavka-dlya-kvitiv-vodospad-malenka/</url>
         <price_opt>3204</price_opt>
@@ -5049,8 +5049,8 @@
         <param name="Об'єм упаковки:">0,22 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000039220" available="true">
-        <stock_quantity>4</stock_quantity>
+        <offer id="R00000039220" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/pidstavka-dlya-kvitiv-vodospad-serednya/</url>
         <price_opt>3762</price_opt>
@@ -5095,8 +5095,8 @@
         <param name="Об'єм упаковки:">0,29 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000055430" available="true">
-        <stock_quantity>67</stock_quantity>
+        <offer id="R00000055430" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/pidstavka-dlya-kvitiv-dzherelo/</url>
         <price_opt>408</price_opt>
@@ -5198,8 +5198,8 @@
         <param name="Об'єм пакування:">0,004 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000042824" available="true">
-        <stock_quantity>6</stock_quantity>
+        <offer id="R00000042824" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/pidstavka-dlya-kvitiv-techiya-2-polichki/</url>
         <price_opt>2124</price_opt>
@@ -5243,8 +5243,8 @@
         <param name="Об'єм упаковки:">0,05 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000042823" available="true">
-        <stock_quantity>5</stock_quantity>
+        <offer id="R00000042823" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/pidstavka-dlya-kvitiv-techiya-3-polichki/</url>
         <price_opt>2172</price_opt>
@@ -5289,8 +5289,8 @@
         <param name="Об'єм упаковки:">0,07 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000039467" available="true">
-        <stock_quantity>1</stock_quantity>
+        <offer id="R00000039467" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/pidstavka-dlya-kvitiv-techiya-4-polichki/</url>
         <price_opt>2262</price_opt>
@@ -5382,8 +5382,8 @@
         <param name="Об'єм упаковки:">0,1 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000040704" available="true">
-        <stock_quantity>1</stock_quantity>
+        <offer id="R00000040704" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/pidstavka-pid-kviti-girka/</url>
         <price_opt>2358</price_opt>
@@ -5960,8 +5960,8 @@
         <param name="Висота ящику:">200 мм</param>
       <video></video>
       </offer>
-        <offer id="R00000042874" available="true">
-        <stock_quantity>1</stock_quantity>
+        <offer id="R00000042874" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/lizhko-beatriche-rozmir-160-kh-200-komplektaciya-standart-vud-nizhki-trapeciya-obbivka-misti-grejj-gorikh/</url>
         <price_opt>18414</price_opt>
@@ -34359,8 +34359,8 @@
         <param name="Об'єм пакування:">0,82 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000059471" available="true">
-        <stock_quantity>1</stock_quantity>
+        <offer id="R00000059471" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/divan-bredli-komplektaciya-odinarnijj-zi-spinkoyu-i-pidlokitnikom-obbivka-teddi-05/</url>
         <price_opt>12132</price_opt>
@@ -36031,8 +36031,8 @@
         <param name="Об'єм пакування:">1,30 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000029239" available="false">
-        <stock_quantity>0</stock_quantity>
+        <offer id="R00000029239" available="true">
+        <stock_quantity>2</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/divan-vizit-komplektaciya-podvijjnijj-obbivka-rokki-100/</url>
         <price_opt>13350</price_opt>
@@ -38998,8 +38998,8 @@
         <param name="Кількість виробів у пакуванні:">1</param>
       <video></video>
       </offer>
-        <offer id="R00000056925" available="true">
-        <stock_quantity>1</stock_quantity>
+        <offer id="R00000056925" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/divan-klarus-komplektaciya-kut-livijj-obbivka-kemel-18/</url>
         <price_opt>8148</price_opt>
@@ -39128,8 +39128,8 @@
         <param name="Кількість виробів у пакуванні:">1</param>
       <video></video>
       </offer>
-        <offer id="R00000056926" available="true">
-        <stock_quantity>1</stock_quantity>
+        <offer id="R00000056926" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/divan-klarus-komplektaciya-kut-pravijj-obbivka-kemel-18/</url>
         <price_opt>8148</price_opt>
@@ -39310,8 +39310,8 @@
         <param name="Кількість виробів у пакуванні:">1</param>
       <video></video>
       </offer>
-        <offer id="R00000056919" available="true">
-        <stock_quantity>1</stock_quantity>
+        <offer id="R00000056919" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/divan-klarus-komplektaciya-odinarnijj-zi-spinkoyu-obbivka-kemel-18/</url>
         <price_opt>6480</price_opt>
@@ -39581,8 +39581,8 @@
         <param name="Об'єм пакування:">0,53 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000049730" available="true">
-        <stock_quantity>2</stock_quantity>
+        <offer id="R00000049730" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/divan-launzh-komplektaciya-kutovijj-obbivka-rokki-01/</url>
         <price_opt>10236</price_opt>
@@ -40035,8 +40035,8 @@
         <param name="Об'єм пакування:">0,53 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000047151" available="true">
-        <stock_quantity>2</stock_quantity>
+        <offer id="R00000047151" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/divan-launzh-komplektaciya-odinarnijj-zi-spinkoyu-karas-chornijj-obbivka-simpl-27/</url>
         <price_opt>6378</price_opt>
@@ -40376,8 +40376,8 @@
         <param name="Об'єм пакування:">0,53 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000049731" available="true">
-        <stock_quantity>2</stock_quantity>
+        <offer id="R00000049731" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/divan-launzh-komplektaciya-odinarnijj-zi-spinkoyu-karkas-chornijj-obbivka-rokki-01/</url>
         <price_opt>6378</price_opt>
@@ -49317,8 +49317,8 @@
         <param name="Об'єм пакування:">0,78 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000027101" available="true">
-        <stock_quantity>1</stock_quantity>
+        <offer id="R00000027101" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/divan-spejjs-komplektaciya-podvijjnijj-na-derevyanikh-nizhkakh-venge-obbivka-rokki-100/</url>
         <price_opt>9918</price_opt>
@@ -51730,8 +51730,8 @@
         <param name="Об'єм пакування:">0,41 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000058256" available="true">
-        <stock_quantity>2</stock_quantity>
+        <offer id="R00000058256" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/divan-tetris-komplektaciya-odinarnijj-zi-spinkoyu-obbivka-simpl-54/</url>
         <price_opt>6282</price_opt>
@@ -57347,7 +57347,7 @@
       <video></video>
       </offer>
         <offer id="R00000049541" available="true">
-        <stock_quantity>11</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-atlant-komplektaciya-khrom-p1-mekhanizm-m-1-tilt-obbivka-flai%cc%86-2230/</url>
         <price_opt>6264</price_opt>
@@ -58529,8 +58529,8 @@
         <param name="Об'єм упаковки:">0,17 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000049728" available="true">
-        <stock_quantity>4</stock_quantity>
+        <offer id="R00000049728" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-bonus-yu-komplektaciya-khrom-p3-mekhanizm-m-1-tilt-obbivka-medzhik-lai%cc%86t-grei%cc%86/</url>
         <price_opt>6108</price_opt>
@@ -59541,8 +59541,8 @@
         <param name="Глибина виробу:">780 мм</param>
       <video></video>
       </offer>
-        <offer id="R00000049874" available="true">
-        <stock_quantity>2</stock_quantity>
+        <offer id="R00000049874" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-burgas-yu-komplektaciya-khrom-p3-mekhanizm-m-1-tilt-obbivka-rokki-100/</url>
         <price_opt>8214</price_opt>
@@ -62998,7 +62998,7 @@
       <video></video>
       </offer>
         <offer id="R00000057429" available="true">
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-virdzhiniya-komplektaciya-vud-gorikh-mekhanizm-m-1-tilt-obbivka-rokki-18/</url>
         <price_opt>7980</price_opt>
@@ -77780,8 +77780,8 @@
         <param name="Об'єм упаковки:">0,17 м3</param>
       <video></video>
       </offer>
-        <offer id="ADD0003107" available="false">
-        <stock_quantity>0</stock_quantity>
+        <offer id="ADD0003107" available="true">
+        <stock_quantity>1</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-ultra-yu-komplektaciya-plastik-mekhanizm-m-1-tilt-obbivka-sitka-chorna-sira/</url>
         <price_opt>4236</price_opt>
@@ -78091,7 +78091,7 @@
       <video></video>
       </offer>
         <offer id="ADD0003102" available="true">
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>9</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-ultra-yu-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-sitka-chorna-sira/</url>
         <price_opt>4410</price_opt>
@@ -78324,7 +78324,7 @@
       <video></video>
       </offer>
         <offer id="ADD0003096" available="true">
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-flesh-yu-komplektaciya-plastik-mekhanizm-m-1-tilt-obbivka-sitka-chorna-sira/</url>
         <price_opt>3120</price_opt>
@@ -84909,8 +84909,8 @@
         <param name="Кількість виробів в упаковці:">4</param>
       <video></video>
       </offer>
-        <offer id="R00000037121" available="true">
-        <stock_quantity>3</stock_quantity>
+        <offer id="R00000037121" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/stilec-split-yu-komplektaciya-nizhki-chorni-obbivka-simpl-46/</url>
         <price_opt>1944</price_opt>
@@ -86746,8 +86746,8 @@
         <param name="Кількість виробів у пакуванні:">1 або 4</param>
       <video></video>
       </offer>
-        <offer id="R00000040546" available="true">
-        <stock_quantity>1</stock_quantity>
+        <offer id="R00000040546" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/stilec-fyuri-komplektaciya-nizhki-chorni-obbivka-malkolm-26/</url>
         <price_opt>2214</price_opt>
@@ -87298,8 +87298,8 @@
         <param name="Вага пакування:">7 кг</param>
       <video></video>
       </offer>
-        <offer id="ADD0002690" available="true">
-        <stock_quantity>4</stock_quantity>
+        <offer id="ADD0002690" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/baza-dlya-stolu-dzhins-perekladina-80-sm/</url>
         <price_opt>2862</price_opt>
