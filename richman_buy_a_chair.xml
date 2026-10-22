@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-21 15:46">
+<yml_catalog date="2026-10-22 13:43">
   <shop>
     <name>Richman</name>
     <company>Richman</company>
@@ -20,7 +20,7 @@
     </categories>
     <offers>
         <offer id="ADD0003215" available="true">
-        <stock_quantity>46</stock_quantity>
+        <stock_quantity>45</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-balans-pro-komplektaciya-plastik-mekhanizm-synchro-obbivka-sitka-chorna/</url>
         <price_opt>7680</price_opt>
@@ -577,7 +577,7 @@
       <video></video>
       </offer>
         <offer id="R00000052543" available="true">
-        <stock_quantity>49</stock_quantity>
+        <stock_quantity>48</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-ergostar-komplektaciya-khrom-mekhanizm-synchro-obbivka-sitka-chorna/</url>
         <price_opt>14070</price_opt>
@@ -984,7 +984,7 @@
       <video></video>
       </offer>
         <offer id="IM0000029" available="true">
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>87</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-keln-komplektaciya-khrom-mekhanizm-dt-deep-tilt-obbivka-sitka-chorna/</url>
         <price_opt>5184</price_opt>
@@ -1199,7 +1199,7 @@
       <video></video>
       </offer>
         <offer id="ADD0003210" available="true">
-        <stock_quantity>85</stock_quantity>
+        <stock_quantity>67</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-monero-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-sitka-chorna/</url>
         <price_opt>4614</price_opt>
@@ -1249,7 +1249,7 @@
       <video></video>
       </offer>
         <offer id="ADD0003211" available="true">
-        <stock_quantity>12</stock_quantity>
+        <stock_quantity>11</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-monero-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-sitka-chorna-sira/</url>
         <price_opt>4614</price_opt>
@@ -2401,7 +2401,7 @@
       <video></video>
       </offer>
         <offer id="R00000040822" available="true">
-        <stock_quantity>33</stock_quantity>
+        <stock_quantity>32</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-bingo-komplektaciya-khrom-mekhanizm-piastra-obbivka-temno-sirijj/</url>
         <price_opt>3150</price_opt>
@@ -3845,7 +3845,7 @@
       <video></video>
       </offer>
         <offer id="IM0000009" available="true">
-        <stock_quantity>26</stock_quantity>
+        <stock_quantity>25</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-kongres-komplektaciya-khrom-mekhanizm-m-2-shirokijj-anyfix-wide-obbivka-shkira-lyuks-chorna-kombinovana/</url>
         <price_opt>18228</price_opt>
@@ -3894,7 +3894,7 @@
       <video></video>
       </offer>
         <offer id="R00000043930" available="true">
-        <stock_quantity>248</stock_quantity>
+        <stock_quantity>243</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-kraft-komplektaciya-plastik-mekhanizm-piastra-obbivka-chornijj/</url>
         <price_opt>3654</price_opt>
@@ -69250,7 +69250,7 @@
       <video></video>
       </offer>
         <offer id="R00000054508" available="true">
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-mankhetten-yu-komplektaciya-khrom-p3-mekhanizm-m-1-tilt-obbivka-prajjm-espreso/</url>
         <price_opt>8820</price_opt>
@@ -76602,8 +76602,8 @@
         <param name="Об'єм упаковки:">0,13 м3</param>
       <video></video>
       </offer>
-        <offer id="ADD0002872" available="true">
-        <stock_quantity>20</stock_quantity>
+        <offer id="ADD0002872" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-spajjder-yu-komplektaciya-khrom-mekhanizm-piastra-obbivka-sitka-chorna/</url>
         <price_opt>2982</price_opt>
@@ -78323,8 +78323,8 @@
         <param name="Глибина виробу:">540 мм</param>
       <video></video>
       </offer>
-        <offer id="ADD0003096" available="true">
-        <stock_quantity>2</stock_quantity>
+        <offer id="ADD0003096" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-flesh-yu-komplektaciya-plastik-mekhanizm-m-1-tilt-obbivka-sitka-chorna-sira/</url>
         <price_opt>3120</price_opt>
