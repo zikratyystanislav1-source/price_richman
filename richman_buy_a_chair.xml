@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-23 10:03">
+<yml_catalog date="2026-10-29 10:59">
   <shop>
     <name>Richman</name>
     <company>Richman</company>
@@ -90,7 +90,7 @@
       <video></video>
       </offer>
         <offer id="ADD0002354" available="true">
-        <stock_quantity>9</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-blast-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-sitka-chorna/</url>
         <price_opt>3126</price_opt>
@@ -258,7 +258,7 @@
       <video></video>
       </offer>
         <offer id="R00000049770" available="true">
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-vektor-pro-komplektaciya-khrom-mekhanizm-m-2-anyfix-obbivka-sitka-sira/</url>
         <price_opt>5724</price_opt>
@@ -317,7 +317,7 @@
       <video></video>
       </offer>
         <offer id="R00000053311" available="true">
-        <stock_quantity>41</stock_quantity>
+        <stock_quantity>37</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-vektor-pro-komplektaciya-khrom-mekhanizm-m-2-anyfix-obbivka-sitka-chorna/</url>
         <price_opt>5724</price_opt>
@@ -376,8 +376,8 @@
         <param name="Об'єм пакування:">0,15 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000046588" available="false">
-        <stock_quantity>0</stock_quantity>
+        <offer id="R00000046588" available="true">
+        <stock_quantity>149</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-dekart-komplektaciya-khrom-mekhanizm-synshro-obbivka-sitka-chorna/</url>
         <price_opt>6558</price_opt>
@@ -450,7 +450,7 @@
       <video></video>
       </offer>
         <offer id="R00000052545" available="true">
-        <stock_quantity>56</stock_quantity>
+        <stock_quantity>86</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-ergovik-komplektaciya-khrom-mekhanizm-synchro-obbivka-sitka-chorna/</url>
         <price_opt>14070</price_opt>
@@ -512,8 +512,8 @@
         <param name="Об'єм упаковки:">0,19 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000052542" available="false">
-        <stock_quantity>0</stock_quantity>
+        <offer id="R00000052542" available="true">
+        <stock_quantity>44</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-ergostar-komplektaciya-khrom-mekhanizm-synchro-obbivka-sitka-sira/</url>
         <price_opt>14070</price_opt>
@@ -577,7 +577,7 @@
       <video></video>
       </offer>
         <offer id="R00000052543" available="true">
-        <stock_quantity>48</stock_quantity>
+        <stock_quantity>77</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-ergostar-komplektaciya-khrom-mekhanizm-synchro-obbivka-sitka-chorna/</url>
         <price_opt>14070</price_opt>
@@ -886,7 +886,7 @@
       <video></video>
       </offer>
         <offer id="IM0000094" available="true">
-        <stock_quantity>45</stock_quantity>
+        <stock_quantity>44</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-keln-komplektaciya-lb-khrom-mekhanizm-dt-deep-tilt-obbivka-sitka-chorna/</url>
         <price_opt>4938</price_opt>
@@ -941,7 +941,7 @@
       <video></video>
       </offer>
         <offer id="IM0000030" available="true">
-        <stock_quantity>58</stock_quantity>
+        <stock_quantity>57</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-keln-komplektaciya-sf-khrom-sf-obbivka-sitka-chorna/</url>
         <price_opt>5478</price_opt>
@@ -984,7 +984,7 @@
       <video></video>
       </offer>
         <offer id="IM0000029" available="true">
-        <stock_quantity>87</stock_quantity>
+        <stock_quantity>122</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-keln-komplektaciya-khrom-mekhanizm-dt-deep-tilt-obbivka-sitka-chorna/</url>
         <price_opt>5184</price_opt>
@@ -1199,7 +1199,7 @@
       <video></video>
       </offer>
         <offer id="ADD0003210" available="true">
-        <stock_quantity>67</stock_quantity>
+        <stock_quantity>179</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-monero-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-sitka-chorna/</url>
         <price_opt>4614</price_opt>
@@ -1615,8 +1615,8 @@
         <param name="Діаметр хрестовини:">630 мм</param>
       <video></video>
       </offer>
-        <offer id="R00000043926" available="false">
-        <stock_quantity>0</stock_quantity>
+        <offer id="R00000043926" available="true">
+        <stock_quantity>100</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-solana-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-sitka-sira/</url>
         <price_opt>4362</price_opt>
@@ -1768,7 +1768,7 @@
       <video></video>
       </offer>
         <offer id="ADD0003212" available="true">
-        <stock_quantity>56</stock_quantity>
+        <stock_quantity>59</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-token-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-sitka-chorna/</url>
         <price_opt>5352</price_opt>
@@ -1882,7 +1882,7 @@
       <video></video>
       </offer>
         <offer id="IM0000033" available="true">
-        <stock_quantity>734</stock_quantity>
+        <stock_quantity>733</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-ultra-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-chornijj/</url>
         <price_opt>2730</price_opt>
@@ -2086,7 +2086,7 @@
       <video></video>
       </offer>
         <offer id="IM0000031" available="true">
-        <stock_quantity>95</stock_quantity>
+        <stock_quantity>90</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-bali-komplektaciya-khrom-mekhanizm-dt-deep-tilt-obbivka-chornijj/</url>
         <price_opt>5562</price_opt>
@@ -2263,7 +2263,7 @@
       <video></video>
       </offer>
         <offer id="ADD0002750" available="true">
-        <stock_quantity>36</stock_quantity>
+        <stock_quantity>35</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-bingo-komplektaciya-khrom-mekhanizm-piastra-obbivka-bezhevijj/</url>
         <price_opt>3150</price_opt>
@@ -3625,7 +3625,7 @@
       <video></video>
       </offer>
         <offer id="ADD0001742" available="true">
-        <stock_quantity>36</stock_quantity>
+        <stock_quantity>35</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-kongres-komplektaciya-khrom-mekhanizm-m-2-shirokijj-anyfix-wide-obbivka-korichnevijj/</url>
         <price_opt>12096</price_opt>
@@ -3698,7 +3698,7 @@
       <video></video>
       </offer>
         <offer id="IM0000007" available="true">
-        <stock_quantity>54</stock_quantity>
+        <stock_quantity>52</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-kongres-komplektaciya-khrom-mekhanizm-m-2-shirokijj-anyfix-wide-obbivka-chornijj/</url>
         <price_opt>12096</price_opt>
@@ -4116,7 +4116,7 @@
       <video></video>
       </offer>
         <offer id="ADD0003113" available="true">
-        <stock_quantity>35</stock_quantity>
+        <stock_quantity>34</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-mia-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-blakitnijj/</url>
         <price_opt>3180</price_opt>
@@ -5096,7 +5096,7 @@
       <video></video>
       </offer>
         <offer id="R00000055430" available="true">
-        <stock_quantity>67</stock_quantity>
+        <stock_quantity>68</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/pidstavka-dlya-kvitiv-dzherelo/</url>
         <price_opt>408</price_opt>
@@ -5153,8 +5153,8 @@
         <param name="Об'єм пакування:">0,005 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000055431" available="false">
-        <stock_quantity>0</stock_quantity>
+        <offer id="R00000055431" available="true">
+        <stock_quantity>10</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/pidstavka-dlya-kvitiv-obrijj/</url>
         <price_opt>414</price_opt>
@@ -5289,8 +5289,8 @@
         <param name="Об'єм упаковки:">0,07 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000039467" available="true">
-        <stock_quantity>1</stock_quantity>
+        <offer id="R00000039467" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/pidstavka-dlya-kvitiv-techiya-4-polichki/</url>
         <price_opt>2262</price_opt>
@@ -5393,10 +5393,10 @@
         <vendor>Richman</vendor>
         <uktzed>9403</uktzed>
         <warranty>18 місяців</warranty>
-        <picture>https://richmangroup.com.ua/wp-content/uploads/2022/11/Підставка-для-квітів-Гірка-1.jpg</picture>
-        <picture>https://richmangroup.com.ua/wp-content/uploads/2022/11/Підставка-для-квітів-Гірка-3.jpg</picture>
-        <picture>https://richmangroup.com.ua/wp-content/uploads/2022/11/Підставка-для-квітів-Гірка-2.jpg</picture>
-        <picture>https://richmangroup.com.ua/wp-content/uploads/2022/11/Підставка-для-квітів-Гірка-4.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2022/11/girka-1260-3-chorna-dsp-buk-4-1.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2022/11/girka-1260-3-chorna-dsp-buk-1.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2022/11/girka-1260-3-chorna-dsp-buk-2.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2022/11/girka-1260-3-chorna-dsp-buk-3.jpg</picture>
         <name_ua_full>Підставка під квіти Гірка 1260/3 чорна, дсп бук</name_ua_full>
         <name_ua>Підставка Під Квіти Richman Гірка</name_ua>
         <name>Подставка Под Цветы Richman Горка</name>
@@ -5940,7 +5940,7 @@
         <name>Кровать Richman Балу Размер 90 х 200 Комплектация Стандарт Обивка Сиена 1015 Маус</name>
         <description_ua><![CDATA[Ліжко Richman «Балу» - для тих, хто шукає зручне та функціональне меблеве рішення для спальні. З його симетричним дизайном узголів'я і м'якими скругленими краями ви отримуєте затишок і комфорт кожної ночі. В інтер’єрі спальні ліжко чудово поєднується з м’якими кріслами у вітальню, які доповнять простір стилем і зручністю. Ортопедична основа з 20 ламелей забезпечує правильну підтримку вашого тіла, зроблена з металу, надійна і легка в збиранні та транспортуванні. Найбільшою перевагою цього ліжка є його компактність та функціональність. З легкістю перетворіть його в диван, додавши лише кілька подушок. Це ідеальний варіант для невеликих спалень, де кожен сантиметр має значення. А ще ліжко «Балу» оснащено великим висувним ящиком для білизни із ручками зручної форми для миттєвого доступу до речей, забезпечуючи порядок у вашій спальні. Такі особливості вирізняють ліжка «Балу» фабрики Richman: Ми пропонуємо можливість індивідуального виготовлення ліжка за вашими бажаннями. Ви можете вибрати будь-який колір і тип оббивки, що підкреслить унікальність вашого інтер’єру; Металевий каркас ліжка відзначається абсолютною безпекою, оскільки не має гострих кутів, що мінімізує ризик травматизму. Додатково, усі металеві елементи конструкції мають правильну товщину металу і фарбуються виключно порошковою фарбою для максимальної надійності та довговічності ліжка; Ламелі для ліжка виготовлені з твердих порід деревини, що забезпечує додаткову міцність і довговічність конструкції. У каркасі ліжка використовується фурнітура виключно з металу, гарантуючи його надійність і довгий термін служби; Застосовуємо в наших ліжках високоякісні імпортні пневмопатрони; Наші ліжка виготовляються з натуральних матеріалів, які повністю відповідають європейським екостандартам. Ми дбаємо про здоров’я наших покупців, використовуючи лише якісні та безпечні матеріали; Кожного місяця ми задовольняємо потреби сотень наших клієнтів, відправляючи їм наші ліжка, які також активно експортуються за кордон. Зауважте, що ліжко постачається в розібраному вигляді та продається без матраца. У комплект постачання входить усе необхідне для збірки, яка не займає багато часу. Меблі від Richman — це поєднання високої якості, неперевершеного дизайну та помірної ціни. Купити диван в спальню від провідного українського виробника – це прекрасний вибір для будинку чи вашого бізнесу.]]></description_ua>
         <description><![CDATA[Кровать Richman «Балу» — для тех, кто ищет удобное и функциональное мебельное решение для спальни. Благодаря симметричному дизайну изголовья и мягким скругленным краям вы получаете уют и комфорт каждую ночь. В интерьере спальни кровать отлично сочетается с мягкими креслами в гостиную, которые дополнят пространство стилем и удобством. Ортопедическое основание с 20 ламелями обеспечивает правильную поддержку вашего тела, изготовлено из металла, отличается надежностью и легкостью в сборке и транспортировке. Главным преимуществом этой кровати является ее компактность и функциональность. С легкостью превратите ее в диван, добавив всего несколько подушек. Это идеальный вариант для небольших спален, где каждый сантиметр имеет значение. А еще кровать «Балу» оснащена большим выдвижным ящиком для белья с ручками удобной формы для мгновенного доступа к вещам, обеспечивая порядок в вашей спальне. Такие особенности выделяют кровати «Балу» фабрики Richman: Мы предлагаем возможность индивидуального изготовления кровати по вашим пожеланиям. Вы можете выбрать любой цвет и тип обивки, что подчеркнет уникальность вашего интерьера; Металлический каркас кровати отличается абсолютной безопасностью, поскольку не имеет острых углов, что минимизирует риск травматизма. Дополнительно, все металлические элементы конструкции имеют правильную толщину металла и окрашиваются исключительно порошковой краской для максимальной надежности и долговечности кровати; Ламели для кровати изготовлены из твердых пород древесины, что обеспечивает дополнительную прочность и долговечность конструкции. В каркасе кровати используется фурнитура исключительно из металла, гарантируя его надежность и долгий срок службы; Применяем в наших кроватях высококачественные импортные пневмопатроны; Наши кровати изготавливаются из натуральных материалов, которые полностью соответствуют европейским экостандартам. Мы заботимся о здоровье наших покупателей, используя только качественные и безопасные материалы; Каждый месяц мы удовлетворяем потребности сотен наших клиентов, отправляя им наши кровати, которые также активно экспортируются за границу. Обратите внимание, что кровать поставляется в разобранном виде и продается без матраса. В комплект поставки входит все необходимое для сборки, которая не занимает много времени. Мебель от Richman — это сочетание высокого качества, непревзойденного дизайна и умеренной цены. Купить диван в спальню от ведущего украинского производителя — это прекрасный выбор для дома или вашего бизнеса.]]></description>
-        <param name="Модель:">Балу</param>
+        <param name="Модель:">Балу із захисним бортиком</param>
         <param name="Комплектація виробу:">Стандарт</param>
         <param name="Розмір спального місця:">900 х 2000 мм</param>
         <param name="Матеріал оббивки:">Мікровелюр</param>
@@ -39471,18 +39471,13 @@
         <vendor>Richman</vendor>
         <uktzed>9401 61 00 00</uktzed>
         <warranty>18 місяців</warranty>
-        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/03/dyvan-klarus-odynarnyj-nizhky-chorni-floryda-dark-bl-4.jpg</picture>
-        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/03/dyvan-klarus-odynarnyj-nizhky-chorni-floryda-dark-bl-13_1000h1000.jpg</picture>
-        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/03/dyvan-klarus-odynarnyj-nizhky-chorni-floryda-dark-bl-14.jpg</picture>
-        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/03/dyvan-klarus-odynarnyj-nizhky-chorni-floryda-dark-bl-6.jpg</picture>
-        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/03/dyvan-klarus-odynarnyj-nizhky-chorni-floryda-dark-bl-8.jpg</picture>
-        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/03/dyvan-klarus-odynarnyj-nizhky-chorni-floryda-dark-bl-10.jpg</picture>
-        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/03/dyvan-klarus-odynarnyj-nizhky-chorni-floryda-dark-bl-2.jpg</picture>
-        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/03/dyvan-klarus-odynarnyj-nizhky-chorni-floryda-dark-bl-11.jpg</picture>
-        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/03/dyvan-klarus-odynarnyj-nizhky-chorni-floryda-dark-bl-12_1000h1000.jpg</picture>
-        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/03/dyvan-klarus-odynarnyj-nizhky-chorni-floryda-dark-bl-17.jpg</picture>
-        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/03/dyvan-klarus-odynarnyj-nizhky-chorni-floryda-dark-bl-15.jpg</picture>
-        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/03/dyvan-klarus-odynarnyj-nizhky-chorni-floryda-dark-bl-16.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/03/dyvan-klarus-odynarnyj-nizhky-chorni-floryda-dark-bl-1.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/03/dyvan-klarus-odynarnyj-nizhky-chorni-floryda-dark-bl-5.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/03/dyvan-klarus-odynarnyj-nizhky-chorni-floryda-dark-bl-2-1.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/03/dyvan-klarus-odynarnyj-nizhky-chorni-floryda-dark-bl-3.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/03/dyvan-klarus-odynarnyj-nizhky-chorni-floryda-dark-bl-4-1.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/03/dyvan-klarus-odynarnyj-nizhky-chorni-floryda-dark-bl-6-1.jpg</picture>
+        <picture>https://richmangroup.com.ua/wp-content/uploads/2026/03/dyvan-klarus-odynarnyj-nizhky-chorni-floryda-dark-bl-7.jpg</picture>
         <name_ua_full>Диван Кларус Одинарний Ніжки Чорні Флорида Дарк Блу</name_ua_full>
         <name_ua>Диван Richman Кларус Комплектація Одинарний Оббивка Флорида Дарк Блу</name_ua>
         <name>Диван Richman Кларус Комплектация Одинарный Обивка Флорида Дарк Блу</name>
@@ -57347,7 +57342,7 @@
       <video></video>
       </offer>
         <offer id="R00000049541" available="true">
-        <stock_quantity>16</stock_quantity>
+        <stock_quantity>14</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-atlant-komplektaciya-khrom-p1-mekhanizm-m-1-tilt-obbivka-flai%cc%86-2230/</url>
         <price_opt>6264</price_opt>
@@ -58066,8 +58061,8 @@
         <param name="Об'єм упаковки:">0,17 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000049545" available="true">
-        <stock_quantity>1</stock_quantity>
+        <offer id="R00000049545" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-atlant-komplektaciya-khrom-p2-mekhanizm-m-2-anyfix-obbivka-misti-dk-grejj/</url>
         <price_opt>6888</price_opt>
@@ -64487,7 +64482,7 @@
       <video></video>
       </offer>
         <offer id="R00000042232" available="true">
-        <stock_quantity>7</stock_quantity>
+        <stock_quantity>6</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-kaliforniya-yu-komplektaciya-plastik-rich-mekhanizm-m-1-tilt-obbivka-misti-shokolad/</url>
         <price_opt>6930</price_opt>
@@ -68499,7 +68494,7 @@
       <video></video>
       </offer>
         <offer id="R00000053887" available="true">
-        <stock_quantity>8</stock_quantity>
+        <stock_quantity>7</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-mankhetten-yu-komplektaciya-khrom-p2-mekhanizm-m-2-anyfix-obbivka-prajjm-espreso/</url>
         <price_opt>9240</price_opt>
@@ -68979,7 +68974,7 @@
       <video></video>
       </offer>
         <offer id="R00000052866" available="true">
-        <stock_quantity>9</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-mankhetten-yu-komplektaciya-khrom-p2-mekhanizm-m-1-tilt-obbivka-salviya-15/</url>
         <price_opt>7218</price_opt>
@@ -69250,7 +69245,7 @@
       <video></video>
       </offer>
         <offer id="R00000054508" available="true">
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-mankhetten-yu-komplektaciya-khrom-p3-mekhanizm-m-1-tilt-obbivka-prajjm-espreso/</url>
         <price_opt>8820</price_opt>
@@ -69303,7 +69298,7 @@
       <video></video>
       </offer>
         <offer id="R00000054507" available="true">
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-mankhetten-yu-komplektaciya-khrom-p3-mekhanizm-m-1-tilt-obbivka-rokki-100/</url>
         <price_opt>7218</price_opt>
@@ -74926,8 +74921,8 @@
         <param name="Об'єм упаковки:">0,17 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000054864" available="false">
-        <stock_quantity>0</stock_quantity>
+        <offer id="R00000054864" available="true">
+        <stock_quantity>14</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-foksi-komplektaciya-plastik-rich-mekhanizm-m-1-tilt-obbivka-flajj-2230/</url>
         <price_opt>5574</price_opt>
@@ -75266,7 +75261,7 @@
       <video></video>
       </offer>
         <offer id="R00000050452" available="true">
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-frankfurt-yu-komplektaciya-khrom-p2-mekhanizm-m-1-tilt-obbivka-rokki-16/</url>
         <price_opt>6138</price_opt>
@@ -75320,7 +75315,7 @@
       <video></video>
       </offer>
         <offer id="R00000050527" available="true">
-        <stock_quantity>6</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-frankfurt-yu-komplektaciya-khrom-p2-mekhanizm-m-1-tilt-obbivka-flajj-2230/</url>
         <price_opt>6138</price_opt>
@@ -76602,8 +76597,8 @@
         <param name="Об'єм упаковки:">0,13 м3</param>
       <video></video>
       </offer>
-        <offer id="ADD0002872" available="false">
-        <stock_quantity>0</stock_quantity>
+        <offer id="ADD0002872" available="true">
+        <stock_quantity>20</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-spajjder-yu-komplektaciya-khrom-mekhanizm-piastra-obbivka-sitka-chorna/</url>
         <price_opt>2982</price_opt>
@@ -76744,7 +76739,7 @@
       <video></video>
       </offer>
         <offer id="ADD0003057" available="true">
-        <stock_quantity>17</stock_quantity>
+        <stock_quantity>16</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-spajjder-yu-komplektaciya-khrom-mekhanizm-piastra-obbivka-sitka-chorna-sira/</url>
         <price_opt>3060</price_opt>
@@ -81341,8 +81336,8 @@
         <param name="Кількість виробів в упаковці:">1 або 4</param>
       <video></video>
       </offer>
-        <offer id="R00000040543" available="false">
-        <stock_quantity>0</stock_quantity>
+        <offer id="R00000040543" available="true">
+        <stock_quantity>4</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/stilec-garret-komplektaciya-nizhki-chorni-obbivka-malkolm-57/</url>
         <price_opt>2220</price_opt>
@@ -87349,8 +87344,8 @@
         <name_ua_full>Механізм качання М-1</name_ua_full>
         <name_ua>Механізм Richman М-1 (Tilt)</name_ua>
         <name>Механизм Richman М-1 (Tilt)</name>
-        <description_ua><![CDATA[Механізм М-1 М-1 TILT — механізм з фіксацією у вертикальному положенні, оснащений однією лапкою для регулювання. Використовується у базових комплектаціях крісел RICHMAN. &nbsp; Завдяки механізму можна змінювати висоту крісла та комфортно гойдатися в ньому. Режим вільного гойдання дозволяє нахиляти спинку без фіксації, перетворюючи офісне крісло на крісло-качалку. Щоб запустити режим гойдання, потрібно потягнути вбік металевий важіль (лапку). Це варто робити саме у вертикальному положенні спинки. Зворотним рухом відбувається фіксація крісла. &nbsp; Характеристики механізмів RICHMAN: &nbsp; Є система регулювання жорсткості колихання, щоб налаштувати крісло під вагу користувача. Посилена товщина металу (2.2 мм) та збільшений розмір механізму (по відношенню до інших виробників) — це робить виріб більш стійким та збільшує термін використання. Автоматична роботизована зварка, яка суттєво збільшує міцність механізму. Функція “антишок” робить момент включення/виключення гойдання більш плавним та комфортним. Міжосьові відстані: довжина — 15 см, ширина — 25,5 см. &nbsp; Механізм М-1 TILT виготовлений майстрами меблевої фабрики RICHMAN. Ми впевнені в якості своєї продукції та надаємо гарантію 12 місяців на приховані заводські дефекти!]]></description_ua>
-        <description><![CDATA[Механизм М-1 М-1 TILT — механизм с фиксацией в вертикальном положении, оснащенный одной лапкой для регулировки. Используется в базовых комплектациях кресел RICHMAN. Благодаря механизму можно изменять высоту кресла и комфортно качаться в нем. Режим свободного качания позволяет наклонять спинку без фиксации, превращая офисное кресло в кресло-качалку. Чтобы запустить режим качания, следует потянуть в сторону металлический рычаг (лапку). Это следует делать именно в вертикальном положении спинки. Обратным движением происходит фиксация кресла. Характеристики механизмов RICHMAN: Есть система регулировки жесткости колебания, чтобы настроить кресло под вес пользователя. Усиленная толщина металла (2.2 мм) и увеличенный размер механизма (по отношению к другим производителям) — это делает изделие более устойчивым и увеличивает срок использования. Автоматическая роботизированная сварка, существенно увеличивающая прочность механизма. Функция “антишок” делает момент включения/выключения качания более плавным и комфортным. Междуосевые расстояния: длина — 15 см, ширина — 25 см. &nbsp; Механизм М-1 TILT изготовлен мастерами мебельной фабрики RICHMAN. Мы уверены в качестве своей продукции и гарантируем 12 месяцев на скрытые заводские дефекты!]]></description>
+        <description_ua><![CDATA[Механізм М-1 М-1 TILT — механізм з фіксацією у вертикальному положенні, оснащений однією лапкою для регулювання. Використовується у базових комплектаціях крісел RICHMAN. Завдяки механізму можна змінювати висоту крісла та комфортно гойдатися в ньому. Режим вільного гойдання дозволяє нахиляти спинку без фіксації, перетворюючи офісне крісло на крісло-качалку. Щоб запустити режим гойдання, потрібно потягнути вбік металевий важіль (лапку). Це варто робити саме у вертикальному положенні спинки. Зворотним рухом відбувається фіксація крісла. Характеристики механізмів RICHMAN: Є система регулювання жорсткості колихання, щоб налаштувати крісло під вагу користувача. Посилена товщина металу (2.2 мм) та збільшений розмір механізму (по відношенню до інших виробників) — це робить виріб більш стійким та збільшує термін використання. Автоматична роботизована зварка, яка суттєво збільшує міцність механізму. Функція “антишок” робить момент включення/виключення гойдання більш плавним та комфортним. Міжосьові відстані: довжина — 15 см, ширина — 25.5 см. &nbsp; Механізм М-1 TILT виготовлений майстрами меблевої фабрики RICHMAN. Ми впевнені в якості своєї продукції та надаємо гарантію 12 місяців на приховані заводські дефекти!]]></description_ua>
+        <description><![CDATA[Механизм М-1 М-1 TILT — механизм с фиксацией в вертикальном положении, оснащенный одной лапкой для регулировки. Используется в базовых комплектациях кресел RICHMAN. Благодаря механизму можно изменять высоту кресла и комфортно качаться в нем. Режим свободного качания позволяет наклонять спинку без фиксации, превращая офисное кресло в кресло-качалку. Чтобы запустить режим качания, следует потянуть в сторону металлический рычаг (лапку). Это следует делать именно в вертикальном положении спинки. Обратным движением происходит фиксация кресла. Характеристики механизмов RICHMAN: Есть система регулировки жесткости колебания, чтобы настроить кресло под вес пользователя. Усиленная толщина металла (2.2 мм) и увеличенный размер механизма (по отношению к другим производителям) — это делает изделие более устойчивым и увеличивает срок использования. Автоматическая роботизированная сварка, существенно увеличивающая прочность механизма. Функция “антишок” делает момент включения/выключения качания более плавным и комфортным. Междуосевые расстояния: длина — 15 см, ширина — 25.5 см. &nbsp; Механизм М-1 TILT изготовлен мастерами мебельной фабрики RICHMAN. Мы уверены в качестве своей продукции и гарантируем 12 месяцев на скрытые заводские дефекты!]]></description>
       <video></video>
       </offer>
         <offer id="KK0000004" available="true">
