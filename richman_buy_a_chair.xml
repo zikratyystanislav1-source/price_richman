@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-04 10:59">
+<yml_catalog date="2026-11-05 11:07">
   <shop>
     <name>Richman</name>
     <company>Richman</company>
@@ -90,7 +90,7 @@
       <video></video>
       </offer>
         <offer id="ADD0002354" available="true">
-        <stock_quantity>38</stock_quantity>
+        <stock_quantity>42</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-blast-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-sitka-chorna/</url>
         <price_opt>3126</price_opt>
@@ -1199,7 +1199,7 @@
       <video></video>
       </offer>
         <offer id="ADD0003210" available="true">
-        <stock_quantity>174</stock_quantity>
+        <stock_quantity>166</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-monero-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-sitka-chorna/</url>
         <price_opt>4614</price_opt>
@@ -4116,7 +4116,7 @@
       <video></video>
       </offer>
         <offer id="ADD0003113" available="true">
-        <stock_quantity>34</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-mia-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-blakitnijj/</url>
         <price_opt>3180</price_opt>
@@ -4160,7 +4160,7 @@
       <video></video>
       </offer>
         <offer id="R00000040009" available="true">
-        <stock_quantity>19</stock_quantity>
+        <stock_quantity>9</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-mia-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-rozhevijj/</url>
         <price_opt>3180</price_opt>
@@ -35977,8 +35977,8 @@
         <param name="Об'єм пакування:">1,30 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000029239" available="true">
-        <stock_quantity>1</stock_quantity>
+        <offer id="R00000029239" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/divan-vizit-komplektaciya-podvijjnijj-obbivka-rokki-100/</url>
         <price_opt>13350</price_opt>
@@ -56870,8 +56870,8 @@
         <param name="Об'єм упаковки:">0,43 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000009059" available="true">
-        <stock_quantity>2</stock_quantity>
+        <offer id="R00000009059" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-atlant-komplektaciya-plastik-rich-mekhanizm-m-1-tilt-obbivka-flai%cc%86-2230-2227/</url>
         <price_opt>5250</price_opt>
@@ -58377,7 +58377,7 @@
       <video></video>
       </offer>
         <offer id="R00000049867" available="true">
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-bonus-yu-komplektaciya-khrom-p3-mekhanizm-m-1-tilt-obbivka-medzhik-bezh/</url>
         <price_opt>6108</price_opt>
@@ -58424,7 +58424,7 @@
       <video></video>
       </offer>
         <offer id="R00000049868" available="true">
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-bonus-yu-komplektaciya-khrom-p3-mekhanizm-m-1-tilt-obbivka-medzhik-dark-grei%cc%86/</url>
         <price_opt>6108</price_opt>
@@ -61745,7 +61745,7 @@
         <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/krislo-valensiya-hrom-p1-m-2-shkira-lyuks-100_-pull-ap-shejk-progumovani-kolesa-11.jpg</picture>
         <name_ua_full>Крісло Валенсія Хром П1 М-2 Шкіра-Люкс 100% Пулл Ап Шейк (Прогумовані Колеса)</name_ua_full>
         <name_ua>Крісло Richman Валенсія Комплектація Хром П1 Механізм M-2 (Anyfix) Оббивка Шкіра Люкс Пулл Ап Шейк</name_ua>
-        <name>Кресло Richman Валенсия Хром П1 Механизм M-2 (Anyfix) Обивка Кожа Люкс Пулл Ап Шейк</name>
+        <name>Кресло Richman Валенсия Комплектация Хром П1 Механизм M-2 (Anyfix) Кожа Люкс Пулл Ап Шейк</name>
         <description_ua><![CDATA[Крісло Richman «Валенсія» є сучасною моделлю керівницького крісла, яку наші клієнти вважають однією з найбільш успішних. Це крісло поєднує в собі класичний стиль, комфорт, бездоганну ергономіку та високу якість компонентів. Модель має красивий та сучасний дизайн, що прекрасно підійде для будь-якого кабінету. Це крісло забезпечує високу продуктивність під час роботи, оскільки має правильний рельєф та ергономіку спинки, що дає змогу вам працювати без відчуття втоми. Оббивка крісла може бути виконана в одному із трьох матеріалів — екошкірі, натуральній шкірі або тканині, що дає можливість підібрати практичний та комфортний варіант для вашого інтер’єру. Крісло також оснащене хромованими підлокітниками, які мають м’які подушки, що дає змогу зручно спертися на них у будь-якому положенні та комфортно розмістити руки під час відпочинку. Крім того, воно має механізм хитання M-2 (Anyfix), що забезпечує ще більший комфорт, та дозволяє зафіксувати кут нахилу крісла у будь-якому положенні. Також за побажанням клієнта крісло може бути укомплектоване іншим механізмом гойдання Міцна хрестовина з товстого хромованого металу товщиною 1,4 мм має прогумовані ролики, що дає змогу безшумно та безпечно пересувати крісло на різних поверхнях, не боячись їх пошкодити. Також це крісло можна укомплектувати посиленим газліфтом Class 4, розрахованим на підвищене навантаження до 150 кг та інтенсивну щоденну експлуатацію. Це дозволить підвищити надійність і довговічність крісла. Зауважте, що крісло постачається в розібраному вигляді. У комплект постачання входить усе необхідне для збірки, яка не займає багато часу. М’які меблі від Richman — це поєднання високої якості, неперевершеного дизайну та помірної ціни. Придбавши меблі від провідного українського виробника ви робите прекрасний вибір для будинку чи вашого бізнесу.]]></description_ua>
         <description><![CDATA[Кресло Richman «Валенсия» является современной моделью руководительского кресла, которую наши клиенты считают одной из самых удачных. Это кресло сочетает в себе классический стиль, комфорт, безупречную эргономику и высокое качество комплектующих. Модель имеет красивый и современный дизайн, который прекрасно подойдет для любого кабинета. Это кресло обеспечивает высокую продуктивность во время работы, поскольку имеет правильный рельеф и эргономику спинки, что позволяет работать без ощущения усталости. Обивка кресла может быть выполнена в одном из трёх материалов — экокоже, натуральной коже или ткани, что дает возможность подобрать практичный и комфортный вариант для вашего интерьера. Кресло также оснащено хромированными подлокотниками с мягкими подушками, что позволяет удобно опираться на них в любом положении и комфортно размещать руки во время отдыха. Кроме того, оно имеет механизм качания M-2 (Anyfix), который обеспечивает ещё больший комфорт и позволяет зафиксировать угол наклона кресла в любом положении. Также по желанию клиента кресло может быть укомплектовано другим механизмом качания. Прочная крестовина из толстого хромированного металла толщиной 1,4 мм оснащена прорезиненными роликами, что позволяет бесшумно и безопасно перемещать кресло по различным поверхностям, не опасаясь их повреждения. Также это кресло можно укомплектовать усиленным газлифтом Class 4, рассчитанным на повышенную нагрузку до 150 кг и интенсивную ежедневную эксплуатацию. Это позволит повысить надежность и долговечность кресла. Обратите внимание, что кресло поставляется в разобранном виде. В комплект поставки входит всё необходимое для сборки, которая не занимает много времени. Мягкая мебель от Richman — это сочетание высокого качества, непревзойдённого дизайна и умеренной цены. Приобретая мебель от ведущего украинского производителя, вы делаете прекрасный выбор для дома или вашего бизнеса.]]></description>
         <param name="Модель:">Валенсія</param>
@@ -65266,7 +65266,7 @@
       <video></video>
       </offer>
         <offer id="R00000049590" available="true">
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-kaliforniya-yu-komplektaciya-khrom-p2-mekhanizm-m-1-tilt-obbivka-flajj-2207/</url>
         <price_opt>7122</price_opt>
@@ -68542,7 +68542,7 @@
       <video></video>
       </offer>
         <offer id="R00000053501" available="true">
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>7</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-mankhetten-yu-komplektaciya-khrom-p2-mekhanizm-m-2-anyfix-obbivka-salviya-97/</url>
         <price_opt>7638</price_opt>
@@ -68648,7 +68648,7 @@
       <video></video>
       </offer>
         <offer id="R00000053198" available="true">
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-mankhetten-yu-komplektaciya-khrom-p2-mekhanizm-m-2-anyfix-obbivka-florida-blek/</url>
         <price_opt>7974</price_opt>
@@ -78405,7 +78405,7 @@
       <video></video>
       </offer>
         <offer id="ADD0003067" available="true">
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-flesh-yu-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-sitka-chorna-zelena/</url>
         <price_opt>3276</price_opt>
