@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-09 10:28">
+<yml_catalog date="2026-11-10 10:58">
   <shop>
     <name>Richman</name>
     <company>Richman</company>
@@ -90,7 +90,7 @@
       <video></video>
       </offer>
         <offer id="ADD0002354" available="true">
-        <stock_quantity>40</stock_quantity>
+        <stock_quantity>34</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-blast-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-sitka-chorna/</url>
         <price_opt>3126</price_opt>
@@ -257,8 +257,8 @@
         <param name="Об'єм упаковки:">0,14 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000049770" available="true">
-        <stock_quantity>1</stock_quantity>
+        <offer id="R00000049770" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-vektor-pro-komplektaciya-khrom-mekhanizm-m-2-anyfix-obbivka-sitka-sira/</url>
         <price_opt>5724</price_opt>
@@ -984,7 +984,7 @@
       <video></video>
       </offer>
         <offer id="IM0000029" available="true">
-        <stock_quantity>87</stock_quantity>
+        <stock_quantity>81</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-keln-komplektaciya-khrom-mekhanizm-dt-deep-tilt-obbivka-sitka-chorna/</url>
         <price_opt>5184</price_opt>
@@ -1033,7 +1033,7 @@
       <video></video>
       </offer>
         <offer id="ADD0003216" available="true">
-        <stock_quantity>150</stock_quantity>
+        <stock_quantity>78</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-koncept-komplektaciya-plastik-mekhanizm-synchro-obbivka-sitka-chorna/</url>
         <price_opt>6612</price_opt>
@@ -1199,7 +1199,7 @@
       <video></video>
       </offer>
         <offer id="ADD0003210" available="true">
-        <stock_quantity>166</stock_quantity>
+        <stock_quantity>170</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-monero-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-sitka-chorna/</url>
         <price_opt>4614</price_opt>
@@ -1435,7 +1435,7 @@
       <video></video>
       </offer>
         <offer id="ADD0002376" available="true">
-        <stock_quantity>266</stock_quantity>
+        <stock_quantity>265</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-rodzher-komplektaciya-khrom-mekhanizm-m-2-anyfix-obbivka-sitka-chorna/</url>
         <price_opt>6132</price_opt>
@@ -1501,7 +1501,7 @@
       <video></video>
       </offer>
         <offer id="R00000048369" available="true">
-        <stock_quantity>154</stock_quantity>
+        <stock_quantity>153</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-skajjlajjn-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-sira/</url>
         <price_opt>5598</price_opt>
@@ -1556,7 +1556,7 @@
       <video></video>
       </offer>
         <offer id="R00000053308" available="true">
-        <stock_quantity>34</stock_quantity>
+        <stock_quantity>33</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-skajjlajjn-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-chorna/</url>
         <price_opt>5598</price_opt>
@@ -1768,7 +1768,7 @@
       <video></video>
       </offer>
         <offer id="ADD0003212" available="true">
-        <stock_quantity>59</stock_quantity>
+        <stock_quantity>58</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-token-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-sitka-chorna/</url>
         <price_opt>5352</price_opt>
@@ -1882,7 +1882,7 @@
       <video></video>
       </offer>
         <offer id="IM0000033" available="true">
-        <stock_quantity>717</stock_quantity>
+        <stock_quantity>706</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-ultra-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-chornijj/</url>
         <price_opt>2730</price_opt>
@@ -2263,7 +2263,7 @@
       <video></video>
       </offer>
         <offer id="ADD0002750" available="true">
-        <stock_quantity>35</stock_quantity>
+        <stock_quantity>34</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-bingo-komplektaciya-khrom-mekhanizm-piastra-obbivka-bezhevijj/</url>
         <price_opt>3150</price_opt>
@@ -2809,7 +2809,7 @@
       <video></video>
       </offer>
         <offer id="IM0000021" available="true">
-        <stock_quantity>38</stock_quantity>
+        <stock_quantity>37</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-valensiya-v-komplektaciya-khrom-mekhanizm-m-2-anyfix-obbivka-korichnevijj/</url>
         <price_opt>7644</price_opt>
@@ -3523,7 +3523,7 @@
       <video></video>
       </offer>
         <offer id="ADD0003125" available="true">
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>9</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-kongres-komplektaciya-khrom-mekhanizm-m-2-shirokijj-anyfix-wide-obbivka-bezhevijj/</url>
         <price_opt>12096</price_opt>
@@ -3845,7 +3845,7 @@
       <video></video>
       </offer>
         <offer id="IM0000009" available="true">
-        <stock_quantity>23</stock_quantity>
+        <stock_quantity>22</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-kongres-komplektaciya-khrom-mekhanizm-m-2-shirokijj-anyfix-wide-obbivka-shkira-lyuks-chorna-kombinovana/</url>
         <price_opt>18228</price_opt>
@@ -4056,7 +4056,7 @@
       <video></video>
       </offer>
         <offer id="R00000041853" available="true">
-        <stock_quantity>147</stock_quantity>
+        <stock_quantity>146</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-mankhetten-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-chorna/</url>
         <price_opt>7668</price_opt>
@@ -4116,7 +4116,7 @@
       <video></video>
       </offer>
         <offer id="ADD0003113" available="true">
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>34</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-mia-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-blakitnijj/</url>
         <price_opt>3180</price_opt>
@@ -4160,7 +4160,7 @@
       <video></video>
       </offer>
         <offer id="R00000040009" available="true">
-        <stock_quantity>9</stock_quantity>
+        <stock_quantity>19</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-mia-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-rozhevijj/</url>
         <price_opt>3180</price_opt>
@@ -4257,7 +4257,7 @@
       <video></video>
       </offer>
         <offer id="R00000042322" available="true">
-        <stock_quantity>19</stock_quantity>
+        <stock_quantity>18</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-premio-komplektaciya-pl-rich-mekhanizm-synchro-obbivka-shkira-split-temno-korichneva/</url>
         <price_opt>20358</price_opt>
@@ -4382,7 +4382,7 @@
       <video></video>
       </offer>
         <offer id="IM0000019" available="true">
-        <stock_quantity>36</stock_quantity>
+        <stock_quantity>35</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-senator-komplektaciya-khrom-mekhanizm-m-2-anyfix-obbivka-korichneva/</url>
         <price_opt>7920</price_opt>
@@ -56385,7 +56385,7 @@
       <video></video>
       </offer>
         <offer id="R00000037143" available="true">
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-atlant-komplektaciya-plastik-mekhanizm-m-1-tilt-obbivka-flai%cc%86-2230/</url>
         <price_opt>4944</price_opt>
@@ -59694,7 +59694,7 @@
       <video></video>
       </offer>
         <offer id="R00000049524" available="true">
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-burgas-yu-komplektaciya-khrom-p3-mekhanizm-m-2-anyfix-obbivka-rokki-18/</url>
         <price_opt>8634</price_opt>
@@ -60096,8 +60096,8 @@
         <param name="Об'єм упаковки:">0,43 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000053650" available="true">
-        <stock_quantity>1</stock_quantity>
+        <offer id="R00000053650" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-buford-komplektaciya-vud-lyuks-venge-mekhanizm-m-2-anyfix-obbivka-shkira-lyuks-kombinovana-chorna/</url>
         <price_opt>21018</price_opt>
@@ -61218,7 +61218,7 @@
       <video></video>
       </offer>
         <offer id="R00000049883" available="true">
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-valensiya-komplektaciya-khrom-p1-mekhanizm-m-1-tilt-obbivka-flajj-2230/</url>
         <price_opt>10068</price_opt>
@@ -62029,7 +62029,7 @@
       <video></video>
       </offer>
         <offer id="R00000059221" available="true">
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-valensiya-komplektaciya-khrom-p4-mekhanizm-m-2-anyfix-obbivka-shkira-lyuks-kombinovana-chorna/</url>
         <price_opt>16704</price_opt>
@@ -67241,7 +67241,7 @@
       <video></video>
       </offer>
         <offer id="R00000050546" available="true">
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-lion-yu-komplektaciya-khrom-p5-mekhanizm-m-1-tilt-obbivka-flai%cc%86-2230/</url>
         <price_opt>6450</price_opt>
@@ -68332,7 +68332,7 @@
       <video></video>
       </offer>
         <offer id="R00000056472" available="true">
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>9</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-mankhetten-yu-komplektaciya-plastik-rich-mekhanizm-m-1-tilt-obbivka-flajj-2230/</url>
         <price_opt>6606</price_opt>
@@ -69083,7 +69083,7 @@
       <video></video>
       </offer>
         <offer id="R00000052564" available="true">
-        <stock_quantity>6</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-mankhetten-yu-komplektaciya-khrom-p2-mekhanizm-m-1-tilt-obbivka-flajj-2300/</url>
         <price_opt>7218</price_opt>
@@ -69244,7 +69244,7 @@
       <video></video>
       </offer>
         <offer id="R00000054507" available="true">
-        <stock_quantity>11</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-mankhetten-yu-komplektaciya-khrom-p3-mekhanizm-m-1-tilt-obbivka-rokki-100/</url>
         <price_opt>7218</price_opt>
@@ -73871,8 +73871,8 @@
         <param name="Об'єм упаковки:">0,17 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000025546" available="true">
-        <stock_quantity>3</stock_quantity>
+        <offer id="R00000025546" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-fidzhi-komplektaciya-plastik-mekhanizm-m-1-tilt-obbivka-rokki-100/</url>
         <price_opt>4632</price_opt>
@@ -75703,7 +75703,7 @@
       <video></video>
       </offer>
         <offer id="R00000036865" available="true">
-        <stock_quantity>11</stock_quantity>
+        <stock_quantity>7</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-yuta-yu-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-flajj-2230/</url>
         <price_opt>5256</price_opt>
@@ -76309,7 +76309,7 @@
       <video></video>
       </offer>
         <offer id="ADD0002873" available="true">
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>9</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-spajjder-yu-komplektaciya-plastik-mekhanizm-piastra-obbivka-sitka-chorna/</url>
         <price_opt>2850</price_opt>
@@ -87817,8 +87817,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-polutorna-varena-bavovna-kolir-ajjvori/</url>
-        <price_opt>2580</price_opt>
-        <price>3354</price>
+        <price_opt>2946</price_opt>
+        <price>3834</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -87852,8 +87852,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2862</price_opt>
-        <price>3726</price>
+        <price_opt>3036</price_opt>
+        <price>3948</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -87887,8 +87887,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-dvospalna-varena-bavovna-kolir-ajjvori/</url>
-        <price_opt>2712</price_opt>
-        <price>3528</price>
+        <price_opt>2874</price_opt>
+        <price>3738</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -87922,8 +87922,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2796</price_opt>
-        <price>3636</price>
+        <price_opt>2964</price_opt>
+        <price>3858</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -87957,8 +87957,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-ehvro-varena-bavovna-kolir-ajjvori/</url>
-        <price_opt>2772</price_opt>
-        <price>3606</price>
+        <price_opt>2940</price_opt>
+        <price>3822</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -87992,8 +87992,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2856</price_opt>
-        <price>3714</price>
+        <price_opt>3030</price_opt>
+        <price>3942</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -88027,8 +88027,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-simejjnijj-varena-bavovna-kolir-ajjvori/</url>
-        <price_opt>3330</price_opt>
-        <price>4332</price>
+        <price_opt>3528</price_opt>
+        <price>4590</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -88062,8 +88062,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3414</price_opt>
-        <price>4440</price>
+        <price_opt>3618</price_opt>
+        <price>4704</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -88097,8 +88097,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-polutorna-varena-bavovna-kolir-grafitovijj/</url>
-        <price_opt>2526</price_opt>
-        <price>3288</price>
+        <price_opt>2682</price_opt>
+        <price>3492</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -88132,8 +88132,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2610</price_opt>
-        <price>3396</price>
+        <price_opt>2772</price_opt>
+        <price>3606</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -88167,8 +88167,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-polutorna-varena-bavovna-kolir-grafitovijj/</url>
-        <price_opt>2778</price_opt>
-        <price>3612</price>
+        <price_opt>2946</price_opt>
+        <price>3834</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -88201,8 +88201,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2862</price_opt>
-        <price>3726</price>
+        <price_opt>3036</price_opt>
+        <price>3948</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -88235,8 +88235,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-dvospalna-varena-bavovna-kolir-grafitovijj/</url>
-        <price_opt>2712</price_opt>
-        <price>3528</price>
+        <price_opt>2874</price_opt>
+        <price>3738</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -88270,8 +88270,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2796</price_opt>
-        <price>3636</price>
+        <price_opt>2964</price_opt>
+        <price>3858</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -88305,8 +88305,8 @@
         <stock_quantity>30</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-ehvro-varena-bavovna-kolir-grafitovijj/</url>
-        <price_opt>2772</price_opt>
-        <price>3606</price>
+        <price_opt>2940</price_opt>
+        <price>3822</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -88340,8 +88340,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2856</price_opt>
-        <price>3714</price>
+        <price_opt>3030</price_opt>
+        <price>3942</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -88375,8 +88375,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-simejjnijj-varena-bavovna-kolir-grafitovijj/</url>
-        <price_opt>3330</price_opt>
-        <price>4332</price>
+        <price_opt>3528</price_opt>
+        <price>4590</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -88410,8 +88410,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3414</price_opt>
-        <price>4440</price>
+        <price_opt>3618</price_opt>
+        <price>4704</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -88445,8 +88445,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-polutorna-varena-bavovna-kolir-bilijj/</url>
-        <price_opt>2526</price_opt>
-        <price>3288</price>
+        <price_opt>2682</price_opt>
+        <price>3492</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -88480,8 +88480,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2610</price_opt>
-        <price>3396</price>
+        <price_opt>2772</price_opt>
+        <price>3606</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -88515,8 +88515,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-polutorna-varena-bavovna-kolir-bilijj/</url>
-        <price_opt>2778</price_opt>
-        <price>3612</price>
+        <price_opt>2946</price_opt>
+        <price>3834</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -88548,8 +88548,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2862</price_opt>
-        <price>3726</price>
+        <price_opt>3036</price_opt>
+        <price>3948</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -88581,8 +88581,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-dvospalna-varena-bavovna-kolir-bilijj/</url>
-        <price_opt>2712</price_opt>
-        <price>3528</price>
+        <price_opt>2874</price_opt>
+        <price>3738</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -88616,8 +88616,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2796</price_opt>
-        <price>3636</price>
+        <price_opt>2964</price_opt>
+        <price>3858</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -88651,8 +88651,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-ehvro-varena-bavovna-kolir-bilijj/</url>
-        <price_opt>2772</price_opt>
-        <price>3606</price>
+        <price_opt>2940</price_opt>
+        <price>3822</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -88686,8 +88686,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2856</price_opt>
-        <price>3714</price>
+        <price_opt>3030</price_opt>
+        <price>3942</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -88721,8 +88721,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-simejjnijj-varena-bavovna-kolir-bilijj/</url>
-        <price_opt>3330</price_opt>
-        <price>4332</price>
+        <price_opt>3528</price_opt>
+        <price>4590</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -88756,8 +88756,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3414</price_opt>
-        <price>4440</price>
+        <price_opt>3618</price_opt>
+        <price>4704</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -88791,8 +88791,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-polutorna-varena-bavovna-kolir-blakitnijj/</url>
-        <price_opt>2526</price_opt>
-        <price>3288</price>
+        <price_opt>2682</price_opt>
+        <price>3492</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -88826,8 +88826,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2610</price_opt>
-        <price>3396</price>
+        <price_opt>2772</price_opt>
+        <price>3606</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -88861,8 +88861,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-polutorna-varena-bavovna-kolir-blakitnijj/</url>
-        <price_opt>2778</price_opt>
-        <price>3612</price>
+        <price_opt>2946</price_opt>
+        <price>3834</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -88894,8 +88894,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2862</price_opt>
-        <price>3726</price>
+        <price_opt>3036</price_opt>
+        <price>3948</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -88927,8 +88927,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-dvospalna-varena-bavovna-kolir-blakitnijj/</url>
-        <price_opt>2712</price_opt>
-        <price>3528</price>
+        <price_opt>2874</price_opt>
+        <price>3738</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -88962,8 +88962,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2796</price_opt>
-        <price>3636</price>
+        <price_opt>2964</price_opt>
+        <price>3858</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -88997,8 +88997,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-ehvro-varena-bavovna-kolir-blakitnijj/</url>
-        <price_opt>2772</price_opt>
-        <price>3606</price>
+        <price_opt>2940</price_opt>
+        <price>3822</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -89032,8 +89032,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2856</price_opt>
-        <price>3714</price>
+        <price_opt>3030</price_opt>
+        <price>3942</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -89067,8 +89067,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-simejjnijj-varena-bavovna-kolir-blakitnijj/</url>
-        <price_opt>3330</price_opt>
-        <price>4332</price>
+        <price_opt>3528</price_opt>
+        <price>4590</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -89102,8 +89102,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3414</price_opt>
-        <price>4440</price>
+        <price_opt>3618</price_opt>
+        <price>4704</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -89137,8 +89137,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-polutorna-varena-bavovna-kolir-lavandovijj/</url>
-        <price_opt>2526</price_opt>
-        <price>3288</price>
+        <price_opt>2682</price_opt>
+        <price>3492</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -89170,8 +89170,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-polutorna-varena-bavovna-kolir-lavandovijj/</url>
-        <price_opt>2610</price_opt>
-        <price>3396</price>
+        <price_opt>2772</price_opt>
+        <price>3606</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -89205,8 +89205,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2778</price_opt>
-        <price>3612</price>
+        <price_opt>2946</price_opt>
+        <price>3834</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -89240,8 +89240,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2862</price_opt>
-        <price>3726</price>
+        <price_opt>3036</price_opt>
+        <price>3948</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -89273,8 +89273,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-dvospalna-varena-bavovna-kolir-lavandovijj/</url>
-        <price_opt>2712</price_opt>
-        <price>3528</price>
+        <price_opt>2874</price_opt>
+        <price>3738</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -89308,8 +89308,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2796</price_opt>
-        <price>3636</price>
+        <price_opt>2964</price_opt>
+        <price>3858</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -89343,8 +89343,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-ehvro-varena-bavovna-kolir-lavandovijj/</url>
-        <price_opt>2772</price_opt>
-        <price>3606</price>
+        <price_opt>2940</price_opt>
+        <price>3822</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -89378,8 +89378,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2856</price_opt>
-        <price>3714</price>
+        <price_opt>3030</price_opt>
+        <price>3942</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -89413,8 +89413,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-simejjnijj-varena-bavovna-kolir-lavandovijj/</url>
-        <price_opt>3330</price_opt>
-        <price>4332</price>
+        <price_opt>3528</price_opt>
+        <price>4590</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -89448,8 +89448,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3414</price_opt>
-        <price>4440</price>
+        <price_opt>3618</price_opt>
+        <price>4704</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -89483,8 +89483,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-polutorna-varena-bavovna-kolir-myatnijj/</url>
-        <price_opt>2526</price_opt>
-        <price>3288</price>
+        <price_opt>2682</price_opt>
+        <price>3492</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -89518,8 +89518,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2610</price_opt>
-        <price>3396</price>
+        <price_opt>2772</price_opt>
+        <price>3606</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -89553,8 +89553,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-polutorna-varena-bavovna-kolir-myatnijj/</url>
-        <price_opt>2778</price_opt>
-        <price>3612</price>
+        <price_opt>2946</price_opt>
+        <price>3834</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -89586,8 +89586,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2862</price_opt>
-        <price>3726</price>
+        <price_opt>3036</price_opt>
+        <price>3948</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -89619,8 +89619,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-dvospalna-varena-bavovna-kolir-myatnijj/</url>
-        <price_opt>2712</price_opt>
-        <price>3528</price>
+        <price_opt>2874</price_opt>
+        <price>3738</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -89654,8 +89654,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2796</price_opt>
-        <price>3636</price>
+        <price_opt>2964</price_opt>
+        <price>3858</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -89689,8 +89689,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-ehvro-varena-bavovna-kolir-myatnijj/</url>
-        <price_opt>2772</price_opt>
-        <price>3606</price>
+        <price_opt>2940</price_opt>
+        <price>3822</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -89724,8 +89724,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2856</price_opt>
-        <price>3714</price>
+        <price_opt>3030</price_opt>
+        <price>3942</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -89759,8 +89759,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-simejjnijj-varena-bavovna-kolir-myatnijj/</url>
-        <price_opt>3330</price_opt>
-        <price>4332</price>
+        <price_opt>3528</price_opt>
+        <price>4590</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -89794,8 +89794,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3414</price_opt>
-        <price>4440</price>
+        <price_opt>3618</price_opt>
+        <price>4704</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -89829,8 +89829,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-polutorna-varena-bavovna-kolir-svitlo-sirijj/</url>
-        <price_opt>2526</price_opt>
-        <price>3288</price>
+        <price_opt>2682</price_opt>
+        <price>3492</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -89864,8 +89864,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2610</price_opt>
-        <price>3396</price>
+        <price_opt>2772</price_opt>
+        <price>3606</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -89899,8 +89899,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-polutorna-varena-bavovna-kolir-svitlo-sirijj/</url>
-        <price_opt>2778</price_opt>
-        <price>3612</price>
+        <price_opt>2946</price_opt>
+        <price>3834</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -89932,8 +89932,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2862</price_opt>
-        <price>3726</price>
+        <price_opt>3036</price_opt>
+        <price>3948</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -89965,8 +89965,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-dvospalna-varena-bavovna-kolir-svitlo-sirijj/</url>
-        <price_opt>2712</price_opt>
-        <price>3528</price>
+        <price_opt>2874</price_opt>
+        <price>3738</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90000,8 +90000,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2796</price_opt>
-        <price>3636</price>
+        <price_opt>2964</price_opt>
+        <price>3858</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90035,8 +90035,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-ehvro-varena-bavovna-kolir-svitlo-sirijj/</url>
-        <price_opt>2772</price_opt>
-        <price>3606</price>
+        <price_opt>2940</price_opt>
+        <price>3822</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90070,8 +90070,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2856</price_opt>
-        <price>3714</price>
+        <price_opt>3030</price_opt>
+        <price>3942</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90105,8 +90105,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-simejjnijj-varena-bavovna-kolir-svitlo-sirijj/</url>
-        <price_opt>3330</price_opt>
-        <price>4332</price>
+        <price_opt>3528</price_opt>
+        <price>4590</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90140,8 +90140,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3414</price_opt>
-        <price>4440</price>
+        <price_opt>3618</price_opt>
+        <price>4704</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90175,8 +90175,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-polutorna-ranfors-kolir-chornijj/</url>
-        <price_opt>2034</price_opt>
-        <price>2646</price>
+        <price_opt>2160</price_opt>
+        <price>2808</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90207,8 +90207,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2106</price_opt>
-        <price>2742</price>
+        <price_opt>2232</price_opt>
+        <price>2904</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90239,8 +90239,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-polutorna-ranfors-kolir-chornijj/</url>
-        <price_opt>2286</price_opt>
-        <price>2976</price>
+        <price_opt>2424</price_opt>
+        <price>3156</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90271,8 +90271,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2358</price_opt>
-        <price>3066</price>
+        <price_opt>2502</price_opt>
+        <price>3258</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90303,8 +90303,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-dvospalna-ranfors-kolir-chornijj/</url>
-        <price_opt>2322</price_opt>
-        <price>3024</price>
+        <price_opt>2460</price_opt>
+        <price>3198</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90335,8 +90335,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2394</price_opt>
-        <price>3114</price>
+        <price_opt>2538</price_opt>
+        <price>3300</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90367,8 +90367,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-dvospalna-ranfors-kolir-chornijj/</url>
-        <price_opt>2574</price_opt>
-        <price>3348</price>
+        <price_opt>2730</price_opt>
+        <price>3552</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90399,8 +90399,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2646</price_opt>
-        <price>3444</price>
+        <price_opt>2802</price_opt>
+        <price>3648</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90431,8 +90431,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-ehvro-ranfors-kolir-chornijj/</url>
-        <price_opt>2526</price_opt>
-        <price>3288</price>
+        <price_opt>2682</price_opt>
+        <price>3492</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90463,8 +90463,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2598</price_opt>
-        <price>3378</price>
+        <price_opt>2754</price_opt>
+        <price>3582</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90495,8 +90495,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-ehvro-ranfors-kolir-chornijj/</url>
-        <price_opt>2778</price_opt>
-        <price>3612</price>
+        <price_opt>2946</price_opt>
+        <price>3834</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90527,8 +90527,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2850</price_opt>
-        <price>3708</price>
+        <price_opt>3024</price_opt>
+        <price>3936</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90559,8 +90559,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-simejjnijj-ranfors-kolir-chornijj/</url>
-        <price_opt>3024</price_opt>
-        <price>3936</price>
+        <price_opt>3204</price_opt>
+        <price>4170</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90591,8 +90591,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3090</price_opt>
-        <price>4020</price>
+        <price_opt>3276</price_opt>
+        <price>4260</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90623,8 +90623,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-simejjnijj-ranfors-kolir-chornijj/</url>
-        <price_opt>3276</price_opt>
-        <price>4260</price>
+        <price_opt>3468</price_opt>
+        <price>4512</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90655,8 +90655,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3342</price_opt>
-        <price>4350</price>
+        <price_opt>3546</price_opt>
+        <price>4614</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90687,8 +90687,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-polutorna-ranfors-kolir-buzkovijj/</url>
-        <price_opt>2034</price_opt>
-        <price>2646</price>
+        <price_opt>2160</price_opt>
+        <price>2808</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90719,8 +90719,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2106</price_opt>
-        <price>2742</price>
+        <price_opt>2232</price_opt>
+        <price>2904</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90751,8 +90751,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-polutorna-ranfors-kolir-buzkovijj/</url>
-        <price_opt>2286</price_opt>
-        <price>2976</price>
+        <price_opt>2424</price_opt>
+        <price>3156</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90783,8 +90783,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2358</price_opt>
-        <price>3066</price>
+        <price_opt>2502</price_opt>
+        <price>3258</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90815,8 +90815,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-dvospalna-ranfors-kolir-buzkovijj/</url>
-        <price_opt>2322</price_opt>
-        <price>3024</price>
+        <price_opt>2460</price_opt>
+        <price>3198</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90847,8 +90847,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2394</price_opt>
-        <price>3114</price>
+        <price_opt>2538</price_opt>
+        <price>3300</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90879,8 +90879,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-dvospalna-ranfors-kolir-buzkovijj/</url>
-        <price_opt>2574</price_opt>
-        <price>3348</price>
+        <price_opt>2730</price_opt>
+        <price>3552</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90911,8 +90911,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2646</price_opt>
-        <price>3444</price>
+        <price_opt>2802</price_opt>
+        <price>3648</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90943,8 +90943,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-ehvro-ranfors-kolir-buzkovijj/</url>
-        <price_opt>2526</price_opt>
-        <price>3288</price>
+        <price_opt>2682</price_opt>
+        <price>3492</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -90975,8 +90975,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2598</price_opt>
-        <price>3378</price>
+        <price_opt>2754</price_opt>
+        <price>3582</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91007,8 +91007,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-ehvro-ranfors-kolir-buzkovijj/</url>
-        <price_opt>2778</price_opt>
-        <price>3612</price>
+        <price_opt>2946</price_opt>
+        <price>3834</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91039,8 +91039,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2850</price_opt>
-        <price>3708</price>
+        <price_opt>3024</price_opt>
+        <price>3936</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91071,8 +91071,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-simejjnijj-ranfors-kolir-buzkovijj/</url>
-        <price_opt>3024</price_opt>
-        <price>3936</price>
+        <price_opt>3204</price_opt>
+        <price>4170</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91103,8 +91103,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3090</price_opt>
-        <price>4020</price>
+        <price_opt>3276</price_opt>
+        <price>4260</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91135,8 +91135,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-simejjnijj-ranfors-kolir-buzkovijj/</url>
-        <price_opt>3276</price_opt>
-        <price>4260</price>
+        <price_opt>3468</price_opt>
+        <price>4512</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91167,8 +91167,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3342</price_opt>
-        <price>4350</price>
+        <price_opt>3546</price_opt>
+        <price>4614</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91199,8 +91199,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-polutorna-ranfors-kolir-olivkovijj/</url>
-        <price_opt>2034</price_opt>
-        <price>2646</price>
+        <price_opt>2160</price_opt>
+        <price>2808</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91232,8 +91232,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2106</price_opt>
-        <price>2742</price>
+        <price_opt>2232</price_opt>
+        <price>2904</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91265,8 +91265,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-polutorna-ranfors-kolir-olivkovijj/</url>
-        <price_opt>2286</price_opt>
-        <price>2976</price>
+        <price_opt>2424</price_opt>
+        <price>3156</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91297,8 +91297,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2358</price_opt>
-        <price>3066</price>
+        <price_opt>2502</price_opt>
+        <price>3258</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91329,8 +91329,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-dvospalna-ranfors-kolir-olivkovijj/</url>
-        <price_opt>2322</price_opt>
-        <price>3024</price>
+        <price_opt>2460</price_opt>
+        <price>3198</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91362,8 +91362,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2394</price_opt>
-        <price>3114</price>
+        <price_opt>2538</price_opt>
+        <price>3300</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91395,8 +91395,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-dvospalna-ranfors-kolir-olivkovijj/</url>
-        <price_opt>2574</price_opt>
-        <price>3348</price>
+        <price_opt>2730</price_opt>
+        <price>3552</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91427,8 +91427,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2646</price_opt>
-        <price>3444</price>
+        <price_opt>2802</price_opt>
+        <price>3648</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91459,8 +91459,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-ehvro-ranfors-kolir-olivkovijj/</url>
-        <price_opt>2526</price_opt>
-        <price>3288</price>
+        <price_opt>2682</price_opt>
+        <price>3492</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91492,8 +91492,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2598</price_opt>
-        <price>3378</price>
+        <price_opt>2754</price_opt>
+        <price>3582</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91525,8 +91525,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-ehvro-ranfors-kolir-olivkovijj/</url>
-        <price_opt>2778</price_opt>
-        <price>3612</price>
+        <price_opt>2946</price_opt>
+        <price>3834</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91557,8 +91557,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2850</price_opt>
-        <price>3708</price>
+        <price_opt>3024</price_opt>
+        <price>3936</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91589,8 +91589,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-simejjnijj-ranfors-kolir-olivkovijj/</url>
-        <price_opt>3024</price_opt>
-        <price>3936</price>
+        <price_opt>3204</price_opt>
+        <price>4170</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91622,8 +91622,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3090</price_opt>
-        <price>4020</price>
+        <price_opt>3276</price_opt>
+        <price>4260</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91655,8 +91655,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-simejjnijj-ranfors-kolir-olivkovijj/</url>
-        <price_opt>3276</price_opt>
-        <price>4260</price>
+        <price_opt>3468</price_opt>
+        <price>4512</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91687,8 +91687,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3342</price_opt>
-        <price>4350</price>
+        <price_opt>3546</price_opt>
+        <price>4614</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91719,8 +91719,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-polutorna-ranfors-kolir-slivovijj/</url>
-        <price_opt>2034</price_opt>
-        <price>2646</price>
+        <price_opt>2160</price_opt>
+        <price>2808</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91751,8 +91751,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2106</price_opt>
-        <price>2742</price>
+        <price_opt>2232</price_opt>
+        <price>2904</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91783,8 +91783,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-polutorna-ranfors-kolir-slivovijj/</url>
-        <price_opt>2286</price_opt>
-        <price>2976</price>
+        <price_opt>2424</price_opt>
+        <price>3156</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91815,8 +91815,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2358</price_opt>
-        <price>3066</price>
+        <price_opt>2502</price_opt>
+        <price>3258</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91847,8 +91847,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-dvospalna-ranfors-kolir-slivovijj/</url>
-        <price_opt>2322</price_opt>
-        <price>3024</price>
+        <price_opt>2460</price_opt>
+        <price>3198</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91879,8 +91879,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2394</price_opt>
-        <price>3114</price>
+        <price_opt>2538</price_opt>
+        <price>3300</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91911,8 +91911,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-dvospalna-ranfors-kolir-slivovijj/</url>
-        <price_opt>2574</price_opt>
-        <price>3348</price>
+        <price_opt>2730</price_opt>
+        <price>3552</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91943,8 +91943,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2646</price_opt>
-        <price>3444</price>
+        <price_opt>2802</price_opt>
+        <price>3648</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -91975,8 +91975,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-ehvro-ranfors-kolir-slivovijj/</url>
-        <price_opt>2526</price_opt>
-        <price>3288</price>
+        <price_opt>2682</price_opt>
+        <price>3492</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92007,8 +92007,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2598</price_opt>
-        <price>3378</price>
+        <price_opt>2754</price_opt>
+        <price>3582</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92039,8 +92039,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-ehvro-ranfors-kolir-slivovijj/</url>
-        <price_opt>2778</price_opt>
-        <price>3612</price>
+        <price_opt>2946</price_opt>
+        <price>3834</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92071,8 +92071,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2850</price_opt>
-        <price>3708</price>
+        <price_opt>3024</price_opt>
+        <price>3936</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92103,8 +92103,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-simejjnijj-ranfors-kolir-slivovijj/</url>
-        <price_opt>3024</price_opt>
-        <price>3936</price>
+        <price_opt>3204</price_opt>
+        <price>4170</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92135,8 +92135,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3090</price_opt>
-        <price>4020</price>
+        <price_opt>3276</price_opt>
+        <price>4260</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92167,8 +92167,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-simejjnijj-ranfors-kolir-slivovijj/</url>
-        <price_opt>3276</price_opt>
-        <price>4260</price>
+        <price_opt>3468</price_opt>
+        <price>4512</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92199,8 +92199,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3342</price_opt>
-        <price>4350</price>
+        <price_opt>3546</price_opt>
+        <price>4614</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92231,8 +92231,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-polutorna-ranfors-kolir-girchichnijj/</url>
-        <price_opt>2034</price_opt>
-        <price>2646</price>
+        <price_opt>2160</price_opt>
+        <price>2808</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92263,8 +92263,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2106</price_opt>
-        <price>2742</price>
+        <price_opt>2232</price_opt>
+        <price>2904</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92295,8 +92295,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-polutorna-ranfors-kolir-girchichnijj/</url>
-        <price_opt>2286</price_opt>
-        <price>2976</price>
+        <price_opt>2424</price_opt>
+        <price>3156</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92327,8 +92327,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2358</price_opt>
-        <price>3066</price>
+        <price_opt>2502</price_opt>
+        <price>3258</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92359,8 +92359,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-dvospalna-ranfors-kolir-girchichnijj/</url>
-        <price_opt>2322</price_opt>
-        <price>3024</price>
+        <price_opt>2460</price_opt>
+        <price>3198</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92391,8 +92391,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2394</price_opt>
-        <price>3114</price>
+        <price_opt>2538</price_opt>
+        <price>3300</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92423,8 +92423,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-dvospalna-ranfors-kolir-girchichnijj/</url>
-        <price_opt>2574</price_opt>
-        <price>3348</price>
+        <price_opt>2730</price_opt>
+        <price>3552</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92455,8 +92455,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2646</price_opt>
-        <price>3444</price>
+        <price_opt>2802</price_opt>
+        <price>3648</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92487,8 +92487,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-ehvro-ranfors-kolir-girchichnijj/</url>
-        <price_opt>2526</price_opt>
-        <price>3288</price>
+        <price_opt>2682</price_opt>
+        <price>3492</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92519,8 +92519,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2598</price_opt>
-        <price>3378</price>
+        <price_opt>2754</price_opt>
+        <price>3582</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92551,8 +92551,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-ehvro-ranfors-kolir-girchichnijj/</url>
-        <price_opt>2778</price_opt>
-        <price>3612</price>
+        <price_opt>2946</price_opt>
+        <price>3834</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92583,8 +92583,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2850</price_opt>
-        <price>3708</price>
+        <price_opt>3024</price_opt>
+        <price>3936</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92615,8 +92615,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-simejjnijj-ranfors-kolir-girchichnijj/</url>
-        <price_opt>3024</price_opt>
-        <price>3936</price>
+        <price_opt>3204</price_opt>
+        <price>4170</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92647,8 +92647,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3090</price_opt>
-        <price>4020</price>
+        <price_opt>3276</price_opt>
+        <price>4260</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92679,8 +92679,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-simejjnijj-ranfors-kolir-girchichnijj/</url>
-        <price_opt>3276</price_opt>
-        <price>4260</price>
+        <price_opt>3468</price_opt>
+        <price>4512</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92711,8 +92711,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3342</price_opt>
-        <price>4350</price>
+        <price_opt>3546</price_opt>
+        <price>4614</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92743,8 +92743,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-polutorna-ranfors-kolir-sirijj/</url>
-        <price_opt>2034</price_opt>
-        <price>2646</price>
+        <price_opt>2160</price_opt>
+        <price>2808</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92775,8 +92775,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2106</price_opt>
-        <price>2742</price>
+        <price_opt>2232</price_opt>
+        <price>2904</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92807,8 +92807,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-polutorna-ranfors-kolir-sirijj/</url>
-        <price_opt>2286</price_opt>
-        <price>2976</price>
+        <price_opt>2424</price_opt>
+        <price>3156</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92839,8 +92839,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2358</price_opt>
-        <price>3066</price>
+        <price_opt>2502</price_opt>
+        <price>3258</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92871,8 +92871,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-dvospalna-ranfors-kolir-sirijj/</url>
-        <price_opt>2322</price_opt>
-        <price>3024</price>
+        <price_opt>2460</price_opt>
+        <price>3198</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92903,8 +92903,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2394</price_opt>
-        <price>3114</price>
+        <price_opt>2538</price_opt>
+        <price>3300</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92935,8 +92935,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-dvospalna-ranfors-kolir-sirijj/</url>
-        <price_opt>2574</price_opt>
-        <price>3348</price>
+        <price_opt>2730</price_opt>
+        <price>3552</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92967,8 +92967,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2646</price_opt>
-        <price>3444</price>
+        <price_opt>2802</price_opt>
+        <price>3648</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -92999,8 +92999,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-ehvro-ranfors-kolir-sirijj/</url>
-        <price_opt>2526</price_opt>
-        <price>3288</price>
+        <price_opt>2682</price_opt>
+        <price>3492</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93031,8 +93031,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2598</price_opt>
-        <price>3378</price>
+        <price_opt>2754</price_opt>
+        <price>3582</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93063,8 +93063,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-ehvro-ranfors-kolir-sirijj/</url>
-        <price_opt>2778</price_opt>
-        <price>3612</price>
+        <price_opt>2946</price_opt>
+        <price>3834</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93095,8 +93095,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2850</price_opt>
-        <price>3708</price>
+        <price_opt>3024</price_opt>
+        <price>3936</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93127,8 +93127,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-simejjnijj-ranfors-kolir-sirijj/</url>
-        <price_opt>3024</price_opt>
-        <price>3936</price>
+        <price_opt>3204</price_opt>
+        <price>4170</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93159,8 +93159,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3090</price_opt>
-        <price>4020</price>
+        <price_opt>3276</price_opt>
+        <price>4260</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93191,8 +93191,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-simejjnijj-ranfors-kolir-sirijj/</url>
-        <price_opt>3276</price_opt>
-        <price>4260</price>
+        <price_opt>3468</price_opt>
+        <price>4512</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93223,8 +93223,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3342</price_opt>
-        <price>4350</price>
+        <price_opt>3546</price_opt>
+        <price>4614</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93255,8 +93255,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-polutorna-strajjp-satin-kolir-svitlo-blakitnijj/</url>
-        <price_opt>2592</price_opt>
-        <price>3372</price>
+        <price_opt>2748</price_opt>
+        <price>3576</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93287,8 +93287,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2688</price_opt>
-        <price>3498</price>
+        <price_opt>2850</price_opt>
+        <price>3708</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93319,8 +93319,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-polutorna-strajjp-satin-kolir-svitlo-blakitnijj/</url>
-        <price_opt>2844</price_opt>
-        <price>3702</price>
+        <price_opt>3012</price_opt>
+        <price>3918</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93351,8 +93351,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2940</price_opt>
-        <price>3822</price>
+        <price_opt>3114</price_opt>
+        <price>4050</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93383,8 +93383,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-dvospalna-strajjp-satin-kolir-svitlo-blakitnijj/</url>
-        <price_opt>2772</price_opt>
-        <price>3606</price>
+        <price_opt>2940</price_opt>
+        <price>3822</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93415,8 +93415,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2874</price_opt>
-        <price>3738</price>
+        <price_opt>3048</price_opt>
+        <price>3966</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93447,8 +93447,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-dvospalna-strajjp-satin-kolir-svitlo-blakitnijj/</url>
-        <price_opt>3024</price_opt>
-        <price>3936</price>
+        <price_opt>3210</price_opt>
+        <price>4176</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93479,8 +93479,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3126</price_opt>
-        <price>4068</price>
+        <price_opt>3312</price_opt>
+        <price>4308</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93511,8 +93511,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-ehvro-strajjp-satin-kolir-svitlo-blakitnijj/</url>
-        <price_opt>2838</price_opt>
-        <price>3690</price>
+        <price_opt>3006</price_opt>
+        <price>3912</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93543,8 +93543,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2934</price_opt>
-        <price>3816</price>
+        <price_opt>3108</price_opt>
+        <price>4044</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93575,8 +93575,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-ehvro-strajjp-satin-kolir-svitlo-blakitnijj/</url>
-        <price_opt>3090</price_opt>
-        <price>4020</price>
+        <price_opt>3276</price_opt>
+        <price>4260</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93607,8 +93607,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3186</price_opt>
-        <price>4146</price>
+        <price_opt>3378</price_opt>
+        <price>4392</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93639,8 +93639,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-simejjnijj-strajjp-satin-kolir-svitlo-blakitnijj/</url>
-        <price_opt>3576</price_opt>
-        <price>4650</price>
+        <price_opt>3792</price_opt>
+        <price>4932</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93671,8 +93671,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3672</price_opt>
-        <price>4776</price>
+        <price_opt>3894</price_opt>
+        <price>5064</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93703,8 +93703,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-simejjnijj-strajjp-satin-kolir-svitlo-blakitnijj/</url>
-        <price_opt>3828</price_opt>
-        <price>4980</price>
+        <price_opt>4056</price_opt>
+        <price>5274</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93735,8 +93735,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3924</price_opt>
-        <price>5106</price>
+        <price_opt>4158</price_opt>
+        <price>5406</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93767,8 +93767,8 @@
         <stock_quantity>1</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-ehvro-maksi-strajjp-satin-kolir-svitlo-blakitnijj/</url>
-        <price_opt>3204</price_opt>
-        <price>4170</price>
+        <price_opt>3396</price_opt>
+        <price>4416</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93799,8 +93799,8 @@
         <stock_quantity>1</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3306</price_opt>
-        <price>4302</price>
+        <price_opt>3504</price_opt>
+        <price>4560</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93831,8 +93831,8 @@
         <stock_quantity>1</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-ehvro-maksi-strajjp-satin-kolir-svitlo-blakitnijj/</url>
-        <price_opt>3456</price_opt>
-        <price>4494</price>
+        <price_opt>3666</price_opt>
+        <price>4770</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93863,8 +93863,8 @@
         <stock_quantity>1</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3558</price_opt>
-        <price>4626</price>
+        <price_opt>3768</price_opt>
+        <price>4902</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93895,8 +93895,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-polutorna-strajjp-satin-kolir-temno-sinijj/</url>
-        <price_opt>2592</price_opt>
-        <price>3372</price>
+        <price_opt>2748</price_opt>
+        <price>3576</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93927,8 +93927,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2688</price_opt>
-        <price>3498</price>
+        <price_opt>2850</price_opt>
+        <price>3708</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93959,8 +93959,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-polutorna-strajjp-satin-kolir-temno-sinijj/</url>
-        <price_opt>2844</price_opt>
-        <price>3702</price>
+        <price_opt>3012</price_opt>
+        <price>3918</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -93991,8 +93991,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2940</price_opt>
-        <price>3822</price>
+        <price_opt>3114</price_opt>
+        <price>4050</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94023,8 +94023,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-dvospalna-strajjp-satin-kolir-temno-sinijj/</url>
-        <price_opt>2772</price_opt>
-        <price>3606</price>
+        <price_opt>2940</price_opt>
+        <price>3822</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94055,8 +94055,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2874</price_opt>
-        <price>3738</price>
+        <price_opt>3048</price_opt>
+        <price>3966</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94087,8 +94087,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-dvospalna-strajjp-satin-kolir-temno-sinijj/</url>
-        <price_opt>3024</price_opt>
-        <price>3936</price>
+        <price_opt>3210</price_opt>
+        <price>4176</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94119,8 +94119,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3126</price_opt>
-        <price>4068</price>
+        <price_opt>3312</price_opt>
+        <price>4308</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94151,8 +94151,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-ehvro-strajjp-satin-kolir-temno-sinijj/</url>
-        <price_opt>2838</price_opt>
-        <price>3690</price>
+        <price_opt>3006</price_opt>
+        <price>3912</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94183,8 +94183,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2934</price_opt>
-        <price>3816</price>
+        <price_opt>3108</price_opt>
+        <price>4044</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94215,8 +94215,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-ehvro-strajjp-satin-kolir-temno-sinijj/</url>
-        <price_opt>3090</price_opt>
-        <price>4020</price>
+        <price_opt>3276</price_opt>
+        <price>4260</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94247,8 +94247,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3186</price_opt>
-        <price>4146</price>
+        <price_opt>3378</price_opt>
+        <price>4392</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94279,8 +94279,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-simejjnijj-strajjp-satin-kolir-temno-sinijj/</url>
-        <price_opt>3576</price_opt>
-        <price>4650</price>
+        <price_opt>3792</price_opt>
+        <price>4932</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94311,8 +94311,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3672</price_opt>
-        <price>4776</price>
+        <price_opt>3894</price_opt>
+        <price>5064</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94343,8 +94343,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-simejjnijj-strajjp-satin-kolir-temno-sinijj/</url>
-        <price_opt>3828</price_opt>
-        <price>4980</price>
+        <price_opt>4056</price_opt>
+        <price>5274</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94375,8 +94375,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3924</price_opt>
-        <price>5106</price>
+        <price_opt>4158</price_opt>
+        <price>5406</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94407,8 +94407,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-ehvro-maksi-strajjp-satin-kolir-temno-sinijj/</url>
-        <price_opt>3204</price_opt>
-        <price>4170</price>
+        <price_opt>3396</price_opt>
+        <price>4416</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94439,8 +94439,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3306</price_opt>
-        <price>4302</price>
+        <price_opt>3504</price_opt>
+        <price>4560</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94471,8 +94471,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-ehvro-maksi-strajjp-satin-kolir-temno-sinijj/</url>
-        <price_opt>3456</price_opt>
-        <price>4494</price>
+        <price_opt>3666</price_opt>
+        <price>4770</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94503,8 +94503,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3558</price_opt>
-        <price>4626</price>
+        <price_opt>3768</price_opt>
+        <price>4902</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94535,8 +94535,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-polutorna-strajjp-satin-kolir-korichnevijj/</url>
-        <price_opt>2592</price_opt>
-        <price>3372</price>
+        <price_opt>2748</price_opt>
+        <price>3576</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94567,8 +94567,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2688</price_opt>
-        <price>3498</price>
+        <price_opt>2850</price_opt>
+        <price>3708</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94599,8 +94599,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-polutorna-strajjp-satin-kolir-korichnevijj/</url>
-        <price_opt>2844</price_opt>
-        <price>3702</price>
+        <price_opt>3012</price_opt>
+        <price>3918</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94631,8 +94631,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2940</price_opt>
-        <price>3822</price>
+        <price_opt>3114</price_opt>
+        <price>4050</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94663,8 +94663,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-dvospalna-strajjp-satin-kolir-korichnevijj/</url>
-        <price_opt>2772</price_opt>
-        <price>3606</price>
+        <price_opt>2940</price_opt>
+        <price>3822</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94695,8 +94695,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2874</price_opt>
-        <price>3738</price>
+        <price_opt>3048</price_opt>
+        <price>3966</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94727,8 +94727,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-dvospalna-strajjp-satin-kolir-korichnevijj/</url>
-        <price_opt>3024</price_opt>
-        <price>3936</price>
+        <price_opt>3210</price_opt>
+        <price>4176</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94759,8 +94759,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3126</price_opt>
-        <price>4068</price>
+        <price_opt>3312</price_opt>
+        <price>4308</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94791,8 +94791,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-ehvro-strajjp-satin-kolir-korichnevijj/</url>
-        <price_opt>2838</price_opt>
-        <price>3690</price>
+        <price_opt>3006</price_opt>
+        <price>3912</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94823,8 +94823,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2934</price_opt>
-        <price>3816</price>
+        <price_opt>3108</price_opt>
+        <price>4044</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94855,8 +94855,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-ehvro-strajjp-satin-kolir-korichnevijj/</url>
-        <price_opt>3090</price_opt>
-        <price>4020</price>
+        <price_opt>3276</price_opt>
+        <price>4260</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94887,8 +94887,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3186</price_opt>
-        <price>4146</price>
+        <price_opt>3378</price_opt>
+        <price>4392</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94919,8 +94919,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-simejjnijj-strajjp-satin-kolir-korichnevijj/</url>
-        <price_opt>3576</price_opt>
-        <price>4650</price>
+        <price_opt>3792</price_opt>
+        <price>4932</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94951,8 +94951,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3672</price_opt>
-        <price>4776</price>
+        <price_opt>3894</price_opt>
+        <price>5064</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -94983,8 +94983,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-simejjnijj-strajjp-satin-kolir-korichnevijj/</url>
-        <price_opt>3828</price_opt>
-        <price>4980</price>
+        <price_opt>4056</price_opt>
+        <price>5274</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95015,8 +95015,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3924</price_opt>
-        <price>5106</price>
+        <price_opt>4158</price_opt>
+        <price>5406</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95047,8 +95047,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-ehvro-maksi-strajjp-satin-kolir-korichnevijj/</url>
-        <price_opt>3204</price_opt>
-        <price>4170</price>
+        <price_opt>3396</price_opt>
+        <price>4416</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95079,8 +95079,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3306</price_opt>
-        <price>4302</price>
+        <price_opt>3504</price_opt>
+        <price>4560</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95111,8 +95111,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-ehvro-maksi-strajjp-satin-kolir-korichnevijj/</url>
-        <price_opt>3456</price_opt>
-        <price>4494</price>
+        <price_opt>3666</price_opt>
+        <price>4770</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95143,8 +95143,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3558</price_opt>
-        <price>4626</price>
+        <price_opt>3768</price_opt>
+        <price>4902</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95175,8 +95175,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-polutorna-strajjp-satin-kolir-chornijj/</url>
-        <price_opt>2592</price_opt>
-        <price>3372</price>
+        <price_opt>2748</price_opt>
+        <price>3576</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95207,8 +95207,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2688</price_opt>
-        <price>3498</price>
+        <price_opt>2850</price_opt>
+        <price>3708</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95239,8 +95239,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-polutorna-strajjp-satin-kolir-chornijj/</url>
-        <price_opt>2844</price_opt>
-        <price>3702</price>
+        <price_opt>3012</price_opt>
+        <price>3918</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95271,8 +95271,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2940</price_opt>
-        <price>3822</price>
+        <price_opt>3114</price_opt>
+        <price>4050</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95303,8 +95303,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-dvospalna-strajjp-satin-kolir-chornijj/</url>
-        <price_opt>2772</price_opt>
-        <price>3606</price>
+        <price_opt>2940</price_opt>
+        <price>3822</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95335,8 +95335,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2874</price_opt>
-        <price>3738</price>
+        <price_opt>3048</price_opt>
+        <price>3966</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95367,8 +95367,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-dvospalna-strajjp-satin-kolir-chornijj/</url>
-        <price_opt>3024</price_opt>
-        <price>3936</price>
+        <price_opt>3210</price_opt>
+        <price>4176</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95399,8 +95399,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3126</price_opt>
-        <price>4068</price>
+        <price_opt>3312</price_opt>
+        <price>4308</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95431,8 +95431,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-ehvro-strajjp-satin-kolir-chornijj/</url>
-        <price_opt>2838</price_opt>
-        <price>3690</price>
+        <price_opt>3006</price_opt>
+        <price>3912</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95463,8 +95463,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2934</price_opt>
-        <price>3816</price>
+        <price_opt>3108</price_opt>
+        <price>4044</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95495,8 +95495,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-ehvro-strajjp-satin-kolir-chornijj/</url>
-        <price_opt>3090</price_opt>
-        <price>4020</price>
+        <price_opt>3276</price_opt>
+        <price>4260</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95527,8 +95527,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3186</price_opt>
-        <price>4146</price>
+        <price_opt>3378</price_opt>
+        <price>4392</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95559,8 +95559,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-simejjnijj-strajjp-satin-kolir-chornijj/</url>
-        <price_opt>3576</price_opt>
-        <price>4650</price>
+        <price_opt>3792</price_opt>
+        <price>4932</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95591,8 +95591,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3672</price_opt>
-        <price>4776</price>
+        <price_opt>3894</price_opt>
+        <price>5064</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95623,8 +95623,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-simejjnijj-strajjp-satin-kolir-chornijj/</url>
-        <price_opt>3828</price_opt>
-        <price>4980</price>
+        <price_opt>4056</price_opt>
+        <price>5274</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95655,8 +95655,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3924</price_opt>
-        <price>5106</price>
+        <price_opt>4158</price_opt>
+        <price>5406</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95687,8 +95687,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-ehvro-maksi-strajjp-satin-kolir-chornijj/</url>
-        <price_opt>3204</price_opt>
-        <price>4170</price>
+        <price_opt>3396</price_opt>
+        <price>4416</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95719,8 +95719,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3306</price_opt>
-        <price>4302</price>
+        <price_opt>3504</price_opt>
+        <price>4560</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95751,8 +95751,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-ehvro-maksi-strajjp-satin-kolir-chornijj/</url>
-        <price_opt>3456</price_opt>
-        <price>4494</price>
+        <price_opt>3666</price_opt>
+        <price>4770</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95783,8 +95783,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3558</price_opt>
-        <price>4626</price>
+        <price_opt>3768</price_opt>
+        <price>4902</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95815,8 +95815,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-polutorna-ranfors-kolir-temno-bezhevijj/</url>
-        <price_opt>2034</price_opt>
-        <price>2646</price>
+        <price_opt>2160</price_opt>
+        <price>2808</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95847,8 +95847,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2106</price_opt>
-        <price>2742</price>
+        <price_opt>2232</price_opt>
+        <price>2904</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95879,8 +95879,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-polutorna-ranfors-kolir-temno-bezhevijj/</url>
-        <price_opt>2286</price_opt>
-        <price>2976</price>
+        <price_opt>2424</price_opt>
+        <price>3156</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95911,8 +95911,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2358</price_opt>
-        <price>3066</price>
+        <price_opt>2502</price_opt>
+        <price>3258</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95943,8 +95943,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-dvospalna-ranfors-kolir-temno-bezhevijj/</url>
-        <price_opt>2322</price_opt>
-        <price>3024</price>
+        <price_opt>2460</price_opt>
+        <price>3198</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -95975,8 +95975,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2394</price_opt>
-        <price>3114</price>
+        <price_opt>2538</price_opt>
+        <price>3300</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96007,8 +96007,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-dvospalna-ranfors-kolir-temno-bezhevijj/</url>
-        <price_opt>2574</price_opt>
-        <price>3348</price>
+        <price_opt>2730</price_opt>
+        <price>3552</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96039,8 +96039,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2646</price_opt>
-        <price>3444</price>
+        <price_opt>2802</price_opt>
+        <price>3648</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96071,8 +96071,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-ehvro-ranfors-kolir-temno-bezhevijj/</url>
-        <price_opt>2526</price_opt>
-        <price>3288</price>
+        <price_opt>2682</price_opt>
+        <price>3492</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96103,8 +96103,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2598</price_opt>
-        <price>3378</price>
+        <price_opt>2754</price_opt>
+        <price>3582</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96135,8 +96135,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-ehvro-ranfors-kolir-temno-bezhevijj/</url>
-        <price_opt>2778</price_opt>
-        <price>3612</price>
+        <price_opt>2946</price_opt>
+        <price>3834</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96167,8 +96167,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2850</price_opt>
-        <price>3708</price>
+        <price_opt>3024</price_opt>
+        <price>3936</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96199,8 +96199,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-simejjnijj-ranfors-kolir-temno-bezhevijj/</url>
-        <price_opt>3024</price_opt>
-        <price>3936</price>
+        <price_opt>3204</price_opt>
+        <price>4170</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96231,8 +96231,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3090</price_opt>
-        <price>4020</price>
+        <price_opt>3276</price_opt>
+        <price>4260</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96263,8 +96263,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-simejjnijj-ranfors-kolir-temno-bezhevijj/</url>
-        <price_opt>3276</price_opt>
-        <price>4260</price>
+        <price_opt>3468</price_opt>
+        <price>4512</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96295,8 +96295,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3342</price_opt>
-        <price>4350</price>
+        <price_opt>3546</price_opt>
+        <price>4614</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96327,8 +96327,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-polutorna-ranfors-kolir-korichnevijj/</url>
-        <price_opt>2034</price_opt>
-        <price>2646</price>
+        <price_opt>2160</price_opt>
+        <price>2808</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96359,8 +96359,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2106</price_opt>
-        <price>2742</price>
+        <price_opt>2232</price_opt>
+        <price>2904</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96391,8 +96391,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-polutorna-ranfors-kolir-korichnevijj/</url>
-        <price_opt>2286</price_opt>
-        <price>2976</price>
+        <price_opt>2424</price_opt>
+        <price>3156</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96423,8 +96423,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2358</price_opt>
-        <price>3066</price>
+        <price_opt>2502</price_opt>
+        <price>3258</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96455,8 +96455,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-dvospalna-ranfors-kolir-korichnevijj/</url>
-        <price_opt>2322</price_opt>
-        <price>3024</price>
+        <price_opt>2460</price_opt>
+        <price>3198</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96487,8 +96487,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2394</price_opt>
-        <price>3114</price>
+        <price_opt>2538</price_opt>
+        <price>3300</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96519,8 +96519,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-dvospalna-ranfors-kolir-korichnevijj/</url>
-        <price_opt>2574</price_opt>
-        <price>3348</price>
+        <price_opt>2730</price_opt>
+        <price>3552</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96551,8 +96551,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2646</price_opt>
-        <price>3444</price>
+        <price_opt>2802</price_opt>
+        <price>3648</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96583,8 +96583,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-ehvro-ranfors-kolir-korichnevijj/</url>
-        <price_opt>2526</price_opt>
-        <price>3288</price>
+        <price_opt>2682</price_opt>
+        <price>3492</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96615,8 +96615,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2598</price_opt>
-        <price>3378</price>
+        <price_opt>2754</price_opt>
+        <price>3582</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96647,8 +96647,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-ehvro-ranfors-kolir-korichnevijj/</url>
-        <price_opt>2778</price_opt>
-        <price>3612</price>
+        <price_opt>2946</price_opt>
+        <price>3834</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96679,8 +96679,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2850</price_opt>
-        <price>3708</price>
+        <price_opt>3024</price_opt>
+        <price>3936</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96711,8 +96711,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-simejjnijj-ranfors-kolir-korichnevijj/</url>
-        <price_opt>3024</price_opt>
-        <price>3936</price>
+        <price_opt>3204</price_opt>
+        <price>4170</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96743,8 +96743,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3090</price_opt>
-        <price>4020</price>
+        <price_opt>3276</price_opt>
+        <price>4260</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96775,8 +96775,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-simejjnijj-ranfors-kolir-korichnevijj/</url>
-        <price_opt>3276</price_opt>
-        <price>4260</price>
+        <price_opt>3468</price_opt>
+        <price>4512</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96807,8 +96807,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3342</price_opt>
-        <price>4350</price>
+        <price_opt>3546</price_opt>
+        <price>4614</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96839,8 +96839,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-polutorna-ranfors-kolir-lavandovijj/</url>
-        <price_opt>2034</price_opt>
-        <price>2646</price>
+        <price_opt>2160</price_opt>
+        <price>2808</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96871,8 +96871,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2106</price_opt>
-        <price>2742</price>
+        <price_opt>2232</price_opt>
+        <price>2904</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96903,8 +96903,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-polutorna-ranfors-kolir-lavandovijj/</url>
-        <price_opt>2286</price_opt>
-        <price>2976</price>
+        <price_opt>2424</price_opt>
+        <price>3156</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96935,8 +96935,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2358</price_opt>
-        <price>3066</price>
+        <price_opt>2502</price_opt>
+        <price>3258</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96967,8 +96967,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-dvospalna-ranfors-kolir-lavandovijj/</url>
-        <price_opt>2322</price_opt>
-        <price>3024</price>
+        <price_opt>2460</price_opt>
+        <price>3198</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -96999,8 +96999,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2394</price_opt>
-        <price>3114</price>
+        <price_opt>2538</price_opt>
+        <price>3300</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97031,8 +97031,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-dvospalna-ranfors-kolir-lavandovijj/</url>
-        <price_opt>2574</price_opt>
-        <price>3348</price>
+        <price_opt>2730</price_opt>
+        <price>3552</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97063,8 +97063,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2646</price_opt>
-        <price>3444</price>
+        <price_opt>2802</price_opt>
+        <price>3648</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97095,8 +97095,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-ehvro-ranfors-kolir-lavandovijj/</url>
-        <price_opt>2526</price_opt>
-        <price>3288</price>
+        <price_opt>2682</price_opt>
+        <price>3492</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97127,8 +97127,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2598</price_opt>
-        <price>3378</price>
+        <price_opt>2754</price_opt>
+        <price>3582</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97159,8 +97159,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-ehvro-ranfors-kolir-lavandovijj/</url>
-        <price_opt>2778</price_opt>
-        <price>3612</price>
+        <price_opt>2946</price_opt>
+        <price>3834</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97191,8 +97191,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2850</price_opt>
-        <price>3708</price>
+        <price_opt>3024</price_opt>
+        <price>3936</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97223,8 +97223,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-simejjnijj-ranfors-kolir-lavandovijj/</url>
-        <price_opt>3024</price_opt>
-        <price>3936</price>
+        <price_opt>3204</price_opt>
+        <price>4170</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97255,8 +97255,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3090</price_opt>
-        <price>4020</price>
+        <price_opt>3276</price_opt>
+        <price>4260</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97287,8 +97287,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-simejjnijj-ranfors-kolir-lavandovijj/</url>
-        <price_opt>3276</price_opt>
-        <price>4260</price>
+        <price_opt>3468</price_opt>
+        <price>4512</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97319,8 +97319,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3342</price_opt>
-        <price>4350</price>
+        <price_opt>3546</price_opt>
+        <price>4614</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97351,8 +97351,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-polutorna-ranfors-kolir-bezhevijj/</url>
-        <price_opt>2034</price_opt>
-        <price>2646</price>
+        <price_opt>2160</price_opt>
+        <price>2808</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97383,8 +97383,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2106</price_opt>
-        <price>2742</price>
+        <price_opt>2232</price_opt>
+        <price>2904</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97415,8 +97415,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-polutorna-ranfors-kolir-bezhevijj/</url>
-        <price_opt>2286</price_opt>
-        <price>2976</price>
+        <price_opt>2424</price_opt>
+        <price>3156</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97447,8 +97447,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2358</price_opt>
-        <price>3066</price>
+        <price_opt>2502</price_opt>
+        <price>3258</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97479,8 +97479,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-dvospalna-ranfors-kolir-bezhevijj/</url>
-        <price_opt>2322</price_opt>
-        <price>3024</price>
+        <price_opt>2460</price_opt>
+        <price>3198</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97511,8 +97511,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2394</price_opt>
-        <price>3114</price>
+        <price_opt>2538</price_opt>
+        <price>3300</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97543,8 +97543,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-dvospalna-ranfors-kolir-bezhevijj/</url>
-        <price_opt>2574</price_opt>
-        <price>3348</price>
+        <price_opt>2730</price_opt>
+        <price>3552</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97575,8 +97575,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2646</price_opt>
-        <price>3444</price>
+        <price_opt>2802</price_opt>
+        <price>3648</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97607,8 +97607,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-ehvro-ranfors-kolir-bezhevijj/</url>
-        <price_opt>2526</price_opt>
-        <price>3288</price>
+        <price_opt>2682</price_opt>
+        <price>3492</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97639,8 +97639,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2598</price_opt>
-        <price>3378</price>
+        <price_opt>2754</price_opt>
+        <price>3582</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97671,8 +97671,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-ehvro-ranfors-kolir-bezhevijj/</url>
-        <price_opt>2778</price_opt>
-        <price>3612</price>
+        <price_opt>2946</price_opt>
+        <price>3834</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97703,8 +97703,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2850</price_opt>
-        <price>3708</price>
+        <price_opt>3024</price_opt>
+        <price>3936</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97735,8 +97735,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-simejjnijj-ranfors-kolir-bezhevijj/</url>
-        <price_opt>3024</price_opt>
-        <price>3936</price>
+        <price_opt>3204</price_opt>
+        <price>4170</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97767,8 +97767,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3090</price_opt>
-        <price>4020</price>
+        <price_opt>3276</price_opt>
+        <price>4260</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97799,8 +97799,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-simejjnijj-ranfors-kolir-bezhevijj/</url>
-        <price_opt>3276</price_opt>
-        <price>4260</price>
+        <price_opt>3468</price_opt>
+        <price>4512</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97831,8 +97831,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3342</price_opt>
-        <price>4350</price>
+        <price_opt>3546</price_opt>
+        <price>4614</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97863,8 +97863,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-polutorna-varena-bavovna-kolir-temno-sinijj/</url>
-        <price_opt>2526</price_opt>
-        <price>3288</price>
+        <price_opt>2682</price_opt>
+        <price>3492</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97896,8 +97896,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2610</price_opt>
-        <price>3396</price>
+        <price_opt>2772</price_opt>
+        <price>3606</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97929,8 +97929,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-na-rezinci-polutorna-varena-bavovna-kolir-temno-sinijj/</url>
-        <price_opt>2778</price_opt>
-        <price>3612</price>
+        <price_opt>2946</price_opt>
+        <price>3834</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97962,8 +97962,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2862</price_opt>
-        <price>3726</price>
+        <price_opt>3036</price_opt>
+        <price>3948</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -97995,8 +97995,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-dvospalna-varena-bavovna-kolir-temno-sinijj/</url>
-        <price_opt>2712</price_opt>
-        <price>3528</price>
+        <price_opt>2874</price_opt>
+        <price>3738</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -98028,8 +98028,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2796</price_opt>
-        <price>3636</price>
+        <price_opt>2964</price_opt>
+        <price>3858</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -98061,8 +98061,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-ehvro-varena-bavovna-kolir-temno-sinijj/</url>
-        <price_opt>2772</price_opt>
-        <price>3606</price>
+        <price_opt>2940</price_opt>
+        <price>3822</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -98094,8 +98094,8 @@
         <stock_quantity>20</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>2856</price_opt>
-        <price>3714</price>
+        <price_opt>3030</price_opt>
+        <price>3942</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -98127,8 +98127,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url>https://richmangroup.com.ua/product/komplekt-postilnoi-bilizni-simejjnijj-varena-bavovna-kolir-temno-sinijj/</url>
-        <price_opt>3330</price_opt>
-        <price>4332</price>
+        <price_opt>3528</price_opt>
+        <price>4590</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
@@ -98160,8 +98160,8 @@
         <stock_quantity>10</stock_quantity>
         <origin>Україна</origin>
         <url></url>
-        <price_opt>3414</price_opt>
-        <price>4440</price>
+        <price_opt>3618</price_opt>
+        <price>4704</price>
         <currencyId>UAH</currencyId>
         <categoryId>12</categoryId>
         <vendor>Richman</vendor>
