@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-25 10:30">
+<yml_catalog date="2026-11-26 11:27">
   <shop>
     <name>Richman</name>
     <company>Richman</company>
@@ -90,7 +90,7 @@
       <video></video>
       </offer>
         <offer id="ADD0002354" available="true">
-        <stock_quantity>12</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-blast-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-sitka-chorna/</url>
         <price_opt>3126</price_opt>
@@ -377,7 +377,7 @@
       <video></video>
       </offer>
         <offer id="R00000046588" available="true">
-        <stock_quantity>148</stock_quantity>
+        <stock_quantity>138</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-dekart-komplektaciya-khrom-mekhanizm-synshro-obbivka-sitka-chorna/</url>
         <price_opt>6558</price_opt>
@@ -577,7 +577,7 @@
       <video></video>
       </offer>
         <offer id="R00000052543" available="true">
-        <stock_quantity>77</stock_quantity>
+        <stock_quantity>76</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-ergostar-komplektaciya-khrom-mekhanizm-synchro-obbivka-sitka-chorna/</url>
         <price_opt>14070</price_opt>
@@ -1501,7 +1501,7 @@
       <video></video>
       </offer>
         <offer id="R00000048369" available="true">
-        <stock_quantity>153</stock_quantity>
+        <stock_quantity>152</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-skajjlajjn-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-sira/</url>
         <price_opt>5598</price_opt>
@@ -1669,7 +1669,7 @@
       <video></video>
       </offer>
         <offer id="ADD0003214" available="true">
-        <stock_quantity>125</stock_quantity>
+        <stock_quantity>110</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-solana-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-sitka-chorna/</url>
         <price_opt>4362</price_opt>
@@ -2263,7 +2263,7 @@
       <video></video>
       </offer>
         <offer id="ADD0002750" available="true">
-        <stock_quantity>33</stock_quantity>
+        <stock_quantity>31</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-bingo-komplektaciya-khrom-mekhanizm-piastra-obbivka-bezhevijj/</url>
         <price_opt>3150</price_opt>
@@ -2309,7 +2309,7 @@
       <video></video>
       </offer>
         <offer id="ADD0002748" available="true">
-        <stock_quantity>55</stock_quantity>
+        <stock_quantity>54</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-bingo-komplektaciya-khrom-mekhanizm-piastra-obbivka-dzhins/</url>
         <price_opt>3150</price_opt>
@@ -4107,7 +4107,7 @@
       <video></video>
       </offer>
         <offer id="R00000041853" available="true">
-        <stock_quantity>145</stock_quantity>
+        <stock_quantity>144</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-mankhetten-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-chorna/</url>
         <price_opt>8694</price_opt>
@@ -4167,7 +4167,7 @@
       <video></video>
       </offer>
         <offer id="ADD0003113" available="true">
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-mia-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-blakitnijj/</url>
         <price_opt>3180</price_opt>
@@ -4211,7 +4211,7 @@
       <video></video>
       </offer>
         <offer id="R00000040009" available="true">
-        <stock_quantity>8</stock_quantity>
+        <stock_quantity>9</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-mia-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-rozhevijj/</url>
         <price_opt>3180</price_opt>
@@ -4308,7 +4308,7 @@
       <video></video>
       </offer>
         <offer id="R00000042322" available="true">
-        <stock_quantity>14</stock_quantity>
+        <stock_quantity>15</stock_quantity>
         <origin>Import</origin>
         <url>https://richmangroup.com.ua/product/krislo-premio-komplektaciya-pl-rich-mekhanizm-synchro-obbivka-shkira-split-temno-korichneva/</url>
         <price_opt>20358</price_opt>
@@ -37694,7 +37694,7 @@
       <video></video>
       </offer>
         <offer id="R00000000288" available="true">
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/divan-vizit-komplektaciya-podvijjnijj-obbivka-flajj-2230/</url>
         <price_opt>14022</price_opt>
@@ -39217,8 +39217,8 @@
         <param name="Об'єм пакування:">1,05 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000030970" available="true">
-        <stock_quantity>1</stock_quantity>
+        <offer id="R00000030970" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/divan-kanzas-komplektaciya-podvijjnijj-na-derevyanikh-nizhkakh-obbivka-flajj-2230/</url>
         <price_opt>10146</price_opt>
@@ -46649,7 +46649,7 @@
       <video></video>
       </offer>
         <offer id="R00000047326" available="true">
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/divan-ofis-komplektaciya-podvijjnijj-zi-spinkoyu-ta-pidlokitnikami-obbivka-rokki-100/</url>
         <price_opt>11064</price_opt>
@@ -51376,7 +51376,7 @@
       <video></video>
       </offer>
         <offer id="R00000029655" available="true">
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/divan-spejjs-komplektaciya-podvijjnijj-na-derevyanikh-nizhkakh-venge-obbivka-flajj-2230/</url>
         <price_opt>10416</price_opt>
@@ -57891,8 +57891,8 @@
         <param name="Об'єм упаковки:">0,43 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000049862" available="true">
-        <stock_quantity>2</stock_quantity>
+        <offer id="R00000049862" available="false">
+        <stock_quantity>0</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-alberto-komplektaciya-khrom-p1-mekhanizm-m-1-tilt-obbivka-rokki-100/</url>
         <price_opt>9666</price_opt>
@@ -58034,7 +58034,7 @@
       <video></video>
       </offer>
         <offer id="R00000049864" available="true">
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-alberto-komplektaciya-khrom-p1-mekhanizm-m-1-tilt-obbivka-flai%cc%86-2230/</url>
         <price_opt>9666</price_opt>
@@ -60906,7 +60906,7 @@
       <video></video>
       </offer>
         <offer id="R00000049868" available="true">
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-bonus-yu-komplektaciya-khrom-p3-mekhanizm-m-1-tilt-obbivka-medzhik-dark-grei%cc%86/</url>
         <price_opt>6414</price_opt>
@@ -61047,7 +61047,7 @@
       <video></video>
       </offer>
         <offer id="R00000049870" available="true">
-        <stock_quantity>19</stock_quantity>
+        <stock_quantity>18</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-bonus-yu-komplektaciya-khrom-p3-mekhanizm-m-1-tilt-obbivka-rokki-100/</url>
         <price_opt>6414</price_opt>
@@ -64510,8 +64510,8 @@
         <param name="Об'єм упаковки:">0,43 м3</param>
       <video></video>
       </offer>
-        <offer id="R00000059221" available="false">
-        <stock_quantity>0</stock_quantity>
+        <offer id="R00000059221" available="true">
+        <stock_quantity>2</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-valensiya-komplektaciya-khrom-p4-mekhanizm-m-2-anyfix-obbivka-shkira-lyuks-kombinovana-chorna/</url>
         <price_opt>17430</price_opt>
@@ -71402,7 +71402,7 @@
       <video></video>
       </offer>
         <offer id="R00000052866" available="true">
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>9</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-mankhetten-yu-komplektaciya-khrom-p2-mekhanizm-m-1-tilt-obbivka-salviya-15/</url>
         <price_opt>7728</price_opt>
@@ -77006,7 +77006,7 @@
       <video></video>
       </offer>
         <offer id="R00000036994" available="true">
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <origin>Domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-foksi-komplektaciya-plastik-rich-mekhanizm-m-1-tilt-obbivka-medzhik-dk-grejj/</url>
         <price_opt>5904</price_opt>
@@ -78185,7 +78185,7 @@
       <video></video>
       </offer>
         <offer id="R00000036865" available="true">
-        <stock_quantity>7</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <origin>Express_domestik</origin>
         <url>https://richmangroup.com.ua/product/krislo-yuta-yu-komplektaciya-khrom-mekhanizm-m-1-tilt-obbivka-flajj-2230/</url>
         <price_opt>5520</price_opt>
